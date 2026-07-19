@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./Program
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Program/chroma_storage:/app/chroma_storage
+      - ./baza.db:/app/baza.db
+
+
+  frontend:
+    build: ./Ai-zakonik
+    ports:
+      - "5173:5173"
+    depends_on: 
+      - backend

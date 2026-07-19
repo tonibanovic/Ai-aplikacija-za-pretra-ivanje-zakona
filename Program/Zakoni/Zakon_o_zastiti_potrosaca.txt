@@ -1,0 +1,1277 @@
+ZAKON O ZAŠTITI POTROŠAÈA
+
+DIO PRVI   TEMELJNE ODREDBE
+Predmet Zakona
+Èlanak 1.
+Ovim se Zakonom ureðuje zaštita osnovnih prava potrošaèa pri kupnji proizvoda, kao i pri drugim oblicima stjecanja proizvoda na tržištu, i to:
+1. pravo na zaštitu ekonomskih interesa potrošaèa
+2. pravo na zaštitu od opasnosti za život, zdravlje i imovinu
+3. pravo na pravnu zaštitu potrošaèa
+4. pravo na informiranje i izobrazbu potrošaèa
+5. pravo na udruživanje potrošaèa u svrhu zaštite njihovih interesa
+6. pravo na predstavljanje potrošaèa i sudjelovanje predstavnika potrošaèa u radu tijela koja rješavaju pitanja od njihova interesa.
+Usklaðivanje s pravnim aktima Europske unije
+Èlanak 2.
+Ovim se Zakonom u hrvatsko zakonodavstvo preuzimaju sljedeæi akti Europske unije:
+1. Direktiva Vijeæa 93/13/EEZ od 5. travnja 1993. o nepoštenim uvjetima u potrošaèkim ugovorima (SL L 95, 21. 4. 1993.)
+2. Direktiva 98/6/EZ Europskog parlamenta i Vijeæa od 16. veljaèe 1998. o zaštiti potrošaèa prilikom isticanja cijena proizvoda ponuðenih potrošaèima (SL L 80, 18. 3. 1998.)
+3. Direktiva 2002/65/EZ Europskog parlamenta i Vijeæa od 23. rujna 2002. o trgovanju na daljinu financijskim uslugama koje su namijenjene potrošaèima i o izmjeni Direktive Vijeæa 90/619/EEZ i direktiva 97/7/EZ i 98/27/EZ (SL L 271, 9. 10. 2002.)
+4. Direktiva 2005/29/EZ Europskog parlamenta i Vijeæa od 11. svibnja 2005. o nepoštenoj poslovnoj praksi poslovnog subjekta u odnosu prema potrošaèu na unutarnjem tržištu i o izmjeni Direktive Vijeæa 84/450/EEZ, direktiva 97/7/EZ, 98/27/EZ i 2002/65/EZ Europskog parlamenta i Vijeæa, kao i Uredbe (EZ) br. 2006/2004 Europskog parlamenta i Vijeæa (»Direktiva o nepoštenoj poslovnoj praksi«) (Tekst znaèajan za EGP) (SL L 149, 11. 6. 2005.)
+5. Direktiva 2008/122/EZ Europskog parlamenta i Vijeæa od 14. sijeènja 2009. o zaštiti potrošaèa u odnosu na odreðene aspekte ugovora o pravu na vremenski ogranièenu uporabu nekretnine, o dugoroènim proizvodima za odmor, preprodaji i razmjeni (Tekst znaèajan za EGP) (SL L 33, 3. 2. 2009.)
+6. Direktiva 2009/22/EZ Europskog parlamenta i Vijeæa od 23. travnja 2009. o sudskim nalozima za zaštitu interesa potrošaèa (kodificirana verzija) (Tekst znaèajan za EGP) (SL L 110, 1. 5. 2009.)
+7. Direktiva 2011/83/EU Europskog parlamenta i Vijeæa od 25. listopada 2011. o pravima potrošaèa, izmjeni Direktive Vijeæa 93/13/EEZ i Direktive 1999/44/EZ Europskog parlamenta i Vijeæa te o stavljanju izvan snage Direktive Vijeæa 85/577/EEZ i Direktive 97/7/EZ Europskog parlamenta i Vijeæa (Tekst znaèajan za EGP) (SL L 304, 22. 11. 2011.)
+8. Direktiva (EU) 2019/770 Europskog parlamenta i Vijeæa od 20. svibnja 2019. o odreðenim aspektima ugovora o isporuci digitalnog sadržaja i digitalnih usluga (Tekst znaèajan za EGP) (SL L 136, 22. 5. 2019.)
+9. Direktiva (EU) 2019/771 Europskog parlamenta i Vijeæa od 20. svibnja 2019. o odreðenim aspektima ugovora o kupoprodaji robe, izmjeni Uredbe (EU) 2017/2394 i Direktive 2009/22/EZ te stavljanju izvan snage Direktive 1999/44/EZ (Tekst znaèajan za EGP) (SL L 136, 22. 5. 2019.)
+10. Direktiva (EU) 2019/2161 Europskog parlamenta i Vijeæa od 27. studenoga 2019. o izmjeni Direktive Vijeæa 93/13/EEZ i direktiva 98/6/EZ, 2005/29/EZ te 2011/83/EU Europskog parlamenta i Vijeæa u pogledu boljeg izvršavanja i modernizacije pravila Unije o zaštiti potrošaèa (Tekst znaèajan za EGP) (SL L 328, 18. 12. 2019.).
+Odnos prema drugim zakonima
+Èlanak 3.
+(1) Ako su odredbe ovoga Zakona u suprotnosti s odredbama zakona kojima se ureðuju pojedina upravna podruèja, na odnose izmeðu potrošaèa i trgovaca primarno se primjenjuju odredbe tih posebnih zakona.
+(2) Ako posebnim zakonima iz stavka 1. ovoga èlanka ili ovim Zakonom nije drukèije odreðeno, na obveznopravne odnose izmeðu potrošaèa i trgovca primjenjuju se odredbe propisa kojim se ureðuju obveznopravni odnosi.
+Pojmovi
+Èlanak 4.
+Pojedini pojmovi u smislu ovoga Zakona imaju sljedeæe znaèenje:
+1. cijena za jedinicu mjere je konaèna cijena u službenoj valuti Republike Hrvatske, za jedan kilogram, jednu litru, jedan metar, jedan èetvorni metar ili jedan kubni metar proizvoda ili neka druga jedinica kolièine koja se opæenito ili uobièajeno koristi kod prodaje proizvoda na podruèju Republike Hrvatske, a koja ukljuèuje poreze i druga javna davanja
+2. digitalna usluga je usluga kojom se potrošaèu omoguæuje stvaranje, obrada i pohrana podataka u digitalnom obliku ili pristup njima; ili usluga kojom se omoguæuje dijeljenje ili bilo koja druga interakcija s podacima u digitalnom obliku koje uèitava ili stvara potrošaè ili drugi korisnici te usluge, kao što su usluge za dijeljenje videozapisa i audiozapisa te druge usluge pohranjivanja datoteka na poslužitelje (file hosting), pohrana podataka u oblaku, elektronièka pošta, društveni mediji i aplikacije u oblaku
+3. digitalni sadržaj jesu podaci koji se proizvode i isporuèuju u digitalnom obliku
+4. financijska usluga je bankovna usluga, usluga kreditiranja, usluga osiguranja, usluga dobrovoljnog mirovinskog osiguranja, investicijska usluga ili platna usluga
+5. funkcionalnost je moguænost digitalnog sadržaja ili digitalne usluge izvršavati funkcije s obzirom na svoju svrhu
+6. internetsko tržište je usluga kojom se upotrebom softvera, ukljuèujuæi mrežne stranice, dio mrežnih stranica ili aplikacija kojima upravlja trgovac ili kojima se upravlja u njegovo ime, potrošaèima omoguæuje sklapanje ugovora na daljinu s drugim trgovcima ili potrošaèima
+7. interoperabilnost je sposobnost digitalnog sadržaja ili digitalne usluge funkcionirati s hardverom ili softverom razlièitim od onih pomoæu kojih se obièno koriste digitalni sadržaj ili digitalne usluge iste vrste
+8. javna dražba je prodaja kod koje trgovac nudi proizvode potrošaèima u okviru koje potrošaèi osobno sudjeluju ili imaju moguænost osobno sudjelovati, a koja se provodi kroz transparentan postupak nadmetanja koji provodi voditelj dražbe, a u kojem je najuspješniji sudionik dražbe obvezan kupiti proizvod
+9. komercijalno jamstvo je svaka obveza trgovca ili proizvoðaèa koju, osim odgovornosti za materijalne nedostatke stvari, oni preuzimaju, a temeljem koje su dužni izvršiti povrat plaæenog ili zamijeniti, popraviti odnosno servisirati robu ako roba ne odgovara specifikacijama ili zahtjevima postavljenima u ispravi o jamstvu odnosno u oglašavanju dostupnom prije ili u vrijeme sklapanja ugovora
+10. kompatibilnost je sposobnost digitalnog sadržaja ili digitalne usluge djelovati s hardverom ili softverom pomoæu kojih se obièno koriste digitalni sadržaj ili digitalne usluge iste vrste, a da taj digitalni sadržaj ili digitalnu uslugu pritom nije potrebno konvertirati
+11. maloprodajna cijena je konaèna cijena u službenoj valuti Republike Hrvatske za pojedini proizvod odnosno odreðenu kolièinu proizvoda, ukljuèujuæi poreze i druga javna davanja
+12. nedopušteni utjecaj je iskorištavanje premoæi u odnosu prema potrošaèu, i to uporabom pritiska, bez obzira na to jesu li pritom uporabljene sila ili prijetnja, na naèin kojim se u znatnoj mjeri ogranièava sposobnost potrošaèa da donese odluku utemeljenu na potpunoj obavijesti (informiranu odluku)
+13. nositelj pravila postupanja trgovaca je svaki subjekt, ukljuèujuæi pojedinog trgovca ili skupinu trgovaca, koji je odgovoran za sastavljanje i izmjenu pravila postupanja i/ili nadzor nad provoðenjem tih pravila od strane onih koji su se obvezali provoditi ga
+14. odluka o kupnji je svaka odluka koju donosi potrošaè, a koja se odnosi na to hoæe li, kako i pod kojim uvjetima kupovati, hoæe li cijenu platiti u cijelosti ili u obrocima, hoæe li proizvod zadržati ili njime dalje raspolagati, hoæe li se koristiti pravima koja ima na temelju ugovora, bez obzira na to je li potrošaè odluèio djelovati ili suzdržati se od djelovanja
+15. operator sredstava daljinske komunikacije je bilo koja osoba èiji posao, zanimanje ili djelatnost ukljuèuje i omoguæavanje trgovcu uporabu jednog ili više sredstava daljinske komunikacije
+16. osobni podaci jesu svi podaci kako su ureðeni èlankom 4. toèkom 1. Uredbe (EU) 2016/679 Europskog parlamenta i Vijeæa od 27. travnja 2016. o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opæa uredba o zaštiti podataka) (Tekst znaèajan za EGP) (SL L 119, 4. 5. 2016.)
+17. oznaèavanje je navoðenje bilo koje rijeèi, podataka, trgovaèkih naziva, žiga, slikovnog prikaza ili simbola koji se odnose na proizvod, a nalazi se na proizvodu, ambalaži, obavijesti, etiketi ili privjesnici koji prate ili se odnose na taj proizvod
+18. pisani prigovor potrošaèa je prigovor kojim potrošaè iznosi svoje nezadovoljstvo u odnosu na kupljenu robu, pruženu uslugu ili poslovanje trgovca s potrošaèem, koji potrošaè upuæuje trgovcu na trajnom mediju ili sredstvom mrežne komunikacije koje omoguæuje pohranu vremena i sadržaja komunikacije, na trajnom mediju, ako je trgovac omoguæio takav oblik komunikacije
+19. poslovna praksa trgovca prema potrošaèu (u daljnjem tekstu: poslovna praksa) je svaka radnja, propuštanje, naèin ponašanja ili predstavljanja, poslovna komunikacija, ukljuèujuæi oglašavanje i stavljanje proizvoda na tržište, koju je poduzeo trgovac, a izravno je povezana s promidžbom, prodajom ili isporukom proizvoda potrošaèu
+20. poslovne prostorije jesu prodajni prostor u nekretnini u kojem trgovac trajno obavlja svoju djelatnost odnosno prodajni prostor u pokretnini u kojem trgovac uobièajeno obavlja svoju djelatnost
+21. potrošaè je svaka fizièka osoba koja sklapa pravni posao ili djeluje na tržištu izvan svoje trgovaèke, poslovne, obrtnièke ili profesionalne djelatnosti
+22. povezani ugovor je ugovor kojim se potrošaèu pružaju usluge povezane s ugovorom:
+– o pravu na vremenski ogranièenu uporabu (timeshare) ili
+– o dugotrajnom turistièkom proizvodu ili
+– sklopljenim na daljinu ili
+– sklopljenim izvan poslovnih prostorija,
+a koje pruža trgovac ili treæa osoba, na temelju dogovora izmeðu treæe osobe i trgovca
+23. poziv na kupnju je svaki oblik poslovne komunikacije kojim se navode osnovna obilježja proizvoda i njegova cijena, i to na naèin koji je prikladan sredstvu poslovne komunikacije koje se koristi, a èime se potrošaèu daje moguænost kupnje proizvoda
+24. pravila postupanja trgovaca jesu sporazum ili skup pravila koji nije donesen u obliku zakona ili nekog drugog propisa, a kojim je ureðen naèin postupanja trgovaca koji su se obvezali poštovati ta pravila postupanja u odnosu na jednu ili više poslovnih praksi ili gospodarskih sektora
+25. profesionalna pažnja je standard strukovnih sposobnosti i stupanj pažnje za koje se razumno oèekuje da æe ih trgovac primjenjivati u odnosu s potrošaèem, a koje su u skladu s poštenom poslovnom praksom i naèelom savjesnosti i poštenja na podruèju djelovanja trgovca
+26. proizvod je svaka roba ili usluga, ukljuèujuæi nekretnine, digitalne usluge i digitalni sadržaj, prava i obveze
+27. proizvod u rasutom stanju je proizvod koji je ponuðen na prodaju potrošaèima, a koji nije prethodno zapakiran i koji je izmjeren u nazoènosti potrošaèa
+28. pružatelj internetskog tržišta je trgovac koji pruža uslugu internetskog tržišta
+29. rangiranje je relativna vidljivost proizvoda koji se nude potrošaèima s obzirom na naèin na koji ih trgovac predstavlja, organizira ili obavještava, neovisno o tehnološkim sredstvima upotrijebljenima za takvo predstavljanje, organiziranje ili obavješæivanje
+30. roba je tjelesna pokretna stvar, osim onih koje su prodane u ovršnom ili drugom prisilnom postupku, ukljuèujuæi vodu, plin i elektriènu energiju ako se prodaju u ogranièenom obujmu ili utvrðenoj kolièini te stvar s ugraðenim digitalnim sadržajem ili digitalnom uslugom ili je povezana s njima na naèin da bez digitalnog sadržaja ili digitalne usluge roba ne bi bila funkcionalna (»roba s digitalnim elementima«)
+31. roba izraðena po specifikaciji potrošaèa je roba koja nije unaprijed proizvedena, veæ je izraðena na temelju individualnog izbora ili odluke potrošaèa
+32. sredstva daljinske komunikacije jesu sva sredstva koja se bez istodobne fizièke prisutnosti trgovca i potrošaèa mogu koristiti za sklapanje ugovora na daljinu, kao što su adresirani i neadresirani tiskani materijal, univerzalna pisma i dopisnice, tiskane promidžbene poruke s narudžbenicom, katalozi, telefoni s ljudskim posredovanjem i bez njega, radio, videofon, videotekst, telefaks, televizija, internet i elektronièka pošta
+33. trajni medij je svako sredstvo koje omoguæava potrošaèu ili trgovcu da pohrani informacije koje su njemu namijenjene tako da budu dostupne za kasniju uporabu toliko dugo koliko je potrebno s obzirom na svrhu informacije i koje omoguæava nepromijenjenu reprodukciju podataka, kao što je papir, elektronièka pošta, CD, DVD, memorijska kartica, memorijski štapiæ i èvrsti disk raèunala
+34. trgovac je bilo koja osoba koja sklapa pravni posao ili djeluje na tržištu u okviru svoje trgovaèke, poslovne, obrtnièke ili profesionalne djelatnosti, ukljuèujuæi i osobu koja nastupa u ime ili za raèun trgovca
+35. ugovor na daljinu je ugovor sklopljen izmeðu trgovca i potrošaèa u okviru organiziranog sustava prodaje ili pružanja usluge bez istodobne fizièke prisutnosti trgovca i potrošaèa na jednome mjestu pri èemu se do trenutka sklapanja ugovora te za sklapanje ugovora iskljuèivo koristi jedno ili više sredstava daljinske komunikacije
+36. ugovor sklopljen izvan poslovnih prostorija je ugovor izmeðu trgovca i potrošaèa:
+– koji je sklopljen uz istodobnu fizièku prisutnost trgovca i potrošaèa na jednome mjestu koje ne predstavlja poslovne prostorije trgovca, èak i kad je potrošaè dao ponudu
+– koji je sklopljen u poslovnim prostorijama trgovca ili putem sredstava daljinske komunikacije neposredno nakon što je trgovac pristupio potrošaèu osobno i individualno na mjestu koje nisu njegove poslovne prostorije, a u kojem su trgovac i potrošaè bili istodobno fizièki prisutni ili
+– koji je sklopljen za vrijeme izleta koji je organizirao trgovac s namjerom ili ciljem promocije ili prodaje robe ili usluga potrošaèu
+37. ugovor o kupoprodaji je ugovor kojim trgovac prenosi ili se obvezuje prenijeti potrošaèu robu u vlasništvo, a potrošaè plaæa ili se obvezuje platiti mu cijenu, ukljuèujuæi bilo koji ugovor koji za predmet istodobno ima robu i uslugu
+38. ugovor o usluzi je ugovor kojim trgovac pruža ili se obvezuje pružiti uslugu potrošaèu, ukljuèujuæi digitalnu uslugu, a potrošaè plaæa ili se obvezuje platiti mu cijenu
+39. ugovor o pravu na vremenski ogranièenu uporabu (timeshare) je ugovor sklopljen na razdoblje duže od godine dana kojim potrošaè, uz naknadu, stjeèe pravo korištenja jednog ili više noæenja kroz više razdoblja korištenja
+40. ugovor o dugotrajnom turistièkom proizvodu je ugovor sklopljen na razdoblje duže od godine dana kojim potrošaè, uz naknadu, prvenstveno stjeèe pravo na popust ili druge pogodnosti vezane uz smještaj, odvojeno ili zajedno s putovanjem ili drugim uslugama
+41. ugovor o ponovnoj prodaji je ugovor kojim trgovac, uz naknadu, pomaže potrošaèu pri prodaji ili kupnji prava na vremenski ogranièenu uporabu (timeshare) ili drugog dugotrajnog turistièkog proizvoda
+42. ugovor o zamjeni je ugovor kojim se potrošaè, uz naknadu, ukljuèuje u sustav zamjene koji mu omoguæuje noæenje ili druge usluge, u zamjenu za omoguæavanje drugim osobama privremenog korištenja pogodnosti koje potrošaè ima na temelju svoga prava na vremenski ogranièenu uporabu (timeshare)
+43. ureðena profesija je profesionalna djelatnost ili skupina profesionalnih djelatnosti za èije pokretanje, obavljanje ili odreðeni naèin obavljanja zakon ili drugi propis izravno ili neizravno zahtijeva odreðenu profesionalnu kvalifikaciju
+44. važan utjecaj na ekonomsko ponašanje potrošaèa je korištenje poslovne prakse radi znatnog umanjivanja sposobnosti potrošaèa da donese odluku utemeljenu na potpunoj obavijesti, što dovodi do toga da potrošaè donosi odluku o kupnji koju inaèe ne bi donio.
+Korištenje pojmova s rodnim znaèenjem
+Èlanak 5.
+Izrazi koji se koriste u ovom Zakonu, a imaju rodno znaèenje, odnose se jednako na muški i ženski rod.
+
+
+
+
+
+
+
+
+
+DIO DRUGI   POSLOVANJE TRGOVACA S POTROŠAÈIMA
+GLAVA I.   OPÆE ODREDBE
+Oznaèavanje proizvoda
+Èlanak 6.
+(1) Proizvodi koji se na podruèju Republike Hrvatske nude potrošaèima moraju na ambalaži, privjesnici, naljepnici ili na samom proizvodu sadržavati:
+1. osnovna obilježja proizvoda u mjeri koja je potrebna da bi potrošaè donio odluku o kupnji, kao što su naziv proizvoda, tip i model proizvoda, naziv pod kojim se proizvod prodaje, sastav proizvoda, svojstva i tehnièka obilježja proizvoda
+2. naziv i sjedište proizvoðaèa ili uvoznika koji ima sjedište na podruèju Europske unije.
+(2) Podaci iz stavka 1. ovoga èlanka moraju biti jasni, vidljivi i èitljivi te napisani hrvatskim jezikom i latiniènim pismom, što ne iskljuèuje moguænost istodobne uporabe drugih jezika, a mogu ukljuèivati znakove i piktograme lako razumljive potrošaèu.
+(3) Ako su napisani na više jezika, podaci iz stavka 1. ovoga èlanka moraju biti napisani na isti naèin.
+(4) Odredbe ovoga èlanka ne primjenjuju se na proizvode èije je oznaèavanje ureðeno posebnim propisom.
+Isticanje cijena proizvoda
+Èlanak 7.
+(1) Trgovac mora jasno, vidljivo i èitljivo istaknuti iznos maloprodajne cijene i cijene za jedinicu mjere proizvoda koju pruža.
+(2) Na proizvodu ili na prodajnom mjestu, osim cijena iz stavka 1. ovoga èlanka, ne smiju se istaknuti druge cijene, osim u sluèajevima iz èlanka 8. stavka 4. i glave II. ovoga dijela Zakona.
+(3) Cijenu za jedinicu mjere nije potrebno istaknuti ako je istovjetna s maloprodajnom cijenom proizvoda.
+(4) Kod proizvoda u rasutom stanju istièe se samo cijena za jedinicu mjere na prodajnome mjestu proizvoda.
+(5) Trgovac cijenu mora istaknuti tako da ne ošteæuje proizvod.
+(6) Odredbe stavka 1. ovoga èlanka ne primjenjuju se na javnu dražbu i prodaju umjetnièkih djela i antikviteta te na cijene usluga ureðene posebnim propisima.
+(7) Trgovac se mora pridržavati istaknute maloprodajne cijene.
+(8) Pri oglašavanju u kojem se navodi maloprodajna cijena proizvoda mora biti navedena i cijena za jedinicu mjere, sukladno odredbama ovoga èlanka.
+(9) Ministar nadležan za podruèje zaštite potrošaèa pravilnikom propisuje naèin isticanja maloprodajne cijene i cijene za jedinicu mjere iz stavka 1. ovoga èlanka.
+Uvjeti prodaje
+Èlanak 8.
+(1) Trgovac je dužan uvjete prodaje istaknuti jasno, vidljivo i èitljivo.
+(2) Trgovac je dužan pridržavati se uvjeta prodaje.
+(3) Posebne uvjete prodaje trgovac može odobriti za:
+– pojedine proizvode ili skupinu proizvoda
+– pojedine skupine potrošaèa
+– pojedine oblike plaæanja.
+(4) Ako trgovac, kao poseban uvjet prodaje, odobrava popust za pojedine proizvode ili skupine proizvoda, dužan je istaknuti maloprodajnu cijenu sukladno èlanku 19. ovoga Zakona, osim ako nije drukèije ureðeno posebnim zakonima.
+(5) Trgovac može odbiti sklapanje ugovora o kupoprodaji proizvoda samo ako to proizlazi iz okolnosti sluèaja.
+Raèun
+Èlanak 9.
+(1) Trgovac je dužan potrošaèu omoguæiti provjeru ispravnosti zaraèunatog iznosa u odnosu na kupljene proizvode.
+(2) Ispostavljanje raèuna nije dopušteno naplaæivati.
+(3) Na ispostavljanje i sadržaj raèuna na odgovarajuæi se naèin primjenjuju odredbe propisa kojima se ureðuje obveza ispostavljanja raèuna.
+Pisani prigovor
+Èlanak 10.
+(1) Trgovac je dužan omoguæiti potrošaèu podnošenje pisanog prigovora u svojim poslovnim prostorijama, putem pošte i elektronièke pošte.
+(2) Trgovac može omoguæiti potrošaèu podnošenje pisanog prigovora i putem drugih sredstava mrežne komunikacije koja omoguæuju pohranu vremena i sadržaja komunikacije na trajnom mediju.
+(3) Trgovac je dužan bez odgaðanja u pisanom obliku putem pošte, elektronièke pošte ili na naèin odreðen stavkom 2. ovoga èlanka ako je trgovac iskoristio moguænost podnošenja pisanog prigovora i putem drugih sredstava mrežne komunikacije, potvrditi primitak prigovora iz stavaka 1. i 2. ovoga èlanka.
+(4) Trgovac je dužan jasno, vidljivo i èitljivo istaknuti obavijest o naèinu podnošenja pisanog prigovora iz stavaka 1. i 2. ovoga èlanka u svojim poslovnim prostorijama i na mrežnoj stranici ako je uspostavljena.
+(5) Osim obveze iz stavaka 1. i 2. ovoga èlanka, trgovac koji pruža javnu uslugu dužan je na ispostavljenom raèunu vidljivo istaknuti obavijest o naèinu podnošenja pisanog prigovora.
+(6) Trgovac je dužan u pisanom obliku putem pošte, elektronièke pošte ili na naèin odreðen stavkom 2. ovoga èlanka ako je trgovac iskoristio moguænost podnošenja pisanog prigovora i putem drugih sredstava mrežne komunikacije, odgovoriti na prigovore iz stavaka 1. i 2. ovoga èlanka u roku od 15 dana od dana zaprimanja prigovora sukladno obavijesti trgovca o naèinu podnošenja pisanog prigovora iz stavka 4. ovoga èlanka, jasno se izjašnjavajuæi prihvaæa li osnovanost prigovora potrošaèa.
+(7) Trgovac je dužan voditi i èuvati evidenciju pisanih prigovora potrošaèa iz stavaka 1. i 2. ovoga èlanka na trajnom mediju godinu dana od dana primitka pisanog prigovora potrošaèa.
+Raspolaganje osobnim podacima potrošaèa
+Èlanak 11.
+Trgovcu se zabranjuje davanje osobnih podataka potrošaèa bilo kojoj treæoj osobi protivno propisima kojima je ureðena zaštita osobnih podataka.
+Neželjene komunikacije putem telefona i/ili poruka
+Èlanak 12.
+(1) Zabranjeno je upuæivati pozive i/ili poruke putem telefona potrošaèima koji su se upisali u registar potrošaèa koji ne žele primati pozive i/ili poruke u okviru promidžbe i/ili prodaje putem telefona.
+(2) Registar iz stavka 1. ovoga èlanka vodi se pri Hrvatskoj regulatornoj agenciji za mrežne djelatnosti.
+(3) Upis i/ili ispis iz registra iz stavka 1. ovoga èlanka obavljaju trgovci – operatori elektronièkih komunikacija.
+(4) Ministar nadležan za podruèje zaštite potrošaèa pravilnikom propisuje postupak upisa i ispisa te naèin korištenja registra iz stavka 1. ovoga èlanka.
+Popravak i/ili održavanje proizvoda
+Èlanak 13.
+(1) Za usluge popravaka i održavanja proizvoda, ako je vrijednost usluge veæa od 500,00 kuna, trgovac je dužan potrošaèu ispostaviti ponudu na papiru ili nekom drugom trajnom mediju s opisom radova te potrebnog materijala i dijelova za popravak.
+(2) Ako se tijekom popravka pojavi potreba za dodatnim radovima i ugradnjom dodatnih dijelova, trgovac je dužan postupiti u skladu s èlankom 51. ovoga Zakona.
+(3) Teret dokaza o ispostavljanju ponude iz stavka 1. ovoga èlanka je na trgovcu.
+Plaæanje predujmom
+Èlanak 14.
+(1) Ako trgovac zahtijeva ili izrièito uvjetuje kupnju robe ili pružanje usluge djelomiènim ili ukupnim jednokratnim ili obroènim predujmom, dužan je potrošaèu nakon predaje robe ili pružene usluge obraèunati i isplatiti kamate po kamatnoj stopi poslovne banke trgovca za oroèene štedne uloge na tri mjeseca za cijelo razdoblje, raèunajuæi od dana primljenog predujma do dana predaje robe ili ispunjenja usluge, ako je rok isporuke robe ili ispunjenja usluge dulji od 30 dana, osim ako nije drukèije ugovoreno.
+(2) Ako trgovac nije ispunio ugovor, dužan je vratiti potrošaèu uplaæeni predujam uveæan za zakonske zatezne kamate, raèunajuæi od dana primitka predujma do dana isplate, što je moguæe prije, a najkasnije u roku od sedam dana od dana raskida ugovora.
+Plaæanje novèanih obveza
+Èlanak 15.
+Novèana obveza koju potrošaè plaæa putem pružatelja platne usluge smatrat æe se namirenom s danom kada je pružatelj platne usluge primio od potrošaèa nalog za plaæanje i kada je taj nalog postao neopoziv u skladu s odredbama propisa kojim se ureðuje platni promet.
+Neplaæene dospjele novèane tražbine
+Èlanak 16.
+(1) Izdavanje opomene radi naplate neplaæenih dospjelih novèanih tražbina nije dopušteno naplaæivati.
+(2) Trgovac koji pruža javnu uslugu dužan je na raèunu istaknuti iznos neplaæenih dospjelih novèanih tražbina za prethodna razdoblja.
+(3) U vezi s osporenim neplaæenim dospjelim novèanim tražbinama, trgovcu koji pruža javnu uslugu nije dopušteno pokretanje postupka prisilne naplate do okonèanja sudskog ili izvansudskog postupka.
+Ambalaža
+Èlanak 17.
+(1) Ambalaža ne smije dovoditi potrošaèa u zabludu u vezi s masom i velièinom robe te mora biti sukladna s propisima kojima se propisuju zahtjevi za ambalažu.
+(2) U sluèaju ponude zamatanja posebnim papirom za zamatanje i dodatnim ukrasima, cijena te robe i usluge zamatanja mora biti istaknuta jasno, vidljivo i èitljivo.
+(3) Trgovac mora na zahtjev potrošaèa zadržati ambalažu prodane robe i zbrinuti je sukladno posebnim propisima.
+Ostavljanje oglasnih poruka i materijala
+Èlanak 18.
+(1) Zabranjeno je ostavljanje oglasnih poruka i materijala u ili na poštanskim sanduèiæima te na ili ispred kuænih vrata potrošaèa ako je takva zabrana na njima jasno napisana.
+(2) Za ostavljanje oglasnih poruka i materijala odgovoran je trgovac èiji se proizvodi oglašavaju na oglasnim porukama i materijalima.
+GLAVA II.   POSEBNI OBLICI PRODAJE
+Opæe odredbe
+Èlanak 19.
+(1) Posebnim oblicima prodaje smatra se prodaja proizvoda po cijenama nižim od cijena u redovnoj prodaji.
+(2) Prodaja iz stavka 1. ovoga èlanka obuhvaæa, meðu ostalim, akcijsku prodaju, rasprodaju, sezonsko sniženje, prodaju robe s greškom i prodaju robe kojoj istjeèe rok uporabe.
+(3) Prilikom obavljanja posebnog oblika prodaje iz stavka 1. ovoga èlanka, a koji nije ureðen ovom glavom Zakona, trgovac može koristiti i druge nazive razlièite od onih navedenih u stavku 2. ovoga èlanka.
+(4) Tijekom trajanja posebnog oblika prodaje robe iz ove glave Zakona trgovac je dužan istaknuti cijenu koju primjenjuje tijekom trajanja prodaje iz stavka 1. ovoga èlanka i najnižu cijenu koju je trgovac primjenjivao za istu robu tijekom razdoblja od 30 dana prije provoðenja posebnog oblika prodaje.
+(5) Odredbe stavka 4. ovoga èlanka primjenjuju se i na oglašavanje robe.
+(6) Tijekom trajanja posebnog oblika prodaje usluge unutar poslovnih prostorija iz ove glave Zakona trgovac je dužan istaknuti cijenu koju primjenjuje tijekom trajanja prodaje iz stavka 1. ovoga èlanka i najnižu cijenu koju je trgovac primjenjivao za istu uslugu tijekom razdoblja od 30 dana prije provoðenja posebnog oblika prodaje.
+(7) Odredbe stavka 6. ovoga èlanka ne primjenjuju se na:
+1. oglašavanje usluga
+2. ugovore sklopljene izvan poslovnih prostorija i ugovore sklopljene na daljinu.
+
+
+Akcijska prodaja
+Èlanak 20.
+Akcijska prodaja je prodaja odreðenih proizvoda po cijeni koja je niža od cijene tog proizvoda u redovnoj prodaji.
+Rasprodaja
+Èlanak 21.
+Rasprodaja je prodaja proizvoda po nižoj cijeni u sluèaju:
+– prestanka poslovanja trgovca
+– prestanka poslovanja u dosadašnjim poslovnim prostorijama
+– prestanka prodaje odreðenog proizvoda iz predmeta poslovanja trgovca
+– kada je poslovanje trgovca ozbiljno ugroženo
+– obavljanja složenijih graðevinskih radova unutar ili na poslovnim prostorijama.
+Sezonsko sniženje
+Èlanak 22.
+(1) Sezonskim sniženjem smatra se prodaja proizvoda po sniženoj cijeni nakon proteka sezone.
+(2) Ministar nadležan za podruèje zaštite potrošaèa pravilnikom propisuje naèin provoðenja sezonskog sniženja iz stavka 1. ovoga èlanka.
+Roba s greškom
+Èlanak 23.
+Ako trgovac prodaje robu koja ima grešku, mora jasno, vidljivo i èitljivo oznaèiti na robi ili na prodajnom mjestu da je rijeè o prodaji robe s greškom te upoznati potrošaèa u èemu se sastoji greška na robi.
+Roba kojoj istjeèe rok uporabe
+Èlanak 24.
+Roba koja se prodaje po nižoj cijeni od cijene u redovnoj prodaji jer joj istjeèe rok uporabe mora imati dodatno jasno, vidljivo i èitljivo istaknut krajnji rok uporabe.
+GLAVA III.   JAVNE USLUGE KOJE SE PRUŽAJU POTROŠAÈIMA
+Opæe odredbe
+Èlanak 25.
+(1) Javnim uslugama u smislu ovoga Zakona smatraju se:
+1. distribucija elektriène energije
+2. distribucija prirodnog plina
+3. distribucija toplinske energije
+4. elektronièke komunikacijske usluge
+5. javna vodoopskrba i javna odvodnja
+6. opskrba plinom u javnoj usluzi
+7. obavljanje dimnjaèarskih poslova
+8. opskrba elektriènom energijom u univerzalnoj usluzi
+9. poštanske usluge
+10. prijevoz putnika u javnom prometu
+11. sakupljanje komunalnog otpada
+12. usluge parkiranja na ureðenim javnim površinama i u javnim garažama.
+(2) Prilikom ispostavljanja raèuna za pružanje javnih usluga potrošaèima trgovac mora primjenjivati obraèun i cijene ureðene posebnim propisima kojima se ureðuju javne usluge iz stavka 1. ovoga èlanka.
+(3) Uslugu oèitanja mjernih ureðaja nije dopušteno naplaæivati, osim u sluèajevima koji su odreðeni posebnim propisom.
+(4) Trgovac mora potrošaèu prije sklapanja ugovora omoguæiti upoznavanje sa svojim opæim uvjetima poslovanja te uvjetima korištenja javnih usluga i javno ih objaviti na svojim mrežnim stranicama.
+(5) O svakoj promjeni uvjeta iz stavka 4. ovoga èlanka trgovac je dužan unaprijed pisanim putem obavijestiti potrošaèa.
+Savjetodavno tijelo i povjerenstvo za reklamacije potrošaèa
+Èlanak 26.
+(1) Javnopravno tijelo koje obavlja regulatorne poslove u pogledu javnih usluga iz èlanka 25. stavka 1. ovoga Zakona dužno je osnovati savjetodavno tijelo u èijem radu sudjeluje i predstavnik udruge za zaštitu potrošaèa te na transparentan, objektivan i nediskriminirajuæi naèin, nakon mišljenja savjetodavnog tijela, donositi odluke koje se odnose na zaštitu prava potrošaèa – korisnika javnih usluga iz èlanka 25. stavka 1. ovoga Zakona.
+(2) Predstavnièko tijelo jedinice lokalne samouprave koja odluèuje o pravima i obvezama potrošaèa – korisnika javnih usluga iz èlanka 25. stavka 1. ovoga Zakona dužno je osnovati savjetodavno tijelo u èijem radu sudjeluje i predstavnik udruge za zaštitu potrošaèa, a jedinica lokalne samouprave æe na transparentan, objektivan i nediskriminirajuæi naèin, nakon mišljenja savjetodavnog tijela, donositi odluke koje se odnose na zaštitu prava potrošaèa – korisnika javnih usluga iz èlanka 25. stavka 1. ovoga Zakona.
+(3) Predstavnika udruge za zaštitu potrošaèa iz stavka 2. ovoga èlanka imenuje udruga za zaštitu potrošaèa, koja djeluje i ima sjedište na podruèju jedinice podruène (regionalne) samouprave na èijem se podruèju nalazi jedinica lokalne samouprave iz stavka 2. ovoga èlanka.
+(4) Iznimno od stavka 2. ovoga èlanka, pojedine jedinice lokalne samouprave mogu osnovati zajednièko savjetodavno tijelo iz stavka 2. ovoga èlanka ako isti trgovac pruža javne usluge iz èlanka 25. stavka 1. ovoga Zakona na podruèju tih jedinica lokalne samouprave.
+(5) Trgovac koji pruža javne usluge iz èlanka 25. stavka 1. ovoga Zakona dužan je osnovati povjerenstvo za reklamacije potrošaèa u èijem radu sudjeluje i predstavnik udruge za zaštitu potrošaèa.
+(6) Iznimno od stavka 5. ovoga èlanka, za pojedine djelatnosti koje obavljaju trgovci koji imaju do pet zaposlenih može se pri Hrvatskoj obrtnièkoj komori ili Hrvatskoj gospodarskoj komori osnovati povjerenstvo za reklamacije potrošaèa u èijem sastavu mora biti i predstavnik udruge za zaštitu potrošaèa.
+(7) Predstavnike udruga za zaštitu potrošaèa iz stavaka 1. do 6. ovoga èlanka imenuju udruge za zaštitu potrošaèa na razdoblje i po postupku sukladno aktima iz stavka 10. ovoga èlanka.
+(8) Udruge za zaštitu potrošaèa objavljuju na svojim mrežnim stranicama popis javnopravnih tijela iz stavaka 1., 2. i 4. ovoga èlanka i popis trgovaca iz stavaka 5. i 6. ovoga èlanka.
+(9) Hrvatska obrtnièka komora i Hrvatska gospodarska komora objavljuju na svojim mrežnim stranicama popis povjerenstava za reklamacije potrošaèa koja su osnovale u skladu s odredbom stavka 6. ovoga èlanka.
+(10) Postupak osnivanja, naèin rada te prava i obveze èlanova savjetodavnog tijela odnosno povjerenstva za reklamacije potrošaèa ureðuju se aktima javnopravnih tijela iz stavaka 1., 2. i 4. ovoga èlanka odnosno trgovaca iz stavaka 5. i 6. ovoga èlanka.
+Reklamacije potrošaèa – korisnika javnih usluga
+Èlanak 27.
+(1) Nakon primitka odgovora na pisani prigovor iz èlanka 10. ovoga Zakona odnosno po isteku roka za dostavu odgovora trgovca na pisani prigovor ako trgovac potrošaèu nije dostavio odgovor na pisani prigovor u roku iz èlanka 10. stavka 6. ovoga Zakona, potrošaè može podnijeti reklamaciju povjerenstvu iz èlanka 26. stavka 5. ili stavka 6. ovoga Zakona.
+(2) Trgovac je dužan omoguæiti podnošenje reklamacije iz stavka 1. ovoga èlanka osobno u poslovnim prostorijama, putem pošte i elektronièke pošte.
+(3) Trgovac je dužan bez odgaðanja u pisanom obliku putem pošte ili elektronièke pošte potvrditi zaprimanje reklamacije iz stavaka 1. i 2. ovoga èlanka.
+(4) Trgovac je dužan jasno, vidljivo i èitljivo istaknuti obavijest o naèinu podnošenja reklamacije iz stavka 1. ovoga èlanka u svojim poslovnim prostorijama i na mrežnoj stranici ako je uspostavljena.
+(5) Povjerenstvo iz stavka 1. ovoga èlanka mora odgovoriti potrošaèu na zaprimljene reklamacije putem pošte ili elektronièke pošte u roku od 30 dana od dana zaprimanja reklamacije.
+(6) U vezi s prigovorom odnosno reklamacijom koja se odnosi na javne usluge potrošaè može pokrenuti sudski ili izvansudski postupak tek nakon što je iscrpio pravni put iz stavka 1. ovoga èlanka ili postupak utvrðen zakonom kojim se ureðuje opæi upravni postupak u odnosu na zaštitu od postupanja pružatelja javnih usluga te posebnim zakonom koji se primjenjuje na pružatelja javnih usluga.
+
+
+Prikljuèak na distribucijsku mrežu
+Èlanak 28.
+Trgovac koji pruža javnu uslugu putem distribucijske mreže mora omoguæiti potrošaèima prikljuèak na distribucijsku mrežu i uporabu prikljuèka i mreže te pružanje usluga u skladu s posebnim propisima, koncesijskim ugovorima ili opæim aktima jedinice lokalne i podruène (regionalne) samouprave na èijem podruèju se usluga pruža, pod nediskriminirajuæim, unaprijed poznatim i ugovorenim uvjetima.
+Obustavljanje pružanja javne usluge
+Èlanak 29.
+(1) Ako se raèun trgovca koji pruža javnu uslugu osporava u sudskom ili izvansudskom postupku, a potrošaè uredno podmiruje sve sljedeæe nesporne raèune, trgovac koji pruža javnu uslugu ne smije potrošaèu obustaviti pružanje usluge do okonèanja navedenoga sudskog ili izvansudskog postupka, osim ako je potrošaè raskinuo ugovor s trgovcem koji pruža javnu uslugu.
+(2) Ako je trgovac koji pruža javnu uslugu obustavio pružanje usluge prije nego što je od nadležnog tijela ili osobe obaviješten o pokrenutom postupku iz stavka 1. ovoga èlanka, dužan je, bez naknade, ponovo zapoèeti i nastaviti pružati uslugu potrošaèu do okonèanja sudskog ili izvansudskog postupka, osim ako je potrošaè raskinuo ugovor s trgovcem koji pruža javnu uslugu.
+(3) Obveza iz stavaka 1. i 2. ovoga èlanka odnosi se i na sluèaj kada trgovac koji pruža javnu uslugu pokrene postupak prisilne naplate protiv potrošaèa.
+(4) Sudskim ili izvansudskim postupkom iz stavaka 1. i 2. ovoga èlanka smatra se svaki postupak ureðen propisima, kao i svaki postupak predviðen opæim uvjetima ili drugim pravilima trgovca koji pruža javnu uslugu.
+(5) Odredbe ovoga èlanka ne primjenjuju se na pružanje javne usluge iz èlanka 25. stavka 1. toèaka 7. i 11. ovoga Zakona.
+Održavanje kvalitete javne usluge
+Èlanak 30.
+Trgovac koji pruža javnu uslugu mora održavati kvalitetu javne usluge u skladu s posebnim propisima kojima se ureðuju javne usluge iz èlanka 25. stavka 1. ovoga Zakona i pravilima struke.
+Obveze tijela koja dodjeljuju ovlaštenje
+za pružanje javnih usluga
+Èlanak 31.
+(1) Javnopravna tijela koja dodjeljuju ovlaštenje za pružanje javnih usluga dužna su osigurati, svako u djelokrugu svojih zakonskih ovlasti, da nositelj navedenog ovlaštenja pruža javnu uslugu vodeæi raèuna o sigurnosti, redovitosti i kvaliteti javne usluge te da je javna usluga dostupna svim potrošaèima.
+(2) Javnopravna tijela iz stavka 1. ovoga èlanka dužna su omoguæiti uvjete za tržišno natjecanje na podruèju javnih usluga, osim ako nije drukèije ureðeno posebnim propisom.
+GLAVA IV.   NEPOŠTENA POSLOVNA PRAKSA
+POGLAVLJE I.   OPÆE ODREDBE
+Podruèje primjene
+Èlanak 32.
+(1) Odredbe ove glave Zakona primjenjuju se na nepoštenu poslovnu praksu trgovca u odnosu prema potrošaèu, a koju trgovac koristi prije, u vrijeme i nakon sklapanja pravnog posla u vezi s odreðenim proizvodom.
+(2) Odredbe ove glave Zakona ne utjeèu na:
+1. primjenu pravila ugovornog prava, kao što su pravila o sklapanju, valjanosti i pravnim uèincima ugovora
+2. primjenu propisa kojima se ureðuje zdravstvena ispravnost i sigurnost proizvoda
+3. primjenu propisa kojima se odreðuje nadležnost sudova
+4. primjenu propisa kojima se odreðuju uvjeti zasnivanja ili sustavi odobravanja ureðenih profesija, kao ni na primjenu propisom predviðenih deontoloških pravila odreðenih profesija ili nekih drugih pravila kojima se ureðuju ureðene profesije, a kojima je svrha održati visok stupanj profesionalnog integriteta tih profesija.
+(3) Odredbe ove glave Zakona ne odnose se na primjenu zakona i drugih propisa kojima se ureðuje izdavanje potvrda i oznaèavanje èistoæe predmeta izraðenih od plemenitih kovina.
+Zabrana nepoštene poslovne prakse
+Èlanak 33.
+Nepoštena poslovna praksa je zabranjena.
+Pojam nepoštene poslovne prakse
+Èlanak 34.
+(1) Poslovna praksa je nepoštena:
+– ako je suprotna zahtjevima profesionalne pažnje i
+– ako, u smislu odreðenog proizvoda, bitno utjeèe ili je vjerojatno da æe bitno utjecati na ekonomsko ponašanje prosjeènog potrošaèa kojemu je takva praksa namijenjena ili do kojega ona dopire odnosno prosjeènog èlana odreðene skupine potrošaèa na koju je ta praksa usmjerena.
+(2) Poslovna praksa koja æe vjerojatno bitno utjecati na ekonomsko ponašanje samo jasno odredive skupine potrošaèa koji su zbog tjelesnih ili duševnih mana, dobi ili lakomislenosti posebno osjetljivi na odreðenu poslovnu praksu ili odreðeni proizvod, i to na naèin koji je trgovac mogao razumno predvidjeti, procjenjivat æe se iz perspektive prosjeènog èlana te skupine potrošaèa.
+(3) Odredba stavka 2. ovoga èlanka ne utjeèe na dopuštenost korištenja uobièajene i zakonite promidžbene prakse preuvelièavanja ili davanja izjava za koje se ne oèekuje da budu shvaæene doslovno.
+(4) Nepoštenom poslovnom praksom posebno se smatra:
+– zavaravajuæa poslovna praksa i
+– agresivna poslovna praksa.
+POGLAVLJE II.   ZAVARAVAJUÆA POSLOVNA PRAKSA
+Zavaravajuæe radnje
+Èlanak 35.
+(1) Poslovna praksa smatra se zavaravajuæom ako sadrži netoène informacije, zbog èega je neistinita ili ako na neki drugi naèin, ukljuèujuæi njezino cjelokupno predstavljanje, pa èak ako je informacija èinjenièno toèna, zavarava ili je vjerojatno da æe zavarati prosjeènog potrošaèa u vezi s nekom od okolnosti navedenih u stavku 2. ovoga èlanka, èime ga navodi ili je vjerojatno da æe ga navesti da donese odluku o kupnji koju inaèe ne bi donio.
+(2) Okolnosti iz stavka 1. ovoga èlanka na koje se zavaravajuæa poslovna praksa odnosi jesu:
+1. postojanje ili priroda proizvoda
+2. osnovna obilježja proizvoda, kao što su njegova dostupnost, koristi, rizici, izvedba, sastav, pripadci, postojanje postprodajne pomoæi potrošaèu i sustava rješavanja pritužbi, metode i datum izrade ili nabave, dostava, podobnost za ostvarivanje svrhe, naèin korištenja, kolièina, specifikacija, zemljopisno ili tržišno podrijetlo, rezultati koji se oèekuju od njegove uporabe ili rezultati i bitni pokazatelji testova ili provjera provedenih na proizvodu
+3. opseg obveza trgovca, motivi poslovne prakse te priroda postupka prodaje, bilo koja izjava ili simbol koji se odnosi na izravno ili neizravno sponzorstvo ili odobrenje trgovca ili proizvoda
+4. cijena proizvoda ili naèin na koji je ona izraèunata ili postojanje odreðene pogodnosti u odnosu na cijenu
+5. potreba servisiranja, rezervnih dijelova, zamjene ili popravka
+6. priroda, obilježja i prava trgovca ili njegova zastupnika, kao što su njegov identitet, imovina, kvalifikacije, status, odobrenja, èlanstvo u odreðenim udruženjima ili povezanost s nekim drugim subjektima, njegovo industrijsko, komercijalno ili drugo intelektualno vlasništvo, nagrade i priznanja
+7. prava potrošaèa, ukljuèujuæi prava koja potrošaè ima na temelju pravila o odgovornosti za materijalne nedostatke
+8. rizici kojima potrošaè može biti izložen.
+(3) Poslovna praksa se smatra zavaravajuæom ako, u konkretnom sluèaju uzimajuæi u obzir sva obilježja i okolnosti sluèaja, prosjeènog potrošaèa navede ili je vjerojatno da æe ga navesti da donese odluku o kupnji koju inaèe ne bi donio, a ukljuèuje:
+1. bilo koji oblik stavljanja proizvoda na tržište, ukljuèujuæi i usporedno oglašavanje koje dovodi do poistovjeæivanja tog proizvoda s nekim drugim proizvodom, žigom, zaštiæenim imenom ili drugim znakom raspoznavanja konkurenta na tržištu
+2. nepoštivanje obveza, od strane trgovca, koje proizlazi iz pravila postupanja trgovaca koja ga obvezuju, uz pretpostavku da ta obveza ne predstavlja tek namjeru, veæ je rijeè o èvrstoj obvezi koju je moguæe provjeriti te uz pretpostavku da je trgovac u okviru poslovne prakse naznaèio da je vezan tim pravilima postupanja
+3. svako stavljanje robe na tržište Republike Hrvatske uz tvrdnju da je identièna robi stavljenoj na tržište u drugim državama èlanicama iako se ta roba znaèajno razlikuje po sastavu ili obilježjima, osim ako je to opravdano legitimnim i objektivnim kriterijima.
+Zavaravajuæa propuštanja
+Èlanak 36.
+(1) Poslovna praksa smatra se zavaravajuæom ako u konkretnom sluèaju, uzimajuæi u obzir sva obilježja i okolnosti sluèaja, kao i ogranièenja konkretnog sredstva komunikacije, ne sadrži važne obavijesti koje su, ovisno o kontekstu, potrebne prosjeènom potrošaèu kako bi mogao donijeti odluku o kupnji utemeljenu na potpunoj obavijesti i time ga navede ili je vjerojatno da æe ga navesti da donese odluku o kupnji koju inaèe ne bi donio.
+(2) Uzimajuæi u obzir okolnosti iz stavka 1. ovoga èlanka, zavaravajuæim se propuštanjem smatra:
+1. ako trgovac skriva obavijesti iz stavka 1. ovoga èlanka ili ako su pružene obavijesti nejasne, nerazumljive, dvosmislene ili nepravodobne te
+2. ako trgovac ne navede poslovnu svrhu poslovne prakse, a ona nije razvidna iz konteksta, a u oba sluèaja, takva praksa, prosjeènog potrošaèa navede ili je vjerojatno da æe ga navesti da donese odluku o kupnji koju inaèe ne bi donio.
+(3) Kada trgovac pri prenošenju poslovne prakse koristi konkretno sredstvo komunikacije koje je ogranièeno vremenom ili prostorom, prilikom ocjene je li odreðena važna obavijest izostavljena vodit æe se raèuna o tim ogranièenjima, kao i o ostalim mjerama koje je trgovac poduzeo kako bi se te obavijesti dostavile potrošaèu na neki drugi naèin.
+(4) U sluèaju poziva na kupnju, ako to veæ nije razvidno iz konteksta, bitnima æe se smatrati informacije o:
+1. osnovnim obilježjima proizvoda u mjeri koja je prikladna proizvodu i komunikacijskom sredstvu koje se koristi
+2. sjedištu i identitetu trgovca, kao što su njegova tvrtka, naziv ili ime te, ako je to potrebno, adresa i identitet osobe u èije ime nastupa
+3. maloprodajnoj cijeni proizvoda ili kad proizvod ne omoguæava da cijena bude izraèunata unaprijed, o naèinu na koji æe cijena biti izraèunata, kao i, gdje je potrebno, o dodatnim poštanskim troškovima te troškovima prijevoza i dostave, a kada ti troškovi ne mogu biti izraèunati unaprijed, naznaku da se plaæaju i ti dodatni troškovi
+4. uvjetima plaæanja, dostave, ostalim elementima ispunjenja ugovora, ako ti elementi odstupaju od zahtjeva profesionalne pažnje
+5. postojanju prava na raskid ili otkaz ugovora, ako je rijeè o proizvodima ili pravnim poslovima u vezi s kojima su predviðena i ta prava
+6. tome da je treæa osoba koja nudi proizvode na internetskim tržištima trgovac ili nije trgovac, temeljem izjave te osobe pružatelju internetskog tržišta.
+(5) Bitnima se smatraju i:
+1. one informacije koje je, na temelju ovoga Zakona i drugih propisa usklaðenih s pravilima Europske unije, trgovac dužan pružiti potrošaèu prilikom bilo koje vrste poslovne komunikacije, ukljuèujuæi oglašavanje i stavljanje proizvoda na tržište
+2. opæe informacije o najvažnijim parametrima kojima se odreðuje rangiranje proizvoda prikazanih potrošaèu kao rezultat upita u obliku kljuène rijeèi, izraza ili drugog unosa, i o relativnoj važnosti tih parametara u odnosu na ostale parametre, koje su dostupne u posebnom dijelu internetskog suèelja koji je izravno i lako dostupan sa stranice na kojoj su prikazani rezultati upita, ako se potrošaèima omoguæuje pretraživanje proizvoda koje nude temeljem upita korištenjem kljuène rijeèi, izraza ili drugog unosa, neovisno o tome gdje se sklapa ugovor
+3. informacije o tome osigurava li trgovac, i na koji naèin, da objavljene recenzije potjeèu od potrošaèa koji su proizvod doista koristili ili kupili, ako trgovac pruža pristup potrošaèkim recenzijama proizvoda.
+(6) Odredba iz stavka 5. toèke 2. ovoga èlanka ne primjenjuje se na pružatelje internetskih tržišta ureðenih Uredbom (EU) 2019/1150 Europskog parlamenta i Vijeæa od 20. lipnja 2019. o promicanju pravednosti i transparentnosti za poslovne korisnike usluga internetskog posredovanja (Tekst znaèajan za EGP) (SL L 186, 11. 7. 2019).
+
+
+Postupci koji predstavljaju zavaravajuæu poslovnu praksu
+Èlanak 37.
+Zavaravajuæom poslovnom praksom smatraju se sljedeæi postupci:
+1. tvrdnja trgovca da je potpisnik odreðenog pravila postupanja trgovaca, iako to nije sluèaj
+2. isticanje žigova, znakova kvalitete ili sliènih znakova bez potrebnog odobrenja
+3. tvrdnja da je pravila postupanja trgovaca koja taj trgovac primjenjuje odobrilo ovlašteno tijelo, iako to nije sluèaj
+4. tvrdnja trgovca da je njegovu djelatnost, njegovu poslovnu praksu ili njegov proizvod odobrilo, preporuèilo ili dopustilo ovlašteno tijelo ili privatno tijelo, iako to nije sluèaj ili ista takva tvrdnja kada njegova poslovna praksa ili proizvod ne udovoljava zahtjevima za izdavanje tog odobrenja, preporuke ili dopuštenja
+5. pozivanje na kupnju proizvoda po odreðenoj cijeni, bez isticanja èinjenice da trgovac ima opravdane razloge vjerovati da neæe biti u moguænosti ponuditi isporuku tog ili sliènog proizvoda po navedenoj cijeni, u vrijeme i u kolièini koji su razumni s obzirom na proizvod, opseg oglašavanja proizvoda i ponuðenu cijenu, odnosno da neæe biti u moguænosti osigurati da drugi trgovac isporuèi taj ili slièan proizvod po navedenoj cijeni, u vremenu i u kolièini koji su razumni s obzirom na navedene okolnosti
+6. pozivanje na kupnju proizvoda po odreðenoj cijeni, a zatim odbijanje da se potrošaèu pokaže oglašavani proizvod ili odbijanje prihvaæanja narudžbe potrošaèa, odnosno dostave proizvoda u razumnom roku ili pokazivanje neispravnog primjerka proizvoda, a sve s namjerom promidžbe nekog drugog proizvoda
+7. lažno tvrditi da æe proizvod biti dostupan samo u vrlo ogranièenom razdoblju ili da æe biti dostupan jedino pod posebnim uvjetima u vrlo ogranièenom razdoblju, a radi navoðenja potrošaèa da odmah donese odluku o kupnji, èime mu se uskraæuje moguænost ili vrijeme potrebno da donese odluku utemeljenu na saznanju o svim relevantnim okolnostima
+8. obvezati se potrošaèu na pružanje nekih postprodajnih usluga, komunicirajuæi prije odluke o kupnji s potrošaèem na jeziku koji nije službeni jezik države èlanice Europske unije u kojoj se trgovac nalazi, a zatim omoguæiti pružanje tih usluga samo na nekom drugom jeziku, a da potrošaè na to nije bio jasno upozoren prije sklapanja ugovora
+9. tvrditi ili na drugi naèin stvarati dojam da se proizvod može zakonito prodati, kada to nije sluèaj
+10. predstavljati potrošaèu prava koja mu po zakonu i inaèe pripadaju kao posebnost ponude trgovca
+11. koristiti urednièke sadržaje u medijima radi plaæene promidžbe proizvoda, a da u tim sadržajima nije jasno izraženo rijeèima, znakovima ili zvukovima koje potrošaè može jasno prepoznati, da je rijeè o promidžbi
+12. pružanje rezultata pretraživanja kao odgovor na mrežni upit potrošaèa bez jasnog navoðenja svakog plaæenog oglašavanja ili plaæanja upravo u svrhu postizanja višeg ranga proizvoda u rezultatima pretraživanja
+13. iznositi netoène tvrdnje u vezi s prirodom i obujmom rizika kojem bi mogla biti izložena osobna sigurnost potrošaèa ili èlanova njegove obitelji ako potrošaè ne kupi proizvod
+14. oglašavati proizvod koji je slièan proizvodu koji je proizveo neki drugi proizvoðaè, i to na naèin da se namjerno navodi potrošaèa na pogrešan zakljuèak da je oglašavani proizvod proizveo taj drugi proizvoðaè
+15. uspostavljanje, voðenje ili promidžba piramidalnog sustava promidžbe, pri èemu potrošaè mora dati odreðenu èinidbu kako bi mogao dobiti odreðenu naknadu, i to prije svega zbog toga jer je uveo u sustav nove potrošaèe, a ne zbog toga jer je kupio ili konzumirao proizvod
+16. tvrditi da æe trgovac uskoro prestati sa svojom djelatnošæu ili da æe se preseliti u druge poslovne prostorije, iako to nije sluèaj
+17. tvrditi da proizvod može olakšati dobitak u igrama na sreæu
+18. lažno tvrditi da proizvod može izlijeèiti bolest, disfunkcionalnost ili malformaciju
+19. prenošenje netoènih obavijesti u vezi sa stanjem na tržištu ili dostupnosti proizvoda, s namjerom da se navede potrošaèa da kupi proizvod pod uvjetima koji su nepovoljniji od uobièajenih tržišnih uvjeta
+20. tvrditi u okviru poslovne prakse da se raspisuje nagradna igra ili promocija, a da se ne dodijeli opisana nagrada ili njezin razuman ekvivalent
+21. oznaèavanje proizvoda oznakama »gratis«, »besplatno«, »bez naknade« ili sliènim oznakama ako potrošaè mora za taj proizvod platiti bilo koji iznos razlièit od nužnih troškova odgovaranja na poslovnu praksu, troškova dostave ili primitka proizvoda
+22. uvrštavanje u promidžbene materijale raèuna ili nekog drugog zahtjeva za plaæanje kojim se kod potrošaèa stvara dojam da je veæ naruèio oglašavani proizvod koji se nudi, iako to nije sluèaj
+23. lažno tvrditi ili stvarati dojam da trgovac ne djeluje u okviru svoje poslovne djelatnosti, odnosno djelatnosti slobodnog zanimanja ili lažno predstavljanje trgovca kao potrošaèa
+24. stvaranje lažnog dojma da su postprodajne usluge u vezi s proizvodom dostupne i u državi èlanici Europske unije koja je razlièita od one u kojoj je proizvod prodan
+25. preprodaja ulaznica za dogaðanja potrošaèima ako ih je trgovac nabavio upotrebom automatiziranih sredstava za zaobilaženje bilo kojeg ogranièenja u pogledu broja ulaznica koje jedna osoba može kupiti ili bilo kojih drugih pravila primjenjivih na kupnju ulaznica
+26. navoðenje da su recenzije proizvoda dali potrošaèi koji su doista koristili ili kupili proizvod bez poduzimanja razumnih i proporcionalnih koraka kako bi se provjerilo da te recenzije doista potjeèu od takvih potrošaèa
+27. podnošenje lažnih potrošaèkih recenzija ili preporuka, ili naruèivanje od druge pravne ili fizièke osobe da ih podnese, ili pogrešno predstavljanje potrošaèkih recenzija ili društvenih preporuka radi promocije proizvoda.
+POGLAVLJE III.   AGRESIVNA POSLOVNA PRAKSA
+Pojam
+Èlanak 38.
+Poslovna praksa smatra se agresivnom ako u konkretnom sluèaju, uzimajuæi u obzir sva obilježja i okolnosti sluèaja korištenjem uznemiravanja, prisile, ukljuèujuæi fizièku silu ili prijetnju te nedopušten utjecaj, u bitnoj mjeri umanjuje ili je vjerojatno da æe umanjiti slobodu izbora ili postupanja prosjeènog potrošaèa u vezi s proizvodom te ga time navede ili je vjerojatno da æe ga navesti da donese odluku o kupnji koju inaèe ne bi donio.
+Uznemiravanje, prisila i nedopušten utjecaj
+Èlanak 39.
+Prilikom odluèivanja o tome je li u poslovnoj praksi korišteno uznemiravanje, prisila, ukljuèujuæi silu ili prijetnju ili nedopušten utjecaj, vodit æe se raèuna o:
+1. vremenu, mjestu ili prirodi poslovne prakse, kao i ustrajnosti koju je trgovac pritom iskazao
+2. tome je li se trgovac koristio prijeteæim ili uvredljivim rjeènikom ili ponašanjem
+3. tome je li trgovac iskorištavao nesretne ili druge okolnosti u kojima se potrošaè nalazio, a koje su bile tolikog znaèenja da su umanjile sposobnost potrošaèa da razumno rasuðuje, a trgovac je bio svjestan da æe te okolnosti utjecati na odluku potrošaèa u odnosu na proizvod
+4. postojanju bilo kojeg otežavajuæeg ili nerazmjernog ogranièenja izvanugovorne prirode koje je trgovac nametnuo potrošaèu u sluèaju da potrošaè želi ostvariti neko svoje pravo iz ugovora, ukljuèujuæi pravo na raskid ili pravo na otkaz ugovora ili pravo da izabere drugi proizvod ili drugog trgovca
+5. korištenju bilo kakve prijetnje o poduzimanju radnji koje se po zakonu ne mogu poduzeti.
+Postupci koji predstavljaju agresivnu poslovnu praksu
+Èlanak 40.
+(1) Agresivnom poslovnom praksom smatraju se sljedeæi postupci:
+1. stvaranje dojma da potrošaè ne može napustiti poslovne prostorije sve dok ne sklopi ugovor
+2. posjeæivanje potrošaèa u njegovu domu, ignorirajuæi pritom zahtjev potrošaèa da se napusti njegov dom ili da ga se više ne posjeæuje, osim u sluèaju i u mjeri u kojoj je to opravdano radi propisima predviðenog prisilnog ispunjenja ugovorne obveze
+3. ustrajno i neželjeno komuniciranje s potrošaèem putem telefona, telefaksa, elektronièke pošte ili drugog sredstva daljinske komunikacije, osim u sluèajevima i u mjeri u kojoj je to opravdano zbog propisima predviðenog prisilnog ispunjenja ugovorne obveze
+4. traženje od potrošaèa koji postavlja odštetni zahtjev na temelju police osiguranja da dostavi odreðene dokumente koji, po razumnoj ocjeni, nisu relevantni za ocjenu opravdanosti tog zahtjeva ili sustavno izbjegavanje davanja odgovora na ustrajno dopisivanje potrošaèa, s namjerom da ga se odvrati od ostvarivanja prava koja mu pripadaju na temelju ugovora
+5. oglašavanje kojim se djecu izravno navodi na to da kupe oglašavani proizvod ili da nagovore svoje roditelje ili druge punoljetne osobe da im kupe oglašavani proizvod
+6. zahtijevanje plaæanja proizvoda odmah ili s odgodom ili vraæanja ili èuvanja proizvoda koji je trgovac isporuèio, a potrošaè ga uopæe nije naruèio
+7. izravno obavještavanje potrošaèa da æe posao ili opstanak trgovca biti ugrožen ako potrošaè ne kupi proizvod
+8. stvaranje lažne predodžbe da je potrošaè osvojio ili da æe osvojiti, bezuvjetno ili uz ispunjenje odreðene èinidbe, odreðenu nagradu ili neku drugu odgovarajuæu korist, kada u stvarnosti nikakva nagrada ili druga odgovarajuæa korist nije predviðena ili kada je u stvarnosti poduzimanje bilo kakve radnje usmjerene na ostvarivanje te nagrade ili druge koristi uvjetovano odreðenim plaæanjem od strane potrošaèa ili potrošaèu uzrokuje troškove.
+(2) Odredba stavka 1. toèke 3. ovoga èlanka ne utjeèe na primjenu pravila ovoga Zakona ili drugih propisa o ogranièenju ili zabrani korištenja odreðenih sredstava daljinske komunikacije u odreðenim okolnostima, koji su usklaðeni s pravilima Europske unije.
+Pravo na naknadu štete zbog nepoštene poslovne prakse
+Èlanak 41.
+Potrošaèi koji su pretrpjeli štetu zbog ugovora koji je sklopljen zbog nepoštene poslovne prakse imaju pravo na naknadu štete i ostala prava regulirana opæim pravilima ugovornog prava.
+Teret dokaza
+Èlanak 42.
+Teret dokaza o toènosti èinjeniènih tvrdnji u vezi s poslovnom praksom je na trgovcu.
+
+DIO TREÆI   POTROŠAÈKI UGOVORNI ODNOSI
+GLAVA I.   OPÆE ODREDBE
+Podruèje primjene
+Èlanak 43.
+Ako drukèije nije odreðeno, odredbe glave I. i glave III. poglavlja I. ovoga dijela Zakona primjenjuju se na svaki ugovor sklopljen izmeðu trgovca i potrošaèa, ukljuèujuæi:
+1. ugovore o isporuci toplinske energije, ugovore o isporuci vode, plina i elektriène energije bez obzira na to prodaju li se u ogranièenom obujmu ili utvrðenoj kolièini ili ne
+2. ugovore temeljem kojih trgovac potrošaèu isporuèuje ili se obvezuje isporuèiti digitalni sadržaj koji se ne isporuèuje na materijalnom nosaèu podataka ili digitalnu uslugu, a potrošaè ne plaæa cijenu niti se obvezuje platiti cijenu, veæ dostavlja ili se obvezuje dostaviti osobne podatke trgovcu, osim ako trgovac osobne podatke koje je dostavio potrošaè obraðuje iskljuèivo u svrhu isporuke digitalnog sadržaja koji se ne isporuèuje na materijalnom nosaèu podataka ili digitalne usluge ili kako bi se trgovcu omoguæilo usklaðivanje s obvezama kojima podliježe trgovac, a trgovac te podatke ne obraðuje ni u koje druge svrhe.
+Iznimke od primjene
+Èlanak 44.
+(1) Odredbe glave I. i glave III. poglavlja I. ovoga dijela Zakona ne primjenjuju se na ugovore:
+1. o pružanju socijalnih usluga, ukljuèujuæi usluge socijalnog stanovanja, skrbi o djeci, skrbi o osobama ili obiteljima kojima je potrebna stalna ili privremena pomoæ, ukljuèujuæi i dugoroènu skrb
+2. o korištenju zdravstvene zaštite sukladno propisima kojima se ureðuje zdravstvena zaštita
+3. o igrama na sreæu koje ukljuèuju novèani ulog, ukljuèujuæi lutriju, igre u casinima i klaðenje
+4. o financijskim uslugama
+5. o stjecanju ili prijenosu nekretnina ili prava na nekretninama
+6. za izgradnju novih graðevina ili rekonstrukciju postojeæih graðevina te najam stambenih prostorija
+7. o putovanju u paket-aranžmanu i povezanom putnom aranžmanu sukladno odredbama propisa kojim se ureðuje pružanje usluga u turizmu
+8. iz odredaba glave IV. ovoga dijela Zakona
+9. sklopljene pred javnopravnim tijelom koje je zakonom obvezno biti neovisno i nepristrano te koje je, pružanjem potrošaèu sveobuhvatne obavijesti, dužno osigurati da potrošaèi prije sklapanja ugovora pažljivo pravno razmotre taj ugovor te da budu upoznati s njegovim pravnim posljedicama
+10. o periodiènoj dostavi hrane, piæa ili drugih proizvoda namijenjenih dnevnoj uporabi u kuæanstvu koji se putem pokretne prodaje na malo isporuèuju u pravilnim vremenskim razmacima
+11. o pružanju usluga putnièkoga prijevoza, s time da se i na ove ugovore primjenjuje odredba èlanka 51., èlanka 52. i èlanka 74. ovoga Zakona i odredba propisa koji ureðuje platni promet, a koja se odnosi na naplatu naknada u vezi s pružanjem i korištenjem platnih usluga
+12. sklopljene putem automata za prodaju ili automatiziranih prodajnih prostora
+13. sklopljene s operatorom elektronièkih komunikacija putem javne govornice radi njezine uporabe ili radi uspostavljanja jedne pojedinaène veze putem telefona, interneta ili telefaksa od strane potrošaèa.
+(2) Odredbe ovoga Zakona ne primjenjuju se na prodaju robe u ovršnom postupku ili u drugom postupku prema zakonskom ovlaštenju.
+Pravna priroda zakonskih odredbi kojima se ureðuju potrošaèki ugovori
+Èlanak 45.
+(1) Potrošaè se ne može odreæi niti mu se mogu ogranièiti prava koja ima na temelju ovoga Zakona ili drugih zakona kojima se štite prava potrošaèa.
+(2) Ugovorne odredbe koje su za potrošaèa nepovoljnije od onih propisanih ovim Zakonom ili drugim zakonima kojima se ureðuje zaštita potrošaèa ništetne su.
+(3) Ako je za ugovore iz ovoga dijela Zakona mjerodavno strano pravo, potrošaè koji ima boravište u Republici Hrvatskoj ne može biti lišen zaštite na koju ima pravo po ovom Zakonu i drugim zakonima kojima se štite potrošaèi.
+(4) Ako je za ugovore iz glave IV. ovoga dijela Zakona mjerodavno strano pravo, potrošaè ne može biti lišen zaštite na koju ima pravo po ovome Zakonu, ako ima boravište u Republici Hrvatskoj, ako se nekretnina koja je predmet ugovora nalazi na podruèju Republike Hrvatske ili ako trgovac obavlja svoju djelatnost na podruèju Republike Hrvatske, odnosno ako na neki naèin usmjerava svoje poslovanje na Republiku Hrvatsku, a ugovor ulazi u okvir tog poslovanja.
+Obveza obavještavanja
+Èlanak 46.
+(1) Prije nego što potrošaè sklopi ugovor ili bude obvezan odgovarajuæom ponudom, trgovac ga mora na jasan i razumljiv naèin obavijestiti o:
+1. glavnim obilježjima proizvoda, u mjeri u kojoj je to prikladno s obzirom na proizvod te medij koji se koristi za prijenos obavijesti
+2. nazivu i sjedištu trgovca, telefonskom broju te, ako postoji, adresi elektronièke pošte
+3. maloprodajnoj cijeni proizvoda, a ako priroda proizvoda ne omoguæava da cijena bude razumno izraèunata unaprijed, o naèinu izraèuna cijene te ostalim troškovima prijevoza, dostave ili poštanskih usluga odnosno o tome da ti troškovi mogu biti naplaæeni, ako ih nije moguæe razumno izraèunati unaprijed
+4. uvjetima plaæanja, uvjetima isporuke robe ili pružanja usluge, roku isporuke robe ili pružanja usluge te naèinu rješavanja potrošaèkih pritužbi od strane trgovca
+5. tome da je, uz odgovornost za materijalne nedostatke za odreðenu robu ili odgovornost za usklaðenost digitalnog sadržaja ili digitalne usluge s ugovorom, izdano komercijalno jamstvo te uvjetima njegova korištenja, ako je komercijalno jamstvo izdano
+6. ispravama koje je proizvoðaè priredio radi lakše i sigurnije uporabe proizvoda, kao što su komercijalno jamstvo, tehnièke upute, upute za sklapanje, upute za uporabu, popis ovlaštenih servisa, upozorenje o moguæoj opasnosti pri uporabi, a koje moraju biti istovjetne s izvornikom i napisane jasno, vidljivo i èitljivo na hrvatskom jeziku i latiniènim pismom
+7. postojanju usluga koje se nude nakon prodaje te uvjetima korištenja tih usluga, ako trgovac pruža takve usluge
+8. trajanju ugovora te, ako je ugovor sklopljen na neodreðeno vrijeme ili ako je predviðeno da bude automatski produžen, o uvjetima otkaza ili raskida ugovora
+9. funkcionalnosti robe s digitalnim elementima, digitalnog sadržaja i digitalnih usluga, ukljuèujuæi primjenjive mjere tehnièke zaštite
+10. kompatibilnost i interoperabilnosti robe s digitalnim elementima, digitalnog sadržaja i digitalnih usluga za koju trgovac zna ili bi morao znati
+11. mehanizmima izvansudskog rješavanja sporova odnosno o sustavima za obešteæenje te naèinu kako ih potrošaè može koristiti.
+(2) Odredbe stavka 1. ovoga èlanka ne odnose se na svakodnevne poslove izmeðu trgovaca i potrošaèa koji se ispunjavaju u trenutku njihova sklapanja.
+
+Ispunjenje ugovora
+Èlanak 47.
+(1) Trgovac je dužan potrošaèu ispuniti ugovor u skladu s odredbama ugovora, ovoga Zakona i propisa kojim se ureðuju obveznopravni odnosi.
+(2) U sluèaju materijalnog nedostatka na robi na odnose potrošaèa i trgovca primjenjuju se odredbe propisa kojim se ureðuju obveznopravni odnosi o odgovornosti za materijalne nedostatke stvari.
+(3) Ako trgovac ili proizvoðaè daje komercijalno jamstvo, dužan je ispuniti obveze ureðene propisom kojim se ureðuju obveznopravni odnosi o komercijalnom jamstvu, kao i obveze preuzete takvim jamstvom.
+(4) Materijalni nedostatak na robi i neusklaðenost digitalnog sadržaja ili digitalne usluge s ugovorom, kada je to nužno, dokazuje se vještaèenjem u za to ovlaštenim ustanovama ili uz pomoæ ovlaštenog sudskog vještaka.
+(5) Ako se materijalni nedostatak na robi pojavi u roku od godine dana od dana prijelaza rizika na potrošaèa, a trgovac smatra da nedostatak u tom trenutku nije postojao, troškove vještaèenja predujmljuje trgovac, a konaèno ih snosi trgovac ili potrošaè, ovisno o rezultatu vještaèenja.
+(6) Iznimno od stavka 5. ovoga èlanka, trgovac predujmljuje troškove vještaèenja, a konaèno ih snosi trgovac ili potrošaè, ovisno o rezultatu vještaèenja, ako je ugovorom o kupoprodaji robe s digitalnim elementima ugovorena kontinuirana isporuka digitalnog sadržaja ili digitalne usluge:
+– tijekom odreðenog razdoblja, a nedostatak digitalnog sadržaja ili digitalne usluge se pojavi u roku od dvije godine od dana prijelaza rizika na potrošaèa i trgovac smatra da nedostatak nije postojao tijekom razdoblja isporuke
+– na rok dulji od dvije godine, tijekom kojeg se pojavio nedostatak digitalnog sadržaja ili digitalne usluge, a trgovac smatra da nedostatak nije postojao tijekom razdoblja isporuke.
+(7) Ako se neusklaðenost digitalnog sadržaja ili digitalne usluge s ugovorom kojim je ugovorena jednokratna isporuka ili niz pojedinaènih isporuka pojavi u roku od godine dana od dana prijelaza rizika na potrošaèa, a trgovac smatra da neusklaðenost u tom trenutku nije postojala, troškove vještaèenja predujmljuje trgovac, a konaèno ih snosi trgovac ili potrošaè, ovisno o rezultatu vještaèenja.
+(8) Iznimno od stavka 7. ovoga èlanka, ako je ugovorom predviðena kontinuirana isporuka digitalnog sadržaja ili digitalne usluge tijekom odreðenog razdoblja, a neusklaðenost digitalnog sadržaja ili digitalne usluge se pojavila tijekom razdoblja unutar kojeg se digitalni sadržaj ili digitalna usluga isporuèuje u skladu s ugovorom i trgovac smatra da neusklaðenost nije postojala u tom razdoblju, trgovac predujmljuje troškove vještaèenja, a konaèno ih snosi trgovac ili potrošaè, ovisno o rezultatu vještaèenja.
+(9) Ako se materijalni nedostatak na robi ili neusklaðenost digitalnog sadržaja ili digitalne usluge s ugovorom pojavi nakon isteka roka iz stavka 5. ovoga èlanka, ali ne kasnije od dvije godine od dana prijelaza rizika na potrošaèa, troškove vještaèenja predujmljuje potrošaè, a konaèno ih snosi trgovac ili potrošaè, ovisno o rezultatu vještaèenja.
+Rok za ispunjenje ugovora o kupoprodaji
+Èlanak 48.
+(1) Osim ako je drukèije ugovoreno, trgovac je dužan ispuniti ugovor o kupoprodaji bez odgaðanja, a najkasnije u roku od 30 dana od dana sklapanja ugovora.
+(2) Ako trgovac ne ispuni ugovor u roku iz stavka 1. ovoga èlanka, dužan je o tome, bez odgaðanja, pisanim putem obavijestiti potrošaèa.
+(3) Potrošaè ima pravo na raskid ugovora samo ako je dao trgovcu naknadni razumni rok za ispunjenje ugovora, osim ako iz okolnosti sluèaja proizlazi da trgovac neæe moæi ugovor ispuniti niti u naknadnom roku.
+(4) Odredbe ovoga èlanka ne odnose se na ugovore o isporuci vode, plina ili elektriène energije koji se prodaju u neogranièenom obujmu ili neutvrðenoj kolièini, ugovore o isporuci toplinske energije niti na ugovore koji imaju za predmet digitalni sadržaj koji se ne isporuèuje na materijalnom nosaèu podataka.
+Prelazak rizika kod ugovora o kupoprodaji
+Èlanak 49.
+(1) Kod ugovora o kupoprodaji rizik sluèajne propasti ili ošteæenja robe prelazi na potrošaèa u trenutku kada je njemu ili osobi koju je on naveo, a koja nije prijevoznik, roba predana u posjed.
+(2) Ako je prijevoznik bio izabran na prijedlog potrošaèa, rizik sluèajne propasti ili ošteæenja robe prelazi na potrošaèa u trenutku kada roba bude predana u posjed prijevozniku.
+(3) Odredbe ovoga èlanka ne odnose se na ugovore o isporuci vode, plina ili elektriène energije koji se prodaju u neogranièenom obujmu ili neutvrðenoj kolièini, ugovore o isporuci toplinske energije niti na ugovore koji imaju za predmet digitalni sadržaj koji se ne isporuèuje na materijalnom nosaèu podataka.
+Slanje proizvoda bez narudžbe potrošaèa
+Èlanak 50.
+(1) Isporuka robe ili pružanje usluge koje potrošaè nije naruèio, a za koje bi bio obvezan izvršiti bilo kakvo plaæanje, predstavlja nepoštenu poslovnu praksu u smislu odredbi dijela drugog glave IV. ovoga Zakona.
+(2) Ako trgovac suprotno stavku 1. ovoga èlanka pošalje potrošaèu odreðenu robu ili izvrši odreðenu uslugu, ta roba ili usluga smatraju se promidžbenim darom trgovca.
+(3) Ništetna je odredba u opæim uvjetima trgovca, ponudi, narudžbenici ili bilo kojem drugom dokumentu koji je trgovac dostavio potrošaèu uz nenaruèenu robu ili uslugu kojom bi bilo predviðeno da šutnja potrošaèa znaèi prihvat ponude.
+(4) Odredbama stavaka 1. do 3. ovoga èlanka ne dovode se u pitanje odredbe ovoga Zakona ili drugih zakona o prešutnom obnavljanju ugovora.
+Dodatna plaæanja
+Èlanak 51.
+(1) Prije nego što potrošaè sklopi ugovor ili bude obvezan odgovarajuæom ponudom, trgovac mora zatražiti njegov izrièit pristanak za bilo koje dodatno plaæanje koje bi potrošaè bio dužan izvršiti osim plaæanja koje je ugovoreno kao protuèinidba za glavnu èinidbu trgovca.
+(2) Ako potrošaè nije dao izrièit pristanak, veæ se trgovac poslužio opcijom prešutnog prihvata od strane potrošaèa, potrošaè ima pravo zatražiti povrat bilo kojeg dodatnog iznosa koji je platio temeljem takve opcije.
+Troškovi telefonske komunikacije
+Èlanak 52.
+Ako je trgovac uspostavio telefonsku liniju kako bi ga potrošaèi mogli telefonski kontaktirati u vezi sa sklopljenim ugovorom, potrošaè koji kontaktira trgovca na taj naèin plaæa poziv po tarifi koja ne smije biti viša od one za komunikaciju uobièajenom fiksnom geografskom linijom ili mobilnom linijom.
+GLAVA II.   NEPOŠTENE ODREDBE U POTROŠAÈKIM UGOVORIMA
+Pojam nepoštene ugovorne odredbe
+Èlanak 53.
+(1) Ugovorna odredba o kojoj se nije pojedinaèno pregovaralo smatra se nepoštenom ako, suprotno naèelu savjesnosti i poštenja, uzrokuje znatnu neravnotežu u pravima i obvezama ugovornih strana na štetu potrošaèa.
+(2) Smatra se da se o pojedinoj ugovornoj odredbi nije pojedinaèno pregovaralo ako je tu odredbu unaprijed formulirao trgovac, zbog èega potrošaè nije imao utjecaja na njezin sadržaj, poglavito ako je rijeè o odredbi unaprijed formuliranog standardnog ugovora trgovca.
+(3) Ako se pojedinaèno pregovaralo o pojedinim aspektima neke ugovorne odredbe odnosno o pojedinoj ugovornoj odredbi, a cjelokupna ocjena ugovora ukazuje na to da je rijeè o unaprijed formuliranom standardnom ugovoru trgovca, to neæe utjecati na moguænost da se ostale odredbe toga ugovora ocijene nepoštenima.
+(4) Ako trgovac tvrdi da se o pojedinoj ugovornoj odredbi u unaprijed formuliranom standardnom ugovoru pojedinaèno pregovaralo, dužan je to dokazati.
+(5) Odredbe ove glave Zakona ne primjenjuju se na ugovorne odredbe kojima se u ugovor unose zakonske odredbe prisilne prirode odnosno kojima se u ugovor unose odredbe i naèela konvencija koje obvezuju Republiku Hrvatsku.
+Pojedine ugovorne odredbe koje se mogu smatrati nepoštenima
+Èlanak 54.
+Ugovorne odredbe koje bi se, uz ispunjenje pretpostavki iz èlanka 53. ovoga Zakona, mogle smatrati nepoštenima, jesu:
+1. odredba o ogranièenju ili iskljuèenju odgovornosti trgovca za štetu uzrokovanu smræu ili tjelesnom ozljedom potrošaèa, ako je šteta posljedica štetne radnje trgovca
+2. odredba o ogranièenju ili iskljuèenju prava koja potrošaè ima prema trgovcu ili nekoj treæoj osobi u sluèaju potpunog ili djelomiènog neispunjenja ugovora, ukljuèujuæi i odredbu o iskljuèenju prijeboja potrošaèeva duga s dugom koji trgovac ima prema potrošaèu
+3. odredba kojom se potrošaè obvezuje na ispunjenje ugovorne èinidbe, dok je ispunjenje obveze trgovca uvjetovano okolnošæu èije ispunjenje ovisi iskljuèivo o volji trgovca
+4. odredba kojom se predviða da trgovac zadrži plaæeno od strane potrošaèa kada ovaj odluèi da neæe sklopiti, odnosno ne ispuni ugovor, dok se isto pravo ne predviða za potrošaèa ako trgovac ne želi sklopiti, odnosno ne ispuni ugovor
+5. odredba kojom se potrošaè obvezuje platiti naknadu štete zbog neispunjenja koja je znatno veæa od stvarne štete
+6. odredba kojom se trgovca ovlašæuje na raskid ugovora na temelju njegove diskrecijske ocjene, dok isto pravo nije predviðeno i za potrošaèa
+7. odredba kojom se trgovca ovlašæuje da kada raskine ugovor, zadrži plaæeno za usluge koje još nije obavio
+8. odredba kojom se trgovca ovlašæuje na otkaz ugovora sklopljenog na neodreðeno vrijeme bez ostavljanja razumnog otkaznog roka, osim u sluèajevima kada postoje opravdani razlozi za otkaz
+9. odredba kojom se odreðuje da æe se ugovor na odreðeno vrijeme produljiti ukoliko potrošaè ne izjavi prije prestanka ugovora da ne želi produljenje ugovora, a rok u kojem potrošaè to može izjaviti je nerazumno kratak
+10. odredba kojom se potrošaèu nameæu odreðene obveze, a da potrošaè prije sklapanja ugovora nije bio u moguænosti upoznati se s tom odredbom
+11. odredba kojom se trgovcu dopušta da jednostrano mijenja ugovorne odredbe bez valjanog, ugovorom predviðenog razloga
+12. odredba kojom se trgovcu dopušta da jednostrano mijenja obilježja proizvoda koji su predmet ugovora, bez valjanog razloga
+13. odredba kojom se cijena proizvoda utvrðuje u vrijeme isporuke robe, odnosno pružanja usluge ili odredba kojom se trgovcu dopušta poveæanje cijene, u oba sluèaja ne priznajuæi pritom potrošaèu pravo na raskid ugovora, ako je stvarna cijena znatno viša od cijene dogovorene u vrijeme sklapanja ugovora
+14. odredba kojom se trgovcu daje pravo ocijeniti je li prodana roba ili pružena usluga u skladu s ugovorom
+15. odredba kojom se trgovcu daje iskljuèivo pravo tumaèenja svih ili pojedinih odredaba ugovora
+16. odredba kojom se iskljuèuje ili ogranièava odgovornost trgovca za obveze koje je za njega preuzeo njegov zastupnik ili odredba kojom se dužnost poštovanja tih obveza uvjetuje ispunjenjem odreðenih formalnosti
+17. odredba kojom se obvezuje potrošaèa na ispunjenje njegovih ugovornih obveza èak i u sluèajevima kada trgovac nije ispunio svoje ugovorne obveze
+18. odredba kojom se trgovcu dopušta da, bez prethodnog pristanka potrošaèa, prenese prava i obveze iz ugovora na treæu osobu, ako se potrošaè time dovodi u nepovoljniji položaj
+19. odredba kojom se iskljuèuje, ogranièava ili otežava pravo potrošaèa da prava iz ugovora ostvari pred sudom ili drugim nadležnim tijelom, a poglavito odredba kojom se obvezuje potrošaèa na rješavanje spora pred arbitražom koja nije predviðena mjerodavnim pravom, odredba koja onemoguæava izvoðenje dokaza koji idu u prilog potrošaèu ili odredba kojom se teret dokaza prebacuje na potrošaèa kada bi, prema mjerodavnom pravu, teret dokaza bio na trgovcu.
+Utvrðivanje i ocjena nepoštenosti ugovornih odredaba
+Èlanak 55.
+(1) Nepoštenost ugovornih odredaba utvrðuje nadležni sud pravomoænom sudskom presudom.
+(2) Prilikom ocjene je li odreðena ugovorna odredba nepoštena uzimat æe se u obzir priroda proizvoda koji predstavljaju predmet ugovora, sve okolnosti prije i prilikom sklapanja ugovora, ostale ugovorne odredbe, kao i neki drugi ugovor koji, s obzirom na ugovor koji se ocjenjuje, predstavlja glavni ugovor.
+Nedopuštenost ocjene pojedinih ugovornih odredaba
+Èlanak 56.
+Nije dopušteno ocjenjivati jesu li ugovorne odredbe o predmetu ugovora i primjerenosti cijene nepoštene ako su te odredbe jasne, lako razumljive i uoèljive.
+Odredbe ugovora u pisanom obliku
+Èlanak 57.
+Ako na temelju zakona ili sporazuma stranaka ugovor mora biti u pisanom obliku, njegove odredbe moraju biti napisane jasno i razumljivo te moraju biti lako uoèljive.
+Tumaèenje ugovora
+Èlanak 58.
+(1) Dvojbene ili nerazumljive ugovorne odredbe tumaèe se u smislu koji je povoljniji za potrošaèa.
+(2) Odredba iz stavka 1. ovoga èlanka ne primjenjuje se u postupcima pokrenutim na temelju èlanka 114. ovoga Zakona.
+Posljedice nepoštenosti ugovorne odredbe
+Èlanak 59.
+(1) Nepoštena ugovorna odredba je ništetna.
+(2) Ništetnost pojedine odredbe ugovora ne povlaèi ništetnost i samog ugovora ako on može opstati bez ništetne odredbe.
+GLAVA III.   SKLAPANJE UGOVORA IZVAN POSLOVNIH PROSTORIJA I UGOVORA NA DALJINU
+POGLAVLJE I.   OPÆE ODREDBE O UGOVORIMA SKLOPLJENIM IZVAN POSLOVNIH PROSTORIJA I UGOVORIMA SKLOPLJENIM NA DALJINU
+Odjeljak 1.   Predugovorne obavijesti
+Opæe odredbe
+Èlanak 60.
+(1) Prije nego što potrošaè sklopi ugovor izvan poslovnih prostorija odnosno ugovor na daljinu ili bude obvezan odgovarajuæom ponudom, trgovac ga mora na jasan i razumljiv naèin obavijestiti o:
+1. glavnim obilježjima proizvoda, u mjeri u kojoj je to prikladno s obzirom na proizvod te medij koji se koristi za prijenos obavijesti
+2. svojem nazivu i sjedištu, telefonskom broju, adresi elektronièke pošte te o drugim sredstvima mrežne komunikacije koja omoguæuju pohranu vremena i komunikacije na trajnom mediju
+3. nazivu i sjedištu trgovca u èije ime i/ili za èiji raèun nastupa
+4. adresi mjesta svojeg poslovanja odnosno adresi mjesta poslovanja trgovca u èije ime i/ili za èiji raèun on nastupa, a na koju potrošaè može nasloviti svoje pritužbe, ako je to mjesto razlièito od sjedišta iz toèke 2. ovoga stavka
+5. maloprodajnoj cijeni proizvoda, a ako priroda proizvoda ne omoguæava da cijena bude izraèunata unaprijed, o naèinu izraèuna cijene te ostalim troškovima prijevoza, dostave ili poštanskih usluga odnosno o tome da ti troškovi mogu biti naplaæeni, ako ne mogu biti razumno izraèunati unaprijed
+6. informaciji da je maloprodajna cijena personalizirana na osnovi sustava automatiziranog donošenja odluka
+7. troškovima uporabe sredstava daljinske komunikacije u svrhu sklapanja ugovora, ako se ti troškovi ne zaraèunavaju po osnovnoj tarifi
+8. uvjetima plaæanja, uvjetima isporuke robe ili pružanja usluge, vremenu isporuke robe ili pružanja usluge te, ako postoji, naèinu rješavanja potrošaèkih pritužbi od strane trgovca
+9. uvjetima, rokovima i postupku izvršavanja prava na jednostrani raskid ugovora u sluèajevima u kojima to pravo postoji
+10. obrascu za jednostrani raskid ugovora sukladno èlanku 81. stavku 1. ovoga Zakona, u sluèajevima u kojima postoji pravo na jednostrani raskid
+11. tome da je potrošaè dužan snositi troškove povrata robe, ako iskoristi svoje pravo na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona, odnosno o troškovima povrata robe, ako kod ugovora sklopljenih na daljinu povrat robe zbog svoje prirode ne može biti izvršen poštom na uobièajen naèin
+12. tome da æe, ako iskoristi svoje pravo na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona nakon što je postavio zahtjev u skladu s èlankom 68. ili èlankom 77. ovoga Zakona, potrošaè biti dužan platiti trgovcu razumni dio cijene sukladno èlanku 84. stavku 8. ovoga Zakona
+13. tome da se potrošaè ne može koristiti pravom na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona, u sluèajevima u kojima je temeljem èlanka 86. ovoga Zakona to pravo iskljuèeno odnosno o pretpostavkama pod kojima potrošaè gubi pravo na jednostrani raskid ugovora
+14. postojanju odgovornosti za materijalne nedostatke robe odnosno odgovornosti za usklaðenost digitalnog sadržaja i digitalnih usluga s ugovorom
+15. uslugama ili pomoæi koji se potrošaèu nude nakon prodaje te uvjetima korištenja tih usluga ili pomoæi, ako ih trgovac pruža, kao i o eventualnim komercijalnim jamstvima koja su izdana uz robu
+16. postojanju odgovarajuæih pravila postupanja trgovca
+17. trajanju ugovora, ako je ugovor sklopljen na odreðeno vrijeme, odnosno uvjetima otkaza ili raskida ugovora koji je sklopljen na neodreðeno vrijeme odnosno koji se automatski produžuje
+18. minimalnom roku u kojem je potrošaè vezan ugovorom, ako postoji
+19. pologu ili drugom financijskom osiguranju koje je potrošaè na zahtjev trgovca dužan platiti ili pribaviti, kao i o uvjetima plaæanja toga pologa odnosno uvjetima pribavljanja drugog financijskog osiguranja
+20. funkcionalnosti robe s digitalnim elementima, digitalnog sadržaja i digitalnih usluga, ukljuèujuæi potrebnim mjerama tehnièke zaštite tih sadržaja
+21. kompatibilnost i interoperabilnosti robe s digitalnim elementima, digitalnog sadržaja i digitalnih usluga, za koju trgovac zna ili bi morao znati
+22. mehanizmima izvansudskog rješavanja sporova odnosno o sustavima za obešteæenje te naèinu kako ih potrošaè može koristiti.
+(2) Obavijesti iz stavka 1. ovoga èlanka èine sastavni dio ugovora sklopljenog izvan poslovnih prostorija ili ugovora sklopljenog na daljinu i ne mogu se mijenjati, osim ako su se strane izrijekom drukèije sporazumjele.
+(3) Ako je ugovor izvan poslovnih prostorija ili ugovor na daljinu sklopljen na neodreðeno vrijeme ili je njime ugovorena pretplata, ukupna cijena iz stavka 1. toèke 5. ovoga èlanka odnosi se na ukupne troškove u pojedinom obraèunskom razdoblju.
+(4) Ako je u ugovoru iz stavka 3. ovoga èlanka ugovorena fiksna naknada, ukupna cijena iz stavka 1. toèke 5. ovoga èlanka ukljuèuje i ukupne mjeseène troškove.
+(5) Ako u ugovoru iz stavka 3. ovoga èlanka ukupna cijena ne može biti razumno izraèunata unaprijed, potrošaè mora biti obaviješten o naèinu izraèuna cijene.
+(6) Ako trgovac ne obavijesti potrošaèa o dodatnim troškovima predviðenima u stavku 1. toèkama 5. i 11. ovoga èlanka te stavcima 3. do 5. ovoga èlanka, potrošaè nije dužan snositi te troškove.
+(7) Obavijest iz ovoga èlanka mora biti napisana na hrvatskom jeziku i latiniènim pismom, što ne iskljuèuje moguænost istodobne uporabe drugih jezika.
+Obveze obavještavanja pružatelja internetskih tržišta
+Èlanak 61.
+(1) Prije nego što potrošaè sklopi ugovor na internetskom tržištu ili bude obvezan odgovarajuæom ponudom, pružatelj internetskog tržišta mora ga na jasan i razumljiv naèin koji je primjeren sredstvima komunikacije na daljinu obavijestiti o:
+1. opæim informacijama o najvažnijim parametrima kojima se odreðuje rangiranje ponuda proizvoda, koje su dostupne u posebnom dijelu internetskog suèelja koji je izravno i lako dostupan sa stranice na kojoj su prikazane ponude koje se potrošaèu prikazuju u obliku rezultata upita korištenjem kljuène rijeèi, izraza ili drugog unosa i o relativnoj važnosti tih parametara u odnosu na druge parametre
+2. tome da je treæa osoba koja nudi proizvode trgovac ili nije trgovac, temeljem izjave te osobe pružatelju internetskog tržišta
+3. tome da se prava potrošaèa ureðena propisima koji su usklaðeni s pravnom steèevinom Europske unije ne primjenjuju na sklopljeni ugovor kada treæa osoba koja nudi proizvode nije trgovac
+4. tome da se ugovorne obveze prema potrošaèu dijele izmeðu treæe osobe koja nudi proizvode i pružatelja internetskog tržišta, pri èemu se takvim informacijama ne dovodi u pitanje odgovornost koja za pružatelja internetskog tržišta ili treæe osobe proizlazi iz prava Europske unije ili nacionalnog prava, ako je primjenjivo.
+(2) Obveza iz stavka 1. ovoga èlanka ne smatra se ispunjenom ako su potrošaèu obavijesti iz stavka 1. ovoga èlanka istaknute samo u opæim uvjetima poslovanja.
+Obveza obavještavanja sukladno posebnim propisima
+Èlanak 62.
+(1) Obveza obavještavanja iz ovoga poglavlja dopunjuje obvezu obavještavanja sukladno propisima kojima se ureðuju sve usluge i propisima kojima se ureðuje elektronièka trgovina.
+(2) Ako su odredbe propisa kojima se ureðuju sve usluge i kojima se ureðuje elektronièka trgovina u vezi sa sadržajem i naèinom pružanja obavijesti u suprotnosti s odredbama ovoga Zakona, primarno se primjenjuju odredbe ovoga Zakona.
+
+
+
+Sklapanje ugovora izvan poslovnih prostorija ili ugovora na daljinu putem javne dražbe
+Èlanak 63.
+U sluèaju sklapanja ugovora izvan poslovnih prostorija ili ugovora na daljinu putem javne dražbe, obavijesti iz èlanka 60. stavka 1. toèaka 2. do 4. ovoga Zakona mogu biti zamijenjene odgovarajuæim pojedinostima o voditelju dražbe.
+Teret dokazivanja
+Èlanak 64.
+U vezi s obvezom obavještavanja iz ovoga poglavlja teret dokaza je na trgovcu.
+Naèin obavještavanja potrošaèa o pravu na jednostrani raskid ugovora
+Èlanak 65.
+(1) Obavijesti iz èlanka 60. stavka 1. toèaka 9. do 12. ovoga Zakona mogu biti pružene u obliku informativnog obrasca o pravu na jednostrani raskid ugovora iz èlanka 81. stavka 1. ovoga Zakona.
+(2) Smatra se da je trgovac obvezu iz stavka 1. ovoga èlanka ispunio ako je potrošaèu predao ispravno popunjen informativni obrazac.
+Odjeljak 2.   Sklapanje ugovora izvan poslovnih prostorija
+Opæe odredbe
+Èlanak 66.
+U sluèaju sklapanja ugovora izvan poslovnih prostorija, obavijest iz èlanka 60. stavka 1. ovoga Zakona potrošaèu mora biti dana na papiru ili, uz suglasnost potrošaèa, na drugom trajnom mediju te mora biti èitljiva i napisana jednostavno i razumljivo.
+Potvrda o sklopljenom ugovoru
+Èlanak 67.
+(1) U sluèaju sklapanja ugovora izvan poslovnih prostorija, trgovac mora dostaviti potrošaèu primjerak ugovora ili pisanu potvrdu usmeno sklopljenog ugovora na papiru ili, uz suglasnost potrošaèa, na drugom trajnom mediju.
+(2) Ako je potrebno, ugovor ili pisana potvrda sklopljenog ugovora iz stavka 1. ovoga èlanka mora sadržavati i potvrdu prethodne suglasnosti potrošaèa iz èlanka 86. stavka 1. toèke 13. ovoga Zakona.
+Oblik zahtjeva za izvršenje ugovorene usluge
+Èlanak 68.
+(1) Zahtjev potrošaèa da izvršenje ugovorene usluge ili isporuke vode, plina ili elektriène energije koji se prodaju u neogranièenom obujmu ili neutvrðenoj kolièini odnosno isporuke toplinske energije za koje potrošaè ugovorom preuzima obvezu plaæanja zapoène prije isteka roka za jednostrani raskid ugovora iz èlanka 79. ovoga Zakona, mora biti dan na trajnom mediju.
+(2) Zahtjev iz stavka 1. ovoga èlanka mora sadržavati i potvrdu potrošaèa da je upoznat s èinjenicom da æe izgubiti pravo na jednostrani raskid ugovora iz ovoga odjeljka ako usluga bude ispunjena u potpunosti.
+Oblik obavijesti u sluèaju sklapanja ugovora o pružanju usluge popravka ili održavanja
+Èlanak 69.
+(1) Ako se ugovor sklopljen izvan poslovnih prostorija odnosi na usluge popravka ili održavanja, a sklopljen je na izrièit zahtjev potrošaèa, a iznos koji je potrošaè dužan platiti ne prelazi 1.500,00 kuna te je predviðeno da strane svoje ugovorne obveze ispune odmah, trgovac mora potrošaèu dati na papiru ili, uz suglasnost potrošaèa, na drugom trajnom mediju obavijesti iz èlanka 60. stavka 1. toèaka 2. i 3. ovoga Zakona, kao i obavijest o cijeni ili naèinu izraèuna cijene s procjenom ukupne cijene, dok obavijesti iz èlanka 60. stavka 1. toèaka 1., 9., 10. i 12. ovoga Zakona trgovac može dati u usmenom obliku samo uz izrièitu suglasnost potrošaèa.
+(2) U sluèaju sklapanja ugovora iz stavka 1. ovoga èlanka, pisana potvrda usmeno sklopljenog ugovora mora sadržavati sve obavijesti iz èlanka 60. stavka 1. ovoga Zakona.
+Dogaðanja koje trgovac organizira radi prodaje ili promocije proizvoda
+Èlanak 70.
+(1) U pozivu potrošaèu za sudjelovanje na dogaðanju u organizaciji trgovca èija je svrha promocije ili prodaje proizvoda potrošaèu, poput izleta i sveèanih veèera, trgovac je dužan jasno i razumljivo informirati potrošaèa o toj svrsi te o svim uvjetima sudjelovanja na dogaðanju.
+(2) Poziv potrošaèu iz stavka 1. ovog èlanka mora biti dostavljen na papiru ili, uz suglasnost potrošaèa, na drugom trajnom mediju.
+(3) Obvezivanje potrošaèa na kupnju proizvoda ili na bilo kakvo drugo plaæanje tijekom besplatnog izleta koji je organizirao trgovac radi promocije ili prodaje proizvoda, predstavlja nepoštenu poslovnu praksu u smislu odredbi dijela drugog glave IV. ovoga Zakona.
+Nezatraženi posjeti trgovaca potrošaèevu domu
+Èlanak 71.
+(1) Nezatražene posjete trgovaca potrošaèevu domu mogu se provoditi radnim danima izmeðu 8 i 20 sati.
+(2) Potrošaè može istaknuti dodatno vremensko ogranièenje posjete iz stavka 1. ovoga èlanka.
+(3) Zabranjene su posjete trgovaca koje se provode suprotno stavcima 1. i 2. ovoga èlanka te posjete domovima potrošaèa na kojima je jasno istaknuta zabrana.
+(4) Osoba koja provodi posjetu iz stavka 1. ovoga èlanka dužna je na poèetku komunikacije istaknuti i dokazati svoj identitet i navesti svrhu posjete.
+(5) Dokazivanje identiteta trgovca iz stavka 4. ovoga èlanka provodi se na naèin kojim je moguæe utvrditi identitet trgovca, a osobito službenim iskaznicama i znaèkama trgovca.
+(6) Teret dokazivanja o vremenu kada se provela nezatražena posjeta potrošaèevu domu je na trgovcu.
+Odjeljak 3.   Formalne pretpostavke pri sklapanju ugovora na daljinu
+Opæe odredbe
+Èlanak 72.
+(1) U sluèaju sklapanja ugovora na daljinu, obavijest iz èlanka 60. stavka 1. ovoga Zakona mora biti prilagoðena sredstvu daljinske komunikacije koje se koristi te mora biti priopæena jednostavnim i razumljivim jezikom, a ako se daje na trajnom mediju, mora biti i èitljiva.
+(2) Ako se ugovor sklapa putem sredstva daljinske komunikacije koje omoguæava ogranièen prostor ili ogranièeno vrijeme za prikaz obavijesti, trgovac je dužan na tom sredstvu ili putem toga sredstva daljinske komunikacije obavijestiti potrošaèa barem o podacima iz èlanka 60. stavka 1. toèaka 1., 2., 5., 11. i 19. i stavaka 3. do 5. ovoga Zakona.
+(3) Ako u svrhu sklapanja ugovora trgovac kontaktira potrošaèa putem telefona, dužan je na poèetku komunikacije navesti svoj identitet odnosno identitet osobe u èije ime i/ili za èiji raèun nastupa te komercijalnu svrhu poziva, što ne iskljuèuje obvezu trgovca iz stavka 2. ovoga èlanka.
+Sklapanje ugovora o uslugama na daljinu putem telefona
+Èlanak 73.
+(1) U sluèaju sklapanja ugovora o uslugama na daljinu putem telefona trgovac je dužan potrošaèu dostaviti ponudu na trajnom mediju na naèin kojim æe nedvojbeno biti moguæe utvrditi trenutak zaprimanja ponude.
+(2) Ugovor iz stavka 1. ovoga èlanka smatra se sklopljenim kad potrošaè, nakon primitka ponude, dostavi trgovcu potvrdu svoje suglasnosti o sklapanju ugovora.
+(3) Teret dokaza o zaprimanju potvrde suglasnosti iz stavka 2. ovoga èlanka je na trgovcu.
+Obavještavanje o obvezi plaæanja
+Èlanak 74.
+(1) Ako bi temeljem ugovora sklopljenog elektronièkim putem potrošaè bio u obvezi izvršiti odreðeno plaæanje, trgovac mora, prije nego što potrošaè izvrši narudžbu, na jasan i lako uoèljiv naèin obavijestiti potrošaèa o podacima iz èlanka 60. stavka 1. toèaka 1., 5., 17. i 18. i stavaka 3. do 5. ovoga Zakona.
+(2) U sluèaju iz stavka 1. ovoga èlanka, trgovac je dužan omoguæiti potrošaèu da u trenutku izvršenja narudžbe jasno izjavi da je upoznat s tim da narudžba ukljuèuje obvezu plaæanja.
+(3) Ako je za narudžbu potrebno aktivirati polje na ekranu ili sliènu funkciju, to polje na ekranu ili slièna funkcija mora biti obilježena na lako uoèljiv naèin rijeèima »narudžba s obvezom plaæanja« ili sliènim nedvojbenim izrazom kojim se objašnjava da narudžba ukljuèuje obvezu plaæanja.
+(4) Ako trgovac ne ispuni svoje obveze predviðene ovim èlankom, ugovor je ništetan odnosno narudžba potrošaèa je neobvezujuæa.
+Ogranièenja u dostavi i sredstva plaæanja
+Èlanak 75.
+Na mrežnim stranicama trgovca mora se, najkasnije na poèetku postupka naruèivanja, jasno i èitljivo naznaèiti postoje li odreðena ogranièenja u dostavi te koja su sredstva plaæanja prihvaæena.
+Potvrda o sklopljenom ugovoru
+Èlanak 76.
+(1) U razumnom roku nakon sklapanja ugovora na daljinu, a najkasnije u trenutku isporuke robe ili poèetka izvršavanja usluge, trgovac je dužan dostaviti potrošaèu potvrdu o sklopljenom ugovoru na trajnom mediju.
+(2) Potvrda iz stavka 1. ovoga èlanka mora ukljuèivati obavijest o svim podacima iz èlanka 60. stavka 1. ovoga Zakona, osim ako su ti podaci potrošaèu veæ dostavljeni na trajnom mediju prije sklapanja ugovora, kao i potvrdu prethodne suglasnosti potrošaèa iz èlanka 86. stavka 1. toèke 13. ovoga Zakona.
+Oblik zahtjeva za izvršenje ugovorene usluge
+Èlanak 77.
+(1) Zahtjev potrošaèa da izvršenje ugovorene usluge ili isporuke vode, plina ili elektriène energije koji se prodaju u neogranièenom obujmu ili neutvrðenoj kolièini odnosno isporuke toplinske energije za koje potrošaè ugovorom preuzima obvezu plaæanja zapoène prije isteka roka za jednostrani raskid ugovora iz èlanka 79. ovoga Zakona, mora biti izrièito izjavljen.
+(2) Zahtjev iz stavka 1. ovoga èlanka mora sadržavati i potvrdu potrošaèa da je upoznat s èinjenicom da æe izgubiti pravo na jednostrani raskid ugovora iz ovoga odjeljka ako usluga bude ispunjena u potpunosti.
+Primjena posebnih propisa
+Èlanak 78.
+Odredbe ovoga odjeljka ne utjeèu na primjenu propisa kojima se ureðuje elektronièka trgovina u vezi sa sklapanjem ugovora i isporukom narudžbi elektronièkim putem.
+Odjeljak 4.   Jednostrani raskid ugovora sklopljenog izvan poslovnih prostorija ili na daljinu
+Opæe odredbe
+Èlanak 79.
+(1) Potrošaè ima pravo, ne navodeæi razloge za to, jednostrano raskinuti ugovor sklopljen izvan poslovnih prostorija ili sklopljen na daljinu od dana njegova sklapanja, a najkasnije u roku od 14 dana.
+(2) U sluèaju sklapanja ugovora o kupoprodaji, rok iz stavka 1. ovoga èlanka zapoèinje teæi od dana kada je potrošaèu ili treæoj osobi odreðenoj od strane potrošaèa, a koja nije prijevoznik, roba koja èini predmet ugovora predana u posjed.
+(3) Ako je jednom narudžbom naruèio više komada robe koji trebaju biti isporuèeni odvojeno odnosno ako je rijeè o robi koja se dostavlja u više komada ili više pošiljki, rok iz stavka 1. ovoga èlanka zapoèinje teæi od dana kada je potrošaèu ili treæoj osobi odreðenoj od strane potrošaèa, a koja nije prijevoznik, predan u posjed zadnji komad ili zadnja pošiljka robe.
+(4) Ako je ugovorena redovita isporuka robe kroz odreðeni period, rok iz stavka 1. ovoga èlanka zapoèinje teæi od dana kada je potrošaèu ili treæoj osobi odreðenoj od strane potrošaèa, a koja nije prijevoznik, predan u posjed prvi komad ili prva pošiljka robe.
+(5) U sluèaju sklapanja ugovora o uslugama, ugovora o isporuci vode, plina ili elektriène energije koji se prodaju u neogranièenom obujmu ili neutvrðenoj kolièini te isporuci toplinske energije, kao i u sluèaju sklapanja ugovora kojemu je predmet digitalni sadržaj koji nije isporuèen na materijalnom nosaèu podataka, rok iz stavka 1. ovoga èlanka zapoèinje teæi od dana sklapanja ugovora.
+Neispunjenje obveze obavještavanja o pravu na jednostrani raskid ugovora
+Èlanak 80.
+(1) Ako trgovac nije obavijestio potrošaèa o njegovu pravu na jednostrani raskid ugovora sukladno èlanku 60. stavku 1. toèkama 9. i 10. ovoga Zakona, pravo potrošaèa na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona prestaje po isteku godine dana od isteka roka za raskid iz èlanka 79. ovoga Zakona.
+(2) Ako je trgovac dostavio potrošaèu obavijest iz stavka 1. ovoga èlanka u roku od godine dana, raèunajuæi od rokova odreðenih u èlanku 79. ovoga Zakona, pravo na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona prestaje po isteku 14 dana od dana kada je potrošaè primio tu obavijest.
+Naèin korištenja prava na jednostrani raskid ugovora
+Èlanak 81.
+(1) Potrošaè je dužan prije isteka roka za jednostrani raskid ugovora iz èlanka 79. ovoga Zakona obavijestiti trgovca o svojoj odluci da raskine ugovor, i to putem obrasca za jednostrani raskid ugovora ili putem bilo koje druge nedvosmislene izjave kojom izražava svoju volju da raskine ugovor.
+(2) Ako trgovac na svojoj mrežnoj stranici omoguæi potrošaèu jednostrani raskid ugovora, potrošaè može jednostrano raskinuti ugovor tako da obrazac za jednostrani raskid ili drugu nedvosmislenu izjavu o raskidu ispuni i pošalje trgovcu elektronièkim putem.
+(3) U sluèaju iz stavka 2. ovoga èlanka trgovac je dužan, bez odgaðanja, dostaviti potrošaèu potvrdu o primitku izjave o raskidu na trajnom mediju.
+(4) Izjavu o raskidu ugovora potrošaè je dužan poslati prije isteka roka za raskid ugovora predviðenog u èlancima 79. i 80. ovoga Zakona.
+(5) Potrošaè je dužan dokazati da je svoje pravo na jednostrani raskid ugovora ostvario u skladu s odredbama ovoga èlanka.
+(6) Sadržaj i oblik obrasca iz stavka 1. ovoga èlanka propisuje pravilnikom ministar nadležan za podruèje zaštite potrošaèa.
+Uèinak jednostranog raskida ugovora
+Èlanak 82.
+(1) Iskoristi li potrošaè svoje pravo na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona, strane nisu dužne ispuniti svoje obveze iz ugovora sklopljenog izvan poslovnih prostorija i ugovora sklopljenog na daljinu odnosno ako je ponudu za sklapanje ugovora dao potrošaè, strane nisu dužne sklopiti ugovor.
+(2) U sluèaju raskida ugovora, svaka je strana dužna vratiti drugoj ono što je primila na temelju ugovora, u skladu s odredbama ovoga odjeljka.
+(3) Potrošaè nije dužan naknaditi nikakve troškove koji bi bili posljedica korištenja njegova prava na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona, osim onih predviðenih èlankom 83. stavkom 2. i èlankom 84. ovoga Zakona.
+Obveze trgovca u sluèaju jednostranog raskida ugovora
+Èlanak 83.
+(1) Iskoristi li potrošaè svoje pravo na jednostrani raskid ugovora iz èlanka 79. ovoga Zakona, trgovac mora bez odgaðanja, a najkasnije u roku od 14 dana od dana kad je zaprimio obavijest o odluci potrošaèa da raskida ugovor sukladno èlanku 81. ovoga Zakona, vratiti potrošaèu sve što je ovaj platio na temelju ugovora.
+(2) Iznimno od stavka 1. ovoga èlanka, trgovac nije u obvezi izvršiti povrat dodatnih troškova koji su rezultat potrošaèeva izrièitog izbora vrste prijevoza koji je razlièit od najjeftinije vrste standardnog prijevoza koji je ponudio trgovac.
+(3) Kod ugovora o kupoprodaji, osim ako nije ponudio da robu koju potrošaè vraæa sam preuzme, trgovac mora izvršiti povrat plaæenog tek nakon što mu roba bude vraæena odnosno nakon što mu potrošaè dostavi dokaz da je robu poslao natrag trgovcu, ako bi o tome trgovac bio obaviješten prije primitka robe.
+(4) Trgovac mora izvršiti povrat plaæenoga iz stavka 1. ovoga èlanka služeæi se istim sredstvima plaæanja kojim se koristio potrošaè prilikom plaæanja, osim ako potrošaè izrièito ne pristane na neko drugo sredstvo plaæanja te uz pretpostavku da potrošaè ne bude obvezan platiti nikakve dodatne troškove za takav povrat.
+(5) Obrada osobnih podataka provodi se u skladu s odredbama propisa kojima se ureðuje zaštita osobnih podataka.
+(6) Trgovac ne smije koristiti sadržaj koji ne podrazumijeva osobne podatke, a koji je potrošaè pružio ili stvorio pri korištenju digitalnog sadržaja ili digitalne usluge koju isporuèuje trgovac, osim ako:
+1. je taj sadržaj neupotrebljiv izvan konteksta digitalnog sadržaja ili digitalne usluge koje isporuèuje trgovac
+2. se taj sadržaj iskljuèivo odnosi na aktivnost potrošaèa pri korištenju digitalnog sadržaja ili digitalne usluge koje isporuèuje trgovac
+3. je trgovac taj sadržaj objedinio s drugim podacima i ne može ga razdvojiti ili bi takvo razdvajanje zahtijevalo nerazmjerne napore
+4. su taj sadržaj proizveli potrošaè i druge osobe te ga drugi potrošaèi mogu nastaviti upotrebljavati.
+(7) Iznimno od stavka 6. toèaka 1., 2. i 3. ovoga èlanka, trgovac na zahtjev potrošaèa stavlja na raspolaganje sadržaj koji ne podrazumijeva osobne podatke, a koji je potrošaè pružio ili stvorio korištenjem digitalnog sadržaja ili digitalne usluge koju je trgovac isporuèio potrošaèu.
+(8) Sadržaj iz stavka 7. ovoga èlanka potrošaè ima pravo preuzeti besplatno, bez ogranièenja trgovca, u razumnom roku i strojno èitljivom formatu koji se uobièajeno upotrebljava.
+(9) U sluèaju jednostranog raskida ugovora trgovac može sprijeèiti potrošaèa od daljnje upotrebe digitalnog sadržaja ili digitalne usluge, posebice tako da mu onemoguæi pristup digitalnom sadržaju ili digitalnoj usluzi ili ugasi korisnièki raèun potrošaèa.
+Obveze potrošaèa u sluèaju jednostranog raskida ugovora
+Èlanak 84.
+(1) Osim ako je trgovac ponudio da robu koju potrošaè vraæa sam preuzme, potrošaè mora izvršiti povrat robe bez odgaðanja, a najkasnije u roku od 14 dana od kada je, sukladno èlanku 81. ovoga Zakona, obavijestio trgovca o svojoj odluci da raskine ugovor.
+(2) Smatra se da je potrošaè izvršio svoju obvezu iz stavka 1. ovoga èlanka na vrijeme ako prije isteka roka iz stavka 1. ovoga èlanka pošalje robu ili je preda trgovcu odnosno osobi koju je trgovac ovlastio da primi robu.
+(3) Potrošaè ne smije koristiti digitalni sadržaj ili digitalne usluge te ih ne smije stavljati na raspolaganje treæim osobama.
+(4) Potrošaè mora snositi samo izravne troškove povrata robe, osim ako je trgovac pristao snositi te troškove ili ako je trgovac propustio obavijestiti potrošaèa o tome da je dužan snositi te troškove.
+(5) Ako je, kod ugovora sklopljenog izvan poslovnih prostorija, roba u trenutku sklapanja ugovora bila dostavljena potrošaèu u njegov dom, trgovac mora preuzeti robu na svoj trošak ako robu, zbog njezine prirode, nije moguæe vratiti na uobièajeni naèin poštom.
+(6) Potrošaè je odgovoran za svako umanjenje vrijednosti robe koje je rezultat rukovanja robom, osim onog koje je bilo potrebno za utvrðivanje prirode, obilježja i funkcionalnosti robe.
+(7) Iznimno od stavka 6. ovoga èlanka, ako trgovac nije obavijestio potrošaèa o njegovu pravu na jednostrani raskid ugovora u skladu s èlankom 60. stavkom 1. toèkama 9. i 10. ovoga Zakona, potrošaè ne odgovara za umanjenje vrijednosti robe, bez obzira na uzrok umanjenja.
+(8) Ako jednostrano raskine ugovor nakon što je sukladno èlancima 68. i 77. ovoga Zakona izrièito zahtijevao da pružanje usluge ili ispunjenje ugovora o isporuci vode, plina, elektriène energije koji se prodaju u neogranièenom obujmu ili neutvrðenoj kolièini te isporuci toplinske energije zapoène prije isteka roka za jednostrani raskid ugovora, potrošaè je dužan platiti trgovcu dio ugovorene cijene koji je razmjeran onome što je trgovac ispunio potrošaèu do trenutka kada ga je potrošaè obavijestio o tome da koristi svoje pravo na jednostrani raskid ugovora, s tim da se proporcionalni iznos cijene koji je potrošaè dužan platiti izraèunava na temelju ukupne ugovorene cijene, a ako je ta cijena neumjerena, na temelju tržišne vrijednosti onoga što je trgovac ispunio potrošaèu.
+(9) Ako jednostrano raskine ugovor o uslugama ili ugovor o isporuci vode, plina ili elektriène energije koji se prodaju u neogranièenom obujmu ili neutvrðenoj kolièini te isporuci toplinske energije, potrošaè neæe biti obvezan platiti dio cijene razmjeran onome što je trgovac ispunio potrošaèu za vrijeme trajanja roka za jednostrani raskid ugovora, ako trgovac potrošaèu nije dostavio obavijesti predviðene odredbama èlanka 60. stavka 1. toèaka 9., 10. i 12. ovoga Zakona odnosno ako potrošaè nije sukladno èlancima 68. ili 77. ovoga Zakona izrièito zahtijevao da pružanje usluge zapoène prije isteka roka za jednostrani raskid ugovora.
+(10) Ako jednostrano raskine ugovor koji za predmet ima digitalni sadržaj koji nije isporuèen na materijalnom nosaèu podataka, potrošaè neæe biti u obvezi platiti dio cijene ili troškova razmjernih onome što je trgovac ispunio potrošaèu za vrijeme trajanja roka za jednostrani raskid ugovora, ako nije dao svoj izrièit pristanak na to da ispunjenje ugovora zapoène prije isteka roka iz èlanka 79. ovoga Zakona, ako nije potvrdio da je upoznat s èinjenicom da davanjem takvog pristanka gubi pravo na jednostrani raskid ugovora ili ako je trgovac propustio obavijestiti ga sukladno èlancima 67. ili 76. ovoga Zakona.
+Utjecaj jednostranog raskida ugovora na povezane ugovore
+Èlanak 85.
+Ako potrošaè jednostrano raskine ugovor sukladno odredbama ovoga odjeljka, ujedno æe se raskinuti bilo koji povezan ugovor, i to bez ikakvih troškova za potrošaèa, osim onih koji su predviðeni odredbama ovoga odjeljka.
+Iskljuèenje prava na jednostrani raskid ugovora
+Èlanak 86.
+(1) Potrošaè nema pravo na jednostrani raskid ugovora iz ovoga odjeljka ako je:
+1. u potpunosti ispunjen ugovor o uslugama za koji potrošaè preuzima obvezu platiti cijenu, a ispunjenje je zapoèelo uz izrièit prethodni pristanak potrošaèa te uz njegovu potvrdu da je upoznat s èinjenicom da æe izgubiti pravo na jednostrani raskid ugovora iz ovoga odjeljka ako usluga bude u potpunosti ispunjena
+2. predmet ugovora proizvod èija je cijena ovisna o promjenama na financijskom tržištu koje su izvan utjecaja trgovca, a koje se mogu pojaviti za vrijeme trajanja prava potrošaèa na jednostrani raskid ugovora
+3. predmet ugovora roba koja je izraðena po specifikaciji potrošaèa ili koja je jasno prilagoðena potrošaèu
+4. predmet ugovora lako pokvarljiva roba ili roba kojoj brzo istjeèe rok uporabe
+5. predmet ugovora zapeèaæena roba koja zbog zdravstvenih ili higijenskih razloga nije pogodna za vraæanje, ako je bila otpeèaæena nakon dostave
+6. predmet ugovora roba koja je zbog svoje prirode nakon dostave nerazdvojivo pomiješana s drugim stvarima
+7. predmet ugovora isporuka alkoholnih piæa èija je cijena ugovorena u trenutku sklapanja ugovora, a dostava može uslijediti tek nakon 30 dana, ako je cijena ovisna o promjenama na tržištu koje su izvan utjecaja trgovca
+8. potrošaè posebno zahtijevao posjet trgovca radi obavljanja hitnih popravaka ili poslova održavanja, s time da ako prilikom takvog posjeta, uz one usluge koje je potrošaè izrijekom zahtijevao, trgovac pruži i neke druge usluge odnosno isporuèi i neku drugu robu osim one koja je nužna za obavljanje hitnih popravaka ili poslova održavanja, potrošaè ima pravo na jednostrani raskid ugovora u vezi s tim dodatnim uslugama ili robom
+9. predmet ugovora isporuka zapeèaæenih audiosnimaka ili videosnimaka odnosno raèunalnih programa, koji su otpeèaæeni nakon isporuke
+10. predmet ugovora isporuka novina, periodiènog tiska ili magazina, s iznimkom pretplatnièkih ugovora za takve publikacije
+11. ugovor sklopljen na javnoj dražbi
+12. predmet ugovora pružanje usluge smještaja koji nije namijenjen stanovanju, pružanje usluge prijevoza robe, usluge najma vozila, usluge pripremnice obroka (catering) ili usluga vezanih uz slobodno vrijeme, ako je ugovoreno da usluga bude pružena odreðenog datuma ili u odreðenom razdoblju
+13. predmet ugovora isporuka digitalnog sadržaja za koji potrošaè preuzima obvezu platiti cijenu, koji nije isporuèen na materijalnom nosaèu podataka, ako je ispunjenje ugovora zapoèelo uz izrièit prethodni pristanak potrošaèa te uz njegovu potvrdu da je upoznat s èinjenicom da æe time izgubiti pravo na jednostrani raskid ugovora, a trgovac mu je dostavio potvrdu sklopljenog ugovora sukladno èlanku 67. ili èlanku 76. ovoga Zakona
+14. potrošaè posebno zahtijevao posjet trgovca radi obavljanja usluge popravaka za koje se plaæa cijena, a ugovor, èije ispunjenje je zapoèelo uz izrièit prethodni pristanak potrošaèa, je ispunjen u potpunosti.
+(2) Odredbe stavka 1. toèaka 1., 2., 3. i 5. ovoga èlanka ne primjenjuju se na ugovore sklopljene tijekom nezatraženih posjeta trgovca potrošaèevu domu ili tijekom izleta koje je trgovac organizirao radi promocije ili prodaje proizvoda potrošaèu.
+POGLAVLJE II.   SKLAPANJE NA DALJINU UGOVORA O PRODAJI FINANCIJSKIH USLUGA
+Pojam
+Èlanak 87.
+(1) Ugovor o prodaji financijskih usluga sklopljen na daljinu je ugovor izmeðu trgovca i potrošaèa, èiji je predmet pružanje financijskih usluga, a sklopljen je u okviru organiziranog sustava prodaje na daljinu proizvoda trgovca koji prije i u vrijeme sklapanja ugovora, za potrebe sklapanja takvih ugovora, iskljuèivo koristi jedno ili više sredstava daljinske komunikacije.
+(2) Financijske usluge na koje se odnosi ugovor iz stavka 1. ovoga èlanka jesu bankovne usluge, usluge kreditiranja, usluge osiguranja, ukljuèujuæi usluge dobrovoljnoga mirovinskog osiguranja, investicijske usluge, usluge stambene štednje te platne usluge.
+(3) Ako se na temelju ugovora o financijskim uslugama potrošaèu sukcesivno pruža odreðena usluga odnosno da mu se pruža niz odvojenih usluga iste prirode, odredbe ovoga poglavlja odnose se samo na poèetni ugovor.
+Prethodna obavijest
+Èlanak 88.
+(1) U razumnom roku prije sklapanja ugovora potrošaè mora biti obaviješten o trgovcu, financijskoj usluzi koja je predmet ugovora, pojedinostima ugovora te naèinu rješavanja sporova.
+(2) Prethodna obavijest iz stavka 1. ovoga èlanka mora sadržavati podatke koji su propisani èlancima 89. do 92. ovoga Zakona.
+(3) Prethodna obavijest iz stavka 1. ovoga èlanka mora sadržavati jasno istaknutu komercijalnu namjeru trgovca, mora biti jednoznaèna, jasna, lako razumljiva i prilagoðena sredstvu daljinske komunikacije koje se upotrebljava.
+(4) U sluèaju uporabe telefona, identitet trgovca, kao i komercijalna svrha poziva moraju biti izrièito navedeni prilikom poèetka razgovora.
+(5) Uz izrièit pristanak potrošaèa, osoba koja u ime trgovca kontaktira s potrošaèem dužna je obavijestiti ga o svom identitetu, kao i o prirodi odnosa izmeðu nje i trgovca te podacima predviðenim èlankom 90. toèkama 1., 2. i 5. i èlankom 91. toèkom 1. ovoga Zakona.
+(6) Osoba koja kontaktira s potrošaèem obavijestit æe ga o tome da mu na njegov zahtjev mogu biti dostavljene daljnje obavijesti te æe ga obavijestiti o tome kakve su prirode te obavijesti.
+(7) U svakom sluèaju, trgovac je dužan dostaviti potrošaèu obavijest koja sadrži sve podatke iz èlanaka 89. do 92. ovoga Zakona prilikom ispunjenja svoje obveze iz èlanka 93. ovoga Zakona.
+(8) Obavijesti o ugovornim obvezama potrošaèa, koje su mu dostavljene prije sklapanja ugovora, moraju biti sukladne ugovornim obvezama koje bi za potrošaèa proizlazile iz primjene prava koje æe biti mjerodavno za taj ugovor, ako on naknadno bude sklopljen.
+(9) Uz podatke koji su navedeni u odredbama ovoga èlanka te u èlancima 89. do 92. ovoga Zakona, potrošaè mora biti obaviješten i o svim ostalim podacima predviðenim propisima kojima se ureðuju pojedine financijske usluge koje su predmet ugovora izmeðu potrošaèa i trgovca.
+Obavijest o trgovcu
+Èlanak 89.
+(1) Obavijest o trgovcu sadrži: njegovo ime, naziv ili tvrtku, njegovu djelatnost, punu adresu njegova prebivališta ili sjedište, bilo koju drugu adresu koja utjeèe na njegov odnos s potrošaèem te njegov matièni broj i registar u kojem je upisan.
+(2) Ako je djelatnost trgovca podložna izdavanju odreðene dozvole ili dopuštenja od strane javnopravnog tijela, obavijest o trgovcu ukljuèuje i navoðenje pojedinosti te dozvole ili dopuštenja, poput navoðenja tijela koje je izdalo dozvolu ili dopuštenje, na koji je rok i s kojim sadržajem izdana ta dozvola ili dopuštenje.
+(3) Ako trgovac u Republici Hrvatskoj ima svog predstavnika, obavijest o trgovcu ukljuèuje i ime, naziv ili tvrtku tog predstavnika, kao i adresu koja utjeèe na odnos potrošaèa s tim predstavnikom.
+(4) Ako potrošaè stupa u ugovorni odnos s trgovcem putem neke druge osobe, koja nije njegov predstavnik, obavijest o trgovcu ukljuèuje i ime, naziv ili tvrtku te osobe, svojstvo u kojem ona djeluje te sjedište ili drugu adresu koja utjeèe na odnos potrošaèa s tom osobom.
+Obavijest o financijskoj usluzi
+Èlanak 90.
+Obavijest o financijskoj usluzi koja je predmet ugovora sadrži:
+1. opis osnovnih obilježja financijske usluge
+2. ukupnu cijenu koju je potrošaè dužan platiti za tu uslugu, ukljuèujuæi sve poreze, pristojbe, naknade i ostale troškove odnosno, kad toèan iznos ukupne cijene nije moguæe utvrditi, elemente za izraèun ukupne cijene koji omoguæavaju potrošaèu da sam utvrdi cijenu
+3. naznaku da financijska usluga ukljuèuje financijske instrumente povezane s posebnim rizikom koji proizlazi iz specifiènosti tog instrumenta odnosno financijske usluge koja se nudi
+4. naznaku da cijena ili rezultati financijske usluge ovise o promjenama na financijskom tržištu na koje trgovac nema utjecaja te naznaku da dosadašnja cijena i rezultati financijske usluge nisu pokazatelj buduæe cijene i buduæih rezultata te financijske usluge
+5. naznaku o postojanju moguænosti da potrošaè bude obvezan na plaæanje nekih dodatnih poreza ili troškova, u skladu s poreznim propisima koje ne plaæa trgovcu odnosno koje ne plaæa putem trgovca
+6. vremensko ogranièenje valjanosti obavijesti
+7. pojedinosti u odnosu na plaæanje cijene i ispunjenje financijske usluge
+8. naznaku svakog dodatnog troška koji je potrošaè dužan platiti za uporabu sredstava daljinske komunikacije.
+Obavijest o pojedinostima ugovora
+Èlanak 91.
+Obavijest o pojedinostima ugovora sadrži:
+1. naznaku postoji li ili ne postoji pravo potrošaèa na jednostrani raskid ugovora iz èlanka 95. ovoga Zakona te, kada to pravo postoji, naznaku roka u kojem se to pravo može ostvariti, pretpostavke pod kojima se ono može ostvariti, ukljuèujuæi i naznaku iznosa na èije bi plaæanje potrošaè mogao biti obvezan na temelju èlanka 98. stavka 3. ovoga Zakona, kao i naznaku posljedica neostvarivanja prava na jednostrani raskid ugovora
+2. minimalno trajanje ugovora o financijskoj usluzi, ako je rijeè o usluzi koja se pruža trajno ili ponavljano
+3. naznaku o pravu na jednostrani raskid ili otkaz ugovora prije isteka vremena na koje je ugovor sklopljen, kao i naznaku ugovorne kazne ili bilo kojeg drugog oblika obešteæenja predviðenog ugovorom za te sluèajeve
+4. praktiène upute za ostvarivanje prava na jednostrani raskid iz èlanka 95. ovoga Zakona, ukljuèujuæi adresu na koju se obavijest o raskidu dostavlja
+5. naznaku države èije je pravo mjerodavno za ureðenje odnosa trgovca i potrošaèa prije sklapanja ugovora
+6. naznaku ugovorne odredbe o odreðivanju prava mjerodavnog za ugovor o financijskoj usluzi, kao i naznaku ugovorne odredbe o odreðivanju suda nadležnog za rješavanje sporova iz tog ugovora
+7. naznaku jezika na kojem ili na kojima su sastavljeni ugovor i prethodna obavijest te naznaku jezika na kojem ili na kojima æe, uz pristanak potrošaèa, trgovac za vrijeme trajanja ugovora komunicirati s potrošaèem.
+Obavijest o naèinu rješavanja sporova
+Èlanak 92.
+Obavijest o naèinu rješavanja sporova sadrži:
+1. naznaku je li predviðen odreðeni mehanizam izvansudskog rješavanja sporova i naknade štete koji je predviðen ugovorom sklopljenim na daljinu te na koji se naèin i pod kojim pretpostavkama potrošaè može koristiti tim mehanizmom
+2. naznaku je li predviðen odreðeni jamstveni fond ili neki drugi oblik obešteæenja potrošaèa koji nije odreðen propisima o kreditnim institucijama i propisima o tržištu kapitala.
+Oblik prethodne obavijesti
+Èlanak 93.
+(1) U razumnom roku prije sklapanja ugovora ili predugovora trgovac æe dostaviti potrošaèu ugovorne odredbe i uvjete te prethodnu obavijest iz èlanka 88. ovoga Zakona koja sadrži sve podatke navedene u èlancima 89. do 92. ovoga Zakona, u pisanom obliku ili na drugom, potrošaèu dostupnom, trajnom mediju.
+(2) Ako je na izrièit zahtjev potrošaèa ugovor sklopljen uporabom sredstva daljinske komunikacije koje ne omoguæava da mu se ugovorne odredbe i uvjeti te prethodna obavijest iz èlanka 88. ovoga Zakona dostave u skladu sa stavkom 1. ovoga èlanka, trgovac æe ispuniti svoju obvezu iz stavka 1. ovoga èlanka odmah nakon sklapanja ugovora.
+(3) U svakom sluèaju, potrošaè je u bilo kojem trenutku tijekom trajanja ugovornog odnosa ovlašten zahtijevati da mu se dostavi primjerak ugovora koji je sklopio s trgovcem.
+(4) Potrošaè je ovlašten promijeniti sredstvo daljinske komunikacije kojim se koristi, osim ako je to nespojivo sa sklopljenim ugovorom ili prirodom financijske usluge koja mu se pruža.
+Sukcesivno pružanje usluga
+Èlanak 94.
+(1) Ako se potrošaèu sukcesivno pružaju odreðene usluge odnosno da mu se pruža niz odvojenih usluga iste prirode, a da izmeðu njega i trgovca nije sklopljen poèetni ugovor, odredbe èlanaka 88. do 93. ovoga Zakona primjenjivat æe se samo kada se ta usluga pruža prvi put.
+(2) Ako, u sluèaju iz stavka 1. ovoga èlanka, usluga odreðene vrste potrošaèu nije pružena u razdoblju od godinu dana, sljedeæa usluga iste vrste smatrat æe se prvom uslugom te æe se na tu uslugu primjenjivati odredbe èlanaka 88. do 93. ovoga Zakona.
+Pravo na jednostrani raskid ugovora
+Èlanak 95.
+(1) Svaki ugovor o financijskim uslugama sklopljen sredstvom daljinske komunikacije potrošaè može, ne navodeæi za to razloge, raskinuti u roku od 14 dana odnosno u roku od 30 dana ako je rijeè o ugovoru o životnom osiguranju i dobrovoljnom mirovinskom osiguranju.
+(2) Rok za raskid ugovora iz stavka 1. ovoga èlanka zapoèinje teæi od dana sklapanja ugovora odnosno u sluèaju sklapanja ugovora o životnom osiguranju i dobrovoljnom mirovinskom osiguranju od dana kada je potrošaè obaviješten da je ugovor sklopljen.
+(3) Ako je, sukladno odredbi èlanka 93. stavka 2. ovoga Zakona, ugovor sklopljen prije nego što su potrošaèu dostavljene ugovorne odredbe i uvjeti te prethodna obavijest sa svim podacima iz èlanaka 89. do 92. ovoga Zakona, rok za raskid ugovora iz stavka 1. ovoga èlanka zapoèinje teæi od dana kad su mu ugovorne odredbe i uvjeti te prethodna obavijest dostavljeni sukladno èlanku 93. stavcima 1. i 2. ovoga Zakona.
+(4) Potrošaè nema pravo na jednostrani raskid ugovora predviðen stavkom 1. ovoga èlanka ako je:
+1. sklopljen ugovor o financijskim uslugama èija cijena ovisi o promjenama na financijskom tržištu koje su izvan utjecaja trgovca do èega može doæi tijekom trajanja roka za raskid ugovora iz stavka 1. ovoga èlanka, kao što su usluge koje se odnose na kupoprodaju strane valute, instrumente novèarskog tržišta, prenosive obveznice, udjele u investicijskim fondovima, roènice, ukljuèujuæi usporedive instrumente s ugovorenom gotovinskom namirom; kamatni terminski ugovor; kamatne, valutne i dionièke zamjene te opcije stjecanja ili otuðenja nekog od prethodno navedenih instrumenata, ukljuèujuæi ekvivalentne instrumente koji se namiruju gotovinskim sredstvima, a posebice opcije na valute i kamatne stope
+2. sklopljen ugovor o osiguranju putnika i prtljage ili neka druga kratkoroèna polica osiguranja koja se sklapa na rok kraæi od mjesec dana
+3. ugovor koji su obje ugovorne strane u potpunosti ispunile na izrièit zahtjev potrošaèa prije nego što je potrošaè iskoristio svoje pravo na raskid ugovora iz ovoga èlanka.
+Oblik jednostranog raskida ugovora
+Èlanak 96.
+(1) Ugovor se raskida obaviješæu u pisanom obliku ili na drugom, potrošaèu dostupnom, trajnom mediju, poslanom prije isteka roka za raskid ugovora, predviðenog èlankom 95. ovoga Zakona, s tim da je potrošaè dužan slijediti upute za ostvarivanje prava na jednostrani raskid koje su mu dane u prethodnoj obavijesti iz èlanka 88. ovoga Zakona.
+(2) Smatra se da je ugovor raskinut na vrijeme ako je obavijest o raskidu upuæena unutar rokova iz èlanka 95. stavka 1. ovoga Zakona.
+(3) Ugovor je raskinut u trenutku kad je trgovac ili od njega odreðena osoba primila obavijest o raskidu.
+Poèetak ispunjenja ugovora
+Èlanak 97.
+(1) Trgovac može zapoèeti s ispunjenjem ugovora prije isteka roka za jednostrani raskid ugovora iz èlanka 95. ovoga Zakona jedino uz izrièit pristanak potrošaèa.
+(2) Trgovac nije ovlašten zahtijevati ispunjenje potrošaèeve obveze iz ugovora prije isteka roka za jednostrani raskid ugovora, predviðenog èlankom 95. ovoga Zakona.
+Posljedice jednostranog raskida ugovora
+Èlanak 98.
+(1) U sluèaju jednostranog raskida ugovora iz èlanka 95. ovoga Zakona, potrošaè ne odgovara za štetu koju je trgovac zbog toga pretrpio te nije dužan platiti nikakvu kaznu ili naknadu za raskid ugovora.
+(2) U sluèaju raskida ugovora, svaka je strana dužna vratiti drugoj ono što je na temelju tog ugovora primila od druge strane.
+(3) Ako se priroda pružene usluge protivi vraæanju, potrošaè je dužan platiti cijenu dijela usluge koja mu je pružena do trenutka raskida ugovora.
+(4) Iznos koji bi potrošaè bio dužan platiti trgovcu na temelju stavka 3. ovoga èlanka mora biti proporcionalan pruženoj usluzi te ni u kojem sluèaju ne smije biti takav da ga se može ocijeniti kao kaznu ili naknadu za raskid ugovora.
+(5) Trgovac nema pravo zahtijevati od potrošaèa plaæanje bilo kojeg iznosa na temelju stavka 3. ovoga èlanka ako nije u stanju dokazati da je o moguænosti toga plaæanja potrošaè bio obaviješten u prethodnoj obavijesti iz èlanka 88. ovoga Zakona, na naèin predviðen èlankom 91. toèkom 1. ovoga Zakona.
+(6) Trgovac nema pravo zahtijevati od potrošaèa plaæanje cijene dijela usluge koja je ispunjena prije jednostranog raskida ugovora iz èlanka 95. ovoga Zakona, ako je usluga pružena suprotno odredbi èlanka 97. stavka 1. ovoga Zakona.
+(7) Raskine li potrošaè ugovor na temelju èlanka 95. ovoga Zakona, trgovac je dužan bez odgaðanja, a najkasnije u roku od 30 dana od dana kad je trgovac ili od njega odreðena osoba obaviještena o raskidu ugovora, vratiti potrošaèu sve što je na temelju tog ugovora od njega primio, umanjeno za iznos koji je trgovac ovlašten, na temelju stavka 3. ovoga èlanka, naplatiti od potrošaèa.
+(8) Raskine li potrošaè ugovor na temelju èlanka 95. ovoga Zakona, dužan je bez odgaðanja, a najkasnije u roku od 30 dana od dana odašiljanja obavijesti o raskidu, vratiti trgovcu ono što je od njega primio na temelju tog ugovora.
+Utjecaj raskida potrošaèkog ugovora o financijskoj usluzi na druge ugovore
+Èlanak 99.
+Iskoristi li potrošaè svoje pravo na jednostrani raskid ugovora iz èlanka 95. ovoga Zakona, raskidom ugovora o financijskoj usluzi raskida se i svaki drugi ugovor koji je, na temelju ili u vezi s ugovorom o financijskoj usluzi, potrošaè sklopio s trgovcem ili nekom drugom osobom koja je ugovor s potrošaèem sklopila na temelju prethodnog sporazuma s trgovcem.
+
+Postupanje protivno odredbama ovoga poglavlja
+Èlanak 100.
+(1) Ako trgovac ne ispuni bilo koju obvezu predviðenu ovim poglavljem, potrošaè ima pravo raskinuti ugovor u bilo kojem trenutku.
+(2) U sluèaju iz stavka 1. ovoga èlanka, potrošaè neæe biti dužan naknaditi trgovcu štetu koju je ovaj zbog raskida pretrpio niti mu platiti bilo koju drugu naknadu za raskid ugovora.
+Teret dokaza
+Èlanak 101.
+(1) Trgovac je dužan dokazati da je ispunio svoju obvezu prethodnog obavještavanja potrošaèa te da je potrošaè pristao sklopiti ugovor odnosno pristao na to da mu trgovac zapoène pružati ugovorenu uslugu prije isteka roka za jednostrani raskid ugovora iz èlanka 95. ovoga Zakona.
+(2) Ugovorna odredba kojom je predviðeno da æe teret dokaza u odnosu na èinjenice navedene u stavku 1. ovoga èlanka biti na potrošaèu, smatrat æe se nepoštenom ugovornom odredbom, u smislu odredbi glave II. ovoga dijela Zakona.
+Odgovarajuæa primjena
+Èlanak 102.
+Odredbe èlanka 50. ovoga Zakona i propisa kojim se ureðuju elektronièke komunikacije u dijelu koji se odnosi na neželjene elektronièke komunikacije na odgovarajuæi se naèin primjenjuju i na ugovore iz ovoga poglavlja.
+GLAVA IV.   UGOVOR O PRAVU NA VREMENSKI OGRANIÈENU UPORABU (TIMESHARE), UGOVOR O DUGOTRAJNOM TURISTIÈKOM PROIZVODU, UGOVOR O PONOVNOJ PRODAJI I UGOVOR O ZAMJENI
+Podruèje primjene
+Èlanak 103.
+(1) Odredbama ove glave Zakona ureðuje se ugovor o pravu na vremenski ogranièenu uporabu (timeshare), ugovor o dugotrajnom turistièkom proizvodu, ugovor o ponovnoj prodaji i ugovor o zamjeni, sklopljen izmeðu potrošaèa i trgovca.
+(2) Pri izraèunavanju trajanja ugovora o pravu na vremenski ogranièenu uporabu (timeshare) ili ugovora o dugotrajnom turistièkom proizvodu, uzima se u obzir svaka ugovorna odredba koja dopušta prešutno obnavljanje ili produženje ugovora.
+Opæe odredbe
+Èlanak 104.
+(1) Ugovori iz ove glave Zakona moraju biti sklopljeni u pisanom obliku, na papiru ili drugom trajnom mediju.
+(2) Ugovori iz ove glave Zakona moraju biti sastavljeni na službenom jeziku ili jednom od službenih jezika države u kojoj potrošaè boravi ili èiji je državljanin, po njegovu izboru, s tim da ako potrošaè boravi u ili je državljanin neke države èlanice Europske unije, može izabrati službeni jezik te države jedino ako je to ujedno službeni jezik Europske unije.
+(3) Ako potrošaè boravi u Republici Hrvatskoj ili ako trgovac obavlja svoju prodajnu djelatnost na podruèju Republike Hrvatske, ugovori iz ove glave Zakona moraju u svakom sluèaju biti sastavljeni na hrvatskom jeziku.
+(4) Ako se ugovor o pravu na vremenski ogranièenu uporabu (timeshare) odnosi na odreðenu nekretninu, trgovac je dužan dostaviti potrošaèu ovjereni prijevod ugovora na službeni jezik ili jedan od službenih jezika države u kojoj se nekretnina nalazi, s time da ako se nekretnina nalazi u nekoj državi èlanici Europske unije, ugovor mora biti preveden na službeni jezik ili jedan od službenih jezika te države koji je ujedno i službeni jezik Europske unije.
+(5) Ako bi ugovori iz ove glave Zakona bili sastavljeni u više jeziènih inaèica, svaka se jezièna inaèica smatra izvornikom.
+(6) Potrošaè mora primiti najmanje dva primjerka ugovora iz ove glave Zakona.
+Oglašavanje
+Èlanak 105.
+(1) U svakom oglasu koji se odnosi na ugovore iz ove glave Zakona mora biti jasno naznaèeno pravo dobivanja prethodne obavijesti iz èlanka 106. ovoga Zakona, kao i mjesto na kojem se ta obavijest može dobiti.
+(2) Ako se sklapanje ugovora iz ove glave Zakona potrošaèu nudi osobno, na promotivnom ili prodajnom dogaðanju, trgovac mora u pozivu jasno navesti komercijalnu svrhu i prirodu dogaðanja.
+(3) Obavijest iz stavka 1. ovoga èlanka potrošaèu mora biti dostupna tijekom èitavog trajanja dogaðanja iz stavka 2. ovoga èlanka.
+(4) Zabranjeno je vremenski ogranièenu uporabu (timeshare) i dugotrajni turistièki proizvod oglašavati i/ili nuditi na tržištu kao ulaganje.
+Prethodna obavijest
+Èlanak 106.
+(1) U razumnom roku prije prihvaæanja ponude ili sklapanja bilo kojeg ugovora iz ove glave Zakona trgovac je dužan, u pisanom obliku, na papiru ili drugom trajnom mediju, potrošaèu na jasan i razumljiv naèin pružiti toènu i potpunu obavijest o ugovoru iz ove glave Zakona, i to putem standardnog informacijskog obrasca.
+(2) Obavijest iz stavka 1. ovoga èlanka potrošaèu mora biti besplatno stavljena na raspolaganje.
+(3) Obavijest iz stavka 1. ovoga èlanka mora biti sastavljena na službenom jeziku ili jednom od službenih jezika države u kojoj potrošaè ima boravište ili èiji je državljanin, prema njegovu izboru, a ako potrošaè ima boravište ili je državljanin neke države èlanice Europske unije, može izabrati službeni jezik te države jedino ako je to ujedno službeni jezik Europske unije.
+(4) Sadržaj i oblik obavijesti iz stavka 1. ovoga èlanka pravilnikom propisuje ministar nadležan za podruèje zaštite potrošaèa.
+Sadržaj ugovora
+Èlanak 107.
+(1) Podaci navedeni u prethodnoj obavijesti iz èlanka 106. ovoga Zakona èine sastavni dio ugovora iz ove glave Zakona i ne mogu se izmijeniti, osim ako se ugovorne strane izrièito ne sporazume drukèije ili ako izmjene proizaðu iz neuobièajenih i nepredvidljivih okolnosti koje su izvan kontrole trgovca, a èije se posljedice nisu mogle sprijeèiti niti uz uporabu dužne pažnje.
+(2) Trgovac je dužan prije sklapanja ugovora obavijestiti potrošaèa pisanim putem, na papiru ili drugom trajnom mediju, o izmjenama svakog podatka navedenog u prethodnoj obavijesti, a u ugovoru te izmjene moraju biti izrièito navedene.
+(3) Osim podataka navedenih u prethodnoj obavijesti iz èlanka 106. ovoga Zakona, ugovori iz ove glave Zakona takoðer moraju sadržavati:
+– podatke o identitetu, prebivalištu ili sjedištu ugovornih strana, kao i njihove potpise i
+– datum i mjesto sklapanja ugovora.
+(4) Prije sklapanja ugovora iz ove glave Zakona trgovac je dužan potrošaèa izrièito upozoriti na postojanje prava na jednostrani raskid ugovora iz èlanka 108. ovoga Zakona, dužinu roka za taj raskid, kao i na zabranu plaæanja unaprijed za vrijeme trajanja tog roka za raskid.
+(5) Svaki ugovor iz ove glave Zakona mora sadržavati zaseban standardni obrazac za jednostrani raskid ugovora iz èlanka 108. ovoga Zakona.
+(6) Ugovorne odredbe o postojanju prava na jednostrani raskid ugovora, dužini tog roka te zabrani plaæanja unaprijed za vrijeme trajanja roka za jednostrani raskid potrošaè mora zasebno potpisati.
+(7) Sadržaj i oblik standardnog obrasca iz stavka 5. ovoga èlanka propisuje pravilnikom ministar nadležan za podruèje zaštite potrošaèa.
+Pravo potrošaèa na jednostrani raskid ugovora
+Èlanak 108.
+(1) Potrošaè može, ne navodeæi razlog, pisanim putem, na papiru ili drugom trajnom mediju, raskinuti ugovore iz ove glave Zakona, u roku od 14 dana.
+(2) Rok za jednostrani raskid ugovora iz stavka 1. ovoga èlanka zapoèinje teæi od:
+– dana sklapanja ugovora ili predugovora
+– dana kad je potrošaè primio primjerak ugovora ili predugovora, ako je primitak uslijedio nakon sklapanja ugovora ili predugovora.
+(3) Pravo potrošaèa na jednostrani raskid ugovora ili predugovora iz ove glave Zakona prestaje:
+– istekom jedne godine i 14 dana raèunajuæi od dana iz stavka 2. ovoga èlanka, ako trgovac nije popunio standardni obrazac za jednostrani raskid ugovora iz èlanka 107. ovoga Zakona i dostavio ga potrošaèu u pisanom obliku, na papiru ili drugom trajnom mediju
+– istekom tri mjeseca i 14 dana raèunajuæi od dana iz stavka 2. ovoga èlanka, ako prethodna obavijest iz èlanka 106. ovoga Zakona nije dostavljena potrošaèu u pisanom obliku, na papiru ili nekom drugom trajnom mediju.
+(4) Ako je trgovac ispunio i predao potrošaèu u pisanom obliku, na papiru ili drugom trajnom mediju standardni obrazac za jednostrani raskid ugovora u roku od godine dana od dana iz stavka 2. ovoga èlanka, rok za jednostrani raskid ugovora poèinje teæi od dana kada potrošaè zaprimi taj obrazac.
+(5) Ako je prethodna obavijest iz èlanka 106. ovoga Zakona dostavljena potrošaèu u pisanom obliku, na papiru ili drugom trajnom mediju u roku od tri mjeseca od dana iz stavka 2. ovoga èlanka, rok za jednostrani raskid ugovora poèinje teæi od dana kada potrošaè zaprimi prethodnu obavijest.
+(6) Ako je potrošaèu istodobno s ugovorom o pravu na vremenski ogranièenu uporabu (timeshare) ponuðen ugovor o zamjeni, na oba ugovora primjenjuje se samo jedan rok za jednostrani raskid ugovora iz stavka 1. ovoga èlanka, s tim da se rok za jednostrani raskid vezano za oba ugovora raèuna u skladu s odredbom stavka 2. ovoga èlanka.
+(7) Potrošaè jednostrano raskida ugovor iz ove glave Zakona obaviješæu u pisanom obliku, na papiru ili na drugom trajnom mediju, pri èemu koristi standardni obrazac za jednostrani raskid ugovora iz èlanka 107. stavka 5. ovoga Zakona.
+(8) Smatra se da je ugovor raskinut na vrijeme ako je potrošaè obavijest o raskidu iz stavka 7. ovoga èlanka poslao trgovcu prije isteka roka za jednostrani raskid.
+Uèinak korištenja prava na jednostrani raskid ugovora
+Èlanak 109.
+(1) U sluèaju jednostranog raskida ugovora iz èlanka 108. ovoga Zakona potrošaè nije dužan trgovcu naknaditi nikakve troškove niti je dužan platiti vrijednost usluge koja mu je na temelju ugovora bila ispunjena prije nego što je iskoristio svoje pravo na jednostrani raskid ugovora iz èlanka 108. ovoga Zakona.
+(2) U sluèaju jednostranog raskida ugovora iz èlanka 108. ovoga Zakona potrošaè ne odgovara za štetu koja nastane trgovcu zbog toga što je potrošaè iskoristio svoje pravo na jednostrani raskid ugovora.
+Plaæanje unaprijed
+Èlanak 110.
+(1) Prije isteka roka za jednostrani raskid ugovora iz èlanka 108. ovoga Zakona zabranjeno je od potrošaèa zahtijevati bilo kakvo plaæanje unaprijed, davanje jamstava, rezervaciju novca na raèunu, izrièito priznanje duga ili izvršenje bilo koje druge financijske transakcije u vezi s ugovorom o pravu na vremenski ogranièenu uporabu (timeshare), ugovorom o dugotrajnom turistièkom proizvodu te ugovorom o zamjeni.
+(2) U vezi s ugovorom o ponovnoj prodaji zabranjeno je zahtijevati od potrošaèa bilo kakvo plaæanje unaprijed, davanje jamstava, rezervaciju novca na raèunu, izrièito priznanje duga ili izvršenje bilo koje druge financijske transakcije prije nego što ponovna prodaja prava bude izvršena odnosno ugovor o ponovnoj prodaji prestane na neki drugi naèin.
+Posebna pravila o ugovorima o dugotrajnom
+turistièkom proizvodu
+Èlanak 111.
+(1) Kod ugovora o dugotrajnom turistièkom proizvodu plaæanje se obavlja iskljuèivo na temelju plana obroène otplate.
+(2) Zabranjeno je bilo kakvo plaæanje na temelju ugovora o dugotrajnom turistièkom proizvodu koje nije utemeljeno na planu obroène otplate.
+(3) Sva plaæanja na temelju ugovora o dugotrajnom turistièkom proizvodu, ukljuèujuæi plaæanje bilo koje èlanarine, moraju biti podijeljena na jednake godišnje obroke.
+(4) Za svako plaæanje na temelju ugovora o dugotrajnom turistièkom proizvodu trgovac je dužan uputiti potrošaèu pisani zahtjev za plaæanje, na papiru ili drugom trajnom mediju, najkasnije 14 dana prije datuma dospijeæa pojedinog obroka.
+(5) Od drugog obroka nadalje potrošaè može raskinuti ugovor o dugotrajnom turistièkom proizvodu bez plaæanja bilo kakve naknade ili kazne, i to upuæivanjem obavijesti trgovcu u roku od 14 dana od dana primitka zahtjeva za plaæanje pojedinog obroka.
+(6) Pravo potrošaèa iz stavka 5. ovoga èlanka ne utjeèe na njegovo pravo da raskine ugovor ili na drugi naèin dovede do prestanka ugovora, koje ima na temelju ovoga ili drugih zakona.
+
+Raskid povezanih ugovora
+Èlanak 112.
+(1) Jednostranim raskidom ugovora o vremenski ogranièenoj uporabi (timeshare) ili ugovora o dugotrajnom turistièkom proizvodu raskida se i bilo koji, s njima povezani ugovor o zamjeni ili bilo koji drugi povezani ugovor, bez ikakvih troškova za potrošaèa.
+(2) Ako je radi potpune ili djelomiène isplate cijene iz ugovora iz ove glave Zakona potrošaèu odobren kredit od strane trgovca ili treæe osobe, na temelju sporazuma te osobe i trgovca, raskidom nekog od tih ugovora raskida se i ugovor o kreditu.
+(3) U sluèaju raskida ugovora o kreditu iz stavka 2. ovoga èlanka potrošaè nije dužan platiti davatelju kredita nikakvu naknadu, troškove, kamatu ili kaznu niti mu je dužan popraviti štetu.
+(4) Povezani ugovor raskida se u trenutku kad trgovac primi obavijest iz èlanka 108. ovoga Zakona, bez obzira na to je li povezani ugovor sklopljen s trgovcem ili treæom osobom, na temelju njezina sporazuma s trgovcem.
+(5) Ako je povezani ugovor sklopljen s treæom osobom, na temelju njezina sporazuma s trgovcem, potrošaè nije dužan obavijestiti tu osobu o raskidu ugovora, veæ je to dužan uèiniti trgovac.
+(6) Trgovac ili treæa osoba s kojom je potrošaè sklopio povezani ugovor dužna je potrošaèu vratiti sve što je na temelju povezanog ugovora primila od njega, i to u roku od 30 dana od dana kada je trgovac primio obavijest iz èlanka 108. ovoga Zakona.
+
+DIO ÈETVRTI   PROCESNOPRAVNA ZAŠTITA PRAVA POTROŠAÈA
+GLAVA I.   ALTERNATIVNO RJEŠAVANJE POTROŠAÈKIH SPOROVA
+Pokretanje postupka
+Èlanak 113.
+Potrošaè može pokrenuti postupak za rješavanje sporova protiv trgovaca pred tijelom za alternativno rješavanje potrošaèkih sporova u skladu s propisom kojim se ureðuje alternativno rješavanje potrošaèkih sporova.
+GLAVA II.   ZAŠTITA KOLEKTIVNIH INTERESA I PRAVA POTROŠAÈA
+Èlanak 114. – 130. (NN 19/22, 56/23)
+Vidi: Zakon o predstavnièkim tužbama za zaštitu kolektivnih interesa i prava potrošaèa
+
+
+ DIO PETI   INSTITUCIONALNI OKVIR ZAŠTITE POTROŠAÈA
+GLAVA I.   NOSITELJI ZAŠTITE POTROŠAÈA
+Nositelji
+Èlanak 131.
+Nositelji zaštite potrošaèa su: Hrvatski sabor, Vlada Republike Hrvatske, ministarstvo nadležno za poslove zaštite potrošaèa, nadležne inspekcije, Nacionalno vijeæe za zaštitu potrošaèa, poslovna udruženja, udruge za zaštitu potrošaèa, jedinice lokalne samouprave i ostala javnopravna tijela.
+POGLAVLJE I.   NACIONALNO VIJEÆE ZA ZAŠTITU POTROŠAÈA I JEDINICE LOKALNE SAMOUPRAVE
+Nacionalno vijeæe za zaštitu potrošaèa
+Èlanak 132.
+(1) Vlada Republike Hrvatske odlukom osniva Nacionalno vijeæe za zaštitu potrošaèa (u daljnjem tekstu: Vijeæe).
+(2) Odlukom iz stavka 1. ovoga èlanka uredit æe se sastav Vijeæa.
+(3) Vijeæe je savjetodavno tijelo Vlade Republike Hrvatske.
+(4) Vijeæe sudjeluje u izradi Nacionalnog programa zaštite potrošaèa i Izvješæa o provedbi Nacionalnog programa zaštite potrošaèa, potièe izmjene i dopune propisa, donošenje novih propisa iz podruèja zaštite potrošaèa te sudjeluje u kreiranju politike zaštite potrošaèa.
+(5) Rad Vijeæa je javan.
+(6) Vijeæe donosi poslovnik o svom radu.
+(7) Vijeæe podnosi Vladi Republike Hrvatske godišnje izvješæe o svom radu najkasnije do kraja drugog kvartala tekuæe godine, za prethodnu godinu.
+(8) Vijeæe ima tajnika koji obavlja struène poslove za potrebe Vijeæa.
+(9) Struène i administrativne poslove za Vijeæe obavlja ministarstvo nadležno za podruèje zaštite potrošaèa.
+Jedinice lokalne samouprave
+Èlanak 133.
+Jedinice lokalne samouprave dužne su na svom podruèju poduzimati mjere i aktivnosti iz svoje nadležnosti u podruèju zaštite potrošaèa, a posebno:
+1. informirati i provoditi izobrazbu potrošaèa
+2. organizirati savjetovanje potrošaèa
+3. inicirati i podupirati projekte udruga koji unapreðuju i promièu prava potrošaèa
+4. sudjelovati u provedbi Nacionalnog programa zaštite potrošaèa na lokalnoj razini
+5. obavljati i druge poslove u skladu s posebnim propisima.
+POGLAVLJE II.   UDRUGE ZA ZAŠTITU POTROŠAÈA
+Opæe odredbe
+Èlanak 134.
+(1) Udruge za zaštitu potrošaèa osnivaju potrošaèi radi promicanja i zaštite svojih prava i interesa.
+(2) Na udruge za zaštitu potrošaèa na odgovarajuæi naèin primjenjuju se odredbe zakona kojim se ureðuje djelovanje udruga.
+(3) Udruge za zaštitu potrošaèa u Republici Hrvatskoj mogu se udruživati u saveze radi provoðenja politike zaštite potrošaèa, uzajamne potpore i ostvarivanja zajednièkih interesa na nacionalnoj i meðunarodnoj razini.
+Neovisnost udruga za zaštitu potrošaèa
+Èlanak 135.
+(1) Udruge za zaštitu potrošaèa moraju u svojem djelovanju biti neovisne o trgovcima.
+(2) Osoba ovlaštena za zastupanje udruge, èlan tijela udruge ili bilo koji drugi èlan udruge ne smije koristiti djelovanje udruge za ostvarivanje privatnog, poslovnog ili drugog interesa.
+Poslovi udruga
+Èlanak 136.
+Udruge za zaštitu potrošaèa mogu na podruèju zaštite potrošaèa obavljati sljedeæe poslove:
+1. pružati preventivnu zaštitu putem informiranja, izobrazbe i savjetovanja potrošaèa o njihovim pravima i obvezama
+2. provoditi, putem akreditiranih laboratorija, usporedne testove proizvoda i rezultate objavljivati u medijima
+3. provoditi preko akreditiranih laboratorija u zemlji, a po potrebi i u inozemstvu, naknadna ispitivanja proizvoda stavljenih na tržište
+4. pružati pomoæ ošteæenom potrošaèu u nastupu prema trgovcu
+5. davati primjedbe i prijedloge pri donošenju propisa koji se odnose na podruèje zaštite potrošaèa
+6. obavljati i druge poslove iz podruèja zaštite potrošaèa.
+
+GLAVA II.   NACIONALNI PROGRAM ZAŠTITE POTROŠAÈA
+Opæe odredbe
+Èlanak 137.
+(1) Nacionalnim programom zaštite potrošaèa odreðuju se ciljevi, mjere, prioritetna podruèja te aktivnosti u provoðenju politike zaštite potrošaèa u odreðenom razdoblju.
+(2) Nacionalni program zaštite potrošaèa odlukom donosi Vlada Republike Hrvatske za razdoblje od èetiri godine.
+(3) Ministarstvo nadležno za podruèje zaštite potrošaèa izvješæuje Vladu Republike Hrvatske o ostvarivanju politike zaštite potrošaèa iz Nacionalnog programa zaštite potrošaèa najkasnije do kraja drugog kvartala tekuæe godine, za prethodno razdoblje.
+Provoðenje politike zaštite potrošaèa
+Èlanak 138.
+Aktivnosti vezane za provoðenje politike zaštite potrošaèa i koordinaciju rada svih nositelja zaštite potrošaèa u vezi s provedbom Nacionalnog programa zaštite potrošaèa provodi ministarstvo nadležno za podruèje zaštite potrošaèa.
+Savjetovanje, informiranje i izobrazba potrošaèa
+Èlanak 139.
+(1) Aktivnosti na podruèju zaštite potrošaèa odreðene Nacionalnim programom zaštite potrošaèa, osobito savjetovanje, informiranje i izobrazbu potrošaèa mogu obavljati udruge za zaštitu potrošaèa ili druge fizièke ili pravne osobe na temelju javnog natjeèaja.
+(2) Javni natjeèaj za obavljanje poslova iz stavka 1. ovoga èlanka raspisuje ministar nadležan za podruèje zaštite potrošaèa, odgovorna osoba u javnopravnom tijelu nadležnom za pojedino podruèje zaštite potrošaèa odnosno izvršno tijelo jedinice lokalne samouprave.
+(3) Aktivnosti iz stavka 1. ovoga èlanka sufinanciraju se iz državnog proraèuna Republike Hrvatske odnosno proraèuna jedinica lokalne samouprave.
+(4) Jedinice lokalne samouprave dužne su osigurati prostor za obavljanje poslova savjetovanja potrošaèa iz Nacionalnog programa zaštite potrošaèa udrugama ili drugim fizièkim ili pravnim osobama za zaštitu potrošaèa koji su odabrani temeljem javnog natjeèaja iz stavka 2. ovoga èlanka tijekom njegove provedbe.
+Edukacija uèenika
+Èlanak 140.
+(1) Ministarstvo nadležno za podruèje zaštite potrošaèa zajedno s ministarstvom nadležnim za podruèje obrazovanja sudjeluje u pripremanju projekata koji se odnose na zaštitu potrošaèa u skladu s kurikulumom meðupredmetne teme Graðanski odgoj i obrazovanje.
+(2) Ministarstvo nadležno za podruèje zaštite potrošaèa i udruge za zaštitu potrošaèa suraðuju s odgojno-obrazovnim institucijama te provode druge odgojno-obrazovne aktivnosti informiranja i izobrazbe iz podruèja zaštite potrošaèa.
+
+DIO ŠESTI   INSPEKCIJSKI NADZOR
+Opæe odredbe
+Èlanak 141.
+(1) Inspekcijski nadzor nad provoðenjem ovoga Zakona obavljaju tržišni inspektori Državnog inspektorata sukladno zakonu kojim se ureðuju poslovi i ovlasti tržišnih inspektora.
+(2) Nadzor nad provoðenjem ovoga Zakona kod trgovaca – kreditnih institucija i kreditnih unija kojima je Hrvatska narodna banka izdala odobrenje za rad, kod institucija za platni promet i institucija za elektronièki novac u dijelu odnosa s potrošaèima koji proizlaze iz pružanja usluga temeljem odobrenja Hrvatske narodne banke za pružanje platnih usluga i izdavanje elektronièkog novca obavlja Hrvatska narodna banka na naèin propisan posebnim zakonima kojima se ureðuje poslovanje tih trgovaca.
+(3) Nadzor nad provoðenjem ovoga Zakona koji se odnosi na postupanje trgovca kojima je Hrvatska agencija za nadzor financijskih usluga izdala odobrenje za rad obavlja Hrvatska agencija za nadzor financijskih usluga na naèin propisan posebnim zakonima kojima se ureðuje poslovanje tih trgovaca.
+(4) Nadzor nad provoðenjem ovoga Zakona glede upisa i ispisa iz Registra iz èlanka 12. ovoga Zakona obavlja Hrvatska regulatorna agencija za mrežne djelatnosti.
+(5) Nadzor nad provoðenjem ovoga Zakona u dijelu koji se odnosi na nepoštenu poslovnu praksu iz èlanka 35. stavka 3. toèke 3. ovoga Zakona vezano za hranu obavljaju poljoprivredni inspektori Državnog inspektorata sukladno zakonu kojim se ureðuju poslovi i ovlasti poljoprivrednih inspektora.
+Predstavke potrošaèa
+Èlanak 142.
+(1) Nadležni inspektor uzet æe u obzir predstavku potrošaèa tek nakon što je potrošaè iscrpio pravni put iz èlanka 10. ili èlanka 27. stavka 1. ovoga Zakona.
+(2) Predstavka iz stavka 1. ovog èlanka podnosi se pisanim putem te mora sadržavati sljedeæe podatke:
+– ime, prezime i adresu potrošaèa
+– podatke o trgovcu za kojeg se tvrdi da je povrijedio pojedinaèno pravo potrošaèa te navoðenje èinjenica koje ukazuju na povredu pojedinaènog prava potrošaèa
+– odgovor trgovca na pisani prigovor i/ili reklamaciju potrošaèa odnosno pisani prigovor i/ili reklamaciju podnesenu trgovcu ako trgovac nije odgovorio u propisanom roku
+– datum i potpis potrošaèa odnosno njegova punomoænika.
+(3) Ako nadležni inspektor zaprimi predstavku potrošaèa u kojoj nisu dostavljeni podaci iz stavka 2. ovoga èlanka, pisanim putem obavijestit æe potrošaèa da nadopuni predstavku u roku koji odredi nadležni inspektor, ali koji ne može biti dulji od deset dana, uz upozorenje na pravne posljedice iz stavka 4. ovoga èlanka ako potrošaè dopunu predstavke ne dostavi u roku.
+(4) Ako potrošaè ne dopuni predstavku u roku iz stavka 3. ovoga èlanka, a po predstavci se ne može postupati zbog nedovoljno informacija o tvrdnji o povredama ovoga Zakona, nadležni inspektor neæe postupati po predstavci potrošaèa.
+Izjašnjavanje trgovca
+Èlanak 143.
+(1) Nadležni inspektor može na osnovu zaprimljene predstavke potrošaèa iz èlanka 142. stavka 1. ovoga Zakona, prije pokretanja inspekcijskog postupka nad trgovcem, pisanim putem zatražiti izjašnjavanje trgovca u odnosu na sadržaj predstavke potrošaèa odnosno izjašnjavanje hoæe li æe udovoljiti zahtjevu potrošaèa.
+(2) Trgovac je dužan u roku koji odredi nadležni inspektor, ali koji ne može biti dulji od deset dana od dana zaprimanja zatraženog izjašnjavanja, pisanim putem dostaviti oèitovanje na zahtjev nadležnog inspektora iz stavka 1. ovoga èlanka.
+(3) Ako se trgovac u svom oèitovanju izjasni da nije suglasan sa zahtjevom potrošaèa odnosno da neæe ispuniti zahtjev potrošaèa, nadležni inspektor može pokrenuti inspekcijski postupak po službenoj dužnosti.
+Kupnja proizvoda s tajnim identitetom
+Èlanak 144.
+(1) Radi utvrðivanja nepravilnosti u provedbi ovoga Zakona nadležni inspektor može izvršiti kupnju proizvoda, ako je potrebno, s tajnim identitetom.
+(2) Ako se tijekom postupka nadzora odnosno kupnje iz stavka 1. ovoga èlanka utvrdi povreda odredaba ovoga Zakona, trgovac je dužan snositi trošak kupljenog proizvoda i troškove postupka.
+(3) Ako se tijekom postupka nadzora pokaže potreba za ispitivanjem ili vještaèenjem proizvoda koji je kupljen u okviru kupnje iz stavka 1. ovoga èlanka, troškove ispitivanja ili vještaèenja snosi trgovac ako se utvrdi da uzorci ne ispunjavaju zahtjeve ureðene propisima.
+(4) Troškove ispitivanja snosi Državni inspektorat ako se utvrdi da uzorci ispunjavaju zahtjeve ureðene propisima.
+(5) Ovlast nadležnog inspektora iz stavka 1. ovoga èlanka primjenjuje se i na fizièke i pravne osobe koje obavljaju neregistriranu djelatnost.
+(6) Ako se tijekom postupka nadzora odnosno kupnje iz stavka 1. ovoga èlanka utvrdi da osobe iz stavka 5. ovoga èlanka obavljaju neregistriranu djelatnost, troškove postupka iz stavka 2. ovoga èlanka snosi fizièka ili pravna osoba koja obavlja neregistriranu djelatnost.
+Privremena mjera uklanjanja sadržaja ili ogranièenja pristupa internetskom suèelju
+Èlanak 145.
+(1) Kada se u inspekcijskom postupku utvrdi da pravna ili fizièka osoba sklapa ugovore na daljinu te proizlazi da ona namjerno skriva identitet i èini povrede ovoga Zakona i/ili kada odbija suradnju s nadležnom inspekcijom, a postoji rizik od ozbiljne štete kolektivnim interesima i pravima potrošaèa, nadležni inspektor može donijeti privremeno rješenje kojim æe naložiti privremene mjere.
+(2) Privremena mjera iz stavka 1. ovoga èlanka može biti:
+1. naložiti operatorima javnih komunikacijskih usluga i/ili davateljima usluga pristupa internetu (ISP) i/ili pružateljima usluga smještaja na poslužitelju da uklone sadržaj ili ogranièe pristup internetskom suèelju ili da se krajnjim korisnicima odnosno potrošaèima prilikom pristupa internetskom suèelju jasno prikaže upozorenje razmjerno prirodi povrede i/ili
+2. naložiti svim pružateljima usluga smještaja na poslužitelju da uklone, onemoguæe ili ogranièe pristup internetskom suèelju razmjerno prirodi povrede i/ili
+3. naložiti svim registrima za domene ili voditeljima registara za domene da izbrišu potpuno kvalificirani naziv domene i omoguæe nadležnom tijelu da je registrira i/ili
+4. naložiti nakladniku elektronièkog ili tiskanog medija da ukloni sadržaj iz kojeg proizlazi povreda ovoga Zakona i/ili
+5. svaka druga mjera kojom se postiže svrha otklanjanja rizika od ozbiljne štete kolektivnim interesima i pravima potrošaèa.
+(3) Privremene mjere traju do isteka roka na koji su odreðene, a najdulje do okonèanja inspekcijskog postupka.
+(4) Ako je nastala šteta operatorima javnih komunikacijskih usluga, davateljima usluga pristupa internetu (ISP), pružateljima usluga smještaja i registrima za domene, nakladniku elektronièkog ili tiskanog medija temeljem privremenih mjera iz stavka 2. ovoga èlanka, oni imaju pravo tražiti od trgovca naknadu štete sukladno opæim pravilima naknade štete.
+(5) Žalba protiv rješenja iz stavka 1. ovoga èlanka ne odgaða izvršenje rješenja, a o njoj odluèuje unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.
+Rješenje o uklanjanju sadržaja ili ogranièenja pristupa internetskom suèelju
+Èlanak 146.
+(1) Ako trgovac ni tijekom trajanja privremene mjere iz èlanka 145. ovoga Zakona ne ukloni nepravilnost, nadležni inspektor rješenjem æe zabraniti trgovcu postupanje protivno propisima iz ovoga Zakona razmjerno prirodi povrede.
+(2) Rješenjem iz stavka 1. ovoga èlanka nadležni inspektor ukinut æe privremeno rješenje iz èlanka 145. stavka 1. ovoga Zakona i:
+1. naložiti operatorima javnih komunikacijskih usluga i/ili davateljima usluga pristupa internetu (ISP) i/ili pružateljima usluga smještaja na poslužitelju da uklone sadržaj ili ogranièe pristup internetskom suèelju ili da se krajnjim korisnicima odnosno potrošaèima prilikom pristupa internetskom suèelju jasno prikaže upozorenje razmjerno prirodi povrede i/ili
+2. naložiti svim pružateljima usluga smještaja na poslužitelju da uklone, onemoguæe ili ogranièe pristup internetskom suèelju razmjerno prirodi povrede i/ili
+3. naložiti svim registrima za domene ili voditeljima registara za domene da izbrišu potpuno kvalificirani naziv domene i omoguæe nadležnom tijelu da je registrira i/ili
+4. naložiti nakladniku elektronièkog ili tiskanog medija da ukloni sadržaj iz kojeg proizlazi povreda ovoga Zakona i/ili
+5. odrediti svaku mjeru kojom se postiže svrha otklanjanja rizika od ozbiljne štete kolektivnim interesima i pravima potrošaèa.
+(3) Iznimno od stavaka 1. i 2. ovoga èlanka, kada pravna ili fizièka osoba nema poslovni nastan u Republici Hrvatskoj, a u postupku inspekcijskog postupka se utvrdi da sklapa ugovore na daljinu te iz predmetnog proizlazi da ona namjerno skriva identitet te èini povrede ovoga Zakona i/ili kada odbija suradnju s nadležnog inspekcijom te postoji rizik od ozbiljne štete kolektivnim interesima i pravima potrošaèa, inspektor može donijeti rješenje kojim æe:
+1. naložiti operatorima javnih komunikacijskih usluga i/ili davateljima usluga pristupa internetu (ISP) i/ili pružateljima usluga smještaja na poslužitelju da uklone sadržaj ili ogranièe pristup internetskom suèelju ili da se krajnjim korisnicima odnosno potrošaèima prilikom pristupa internetskom suèelju jasno prikaže upozorenje razmjerno prirodi povrede i/ili
+2. naložiti svim pružateljima usluga smještaja na poslužitelju da uklone, onemoguæe ili ogranièe pristup internetskom suèelju razmjerno prirodi povrede i/ili
+3. naložiti svim registrima za domene ili voditeljima registara za domene da izbrišu potpuno kvalificirani naziv domene i omoguæe nadležnom tijelu da je registrira i/ili
+4. naložiti nakladniku elektronièkog ili tiskanog medija da ukloni sadržaj iz kojeg proizlazi povreda ovoga Zakona.
+(4) Ako je nastala šteta operatorima javnih komunikacijskih usluga, davateljima usluga pristupa internetu, pružateljima usluga smještaja i registrima za domene, nakladniku elektronièkog ili tiskanog medija temeljem rješenja iz stavaka 2. i 3. ovoga èlanka, oni imaju pravo tražiti od trgovca naknadu štete sukladno opæim pravilima naknade štete.
+(5) Žalba protiv rješenja iz stavka 1. i stavka 3. ovoga èlanka ne odgaða izvršenje rješenja, a o njoj odluèuje unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.
+Ovlasti nadležnog inspektora
+Èlanak 147.
+(1) U provedbi inspekcijskog nadzora nadležni inspektor rješenjem æe trgovcu privremeno zabraniti prodaju roba i pružanje usluga do otklanjanja nalazom utvrðenih nepravilnosti ako:
+1. ne oznaèi proizvode sukladno èlanku 6. ovoga Zakona
+2. maloprodajna cijena proizvoda i cijena za jedinicu mjere nije istaknuta jasno, vidljivo, èitljivo i na naèin propisan èlankom 7. ovoga Zakona
+3. uvjeti prodaje nisu istaknuti jasno, vidljivo i èitljivo (èlanak 8. stavak 1. ovoga Zakona)
+4. prilikom odobravanja popusta za pojedine proizvode ili skupine proizvoda trgovac nije istaknuo cijenu tijekom trajanja posebnog oblika prodaje i najnižu cijenu koju je primjenjivao za isti proizvod u razdoblju od 30 dana prije provoðenja posebnog oblika prodaje (èlanak 8. stavak 4. ovoga Zakona)
+5. tijekom trajanja posebnih oblika prodaje robe trgovac nije istaknuo cijenu koju primjenjuje tijekom trajanja posebnog oblika prodaje i najnižu cijenu koju je primjenjivao za istu robu u razdoblju od 30 dana prije provoðenja posebnog oblika prodaje (èlanak 19. stavak 4. ovoga Zakona)
+6. trgovac u oglašavanju posebnog oblika prodaje ne istakne cijenu tijekom trajanja posebnog oblika prodaje i najnižu cijenu koju je primjenjivao za istu robu u razdoblju od 30 dana prije provoðenja posebnog oblika prodaje (èlanak 19. stavak 5. ovoga Zakona)
+7. tijekom trajanja posebnog oblika prodaje usluge unutar poslovnih prostorija trgovac nije istaknuo cijenu koju primjenjuje tijekom trajanja posebnog oblika prodaje i najnižu cijenu koju je trgovac primjenjivao za istu uslugu tijekom razdoblja od 30 dana prije provoðenja posebnog oblika prodaje (èlanak 19. stavak 6. ovoga Zakona)
+8. postupa suprotno odredbama pravilnika iz èlanka 22. stavka 2. ovoga Zakona
+9. prodaje robu koja ima grešku, a nije jasno, vidljivo i èitljivo oznaèio na robi ili na prodajnome mjestu da je rijeè o prodaji robe s greškom te upoznao potrošaèa u èemu se sastoji greška na robi (èlanak 23. ovoga Zakona)
+10. roba koja se prodaje po nižoj cijeni od cijene u redovnoj prodaji jer joj uskoro istjeèe rok uporabe nema dodatno jasno, vidljivo i èitljivo istaknut krajnji rok uporabe (èlanak 24. stavak 1. ovoga Zakona).
+(2) Nadležni inspektor trgovcu æe rješenjem zabraniti obavljanje poslovne prakse koja se u smislu èlanaka 34. do 40. i èlanka 70. stavka 3. ovoga Zakona smatra nepoštenom.
+(3) Nadležni inspektor rješenjem æe narediti trgovcu otklanjanje utvrðene nepravilnosti, odreðujuæi rok u kojem se ta nepravilnost mora ukloniti, ako tijekom inspekcijskog nadzora utvrdi da:
+1. se ne pridržava uvjeta prodaje (èlanak 8. stavak 2. ovoga Zakona)
+2. nije potrošaèu obraèunao ni isplatio kamate sukladno èlanku 14. stavku 1. ovoga Zakona
+3. prilikom ispostavljanja raèuna za pružanje javnih usluga ne primjenjuje obraèun i cijene ureðene posebnim propisima (èlanak 25. stavak 2. ovoga Zakona)
+4. nije potrošaèa na jasan i razumljiv naèin obavijestio o ispravama iz èlanka 46. stavka 1. toèke 6. ovoga Zakona
+5. potrošaèu nije ispunio ugovor u skladu s odredbama ugovora, ovoga Zakona i propisa kojim se ureðuju obveznopravni odnosi (èlanak 47. stavak 1. ovoga Zakona)
+6. u sluèaju robe s materijalnim nedostatkom, nije ispunio obvezu sukladno odredbama propisa kojim se ureðuju obveznopravni odnosi o odgovornosti za materijalne nedostatke (èlanak 47. stavak 2. ovoga Zakona)
+7. u sluèaju robe za koju je dano jamstvo, nije ispunio obvezu sukladno odredbama propisa kojim se ureðuju obveznopravni odnosi o komercijalnom jamstvu (èlanak 47. stavak 3. ovoga Zakona)
+8. nije na jasan i razumljiv naèin obavijestio potrošaèa o podacima iz èlanka 60. stavka 1. ovoga Zakona prije nego što potrošaè sklopi ugovor izvan poslovnih prostorija ili ugovor na daljinu ili bude obvezan odgovarajuæom ponudom
+9. u razumnom roku prije sklapanja ugovora na daljinu o prodaji financijskih usluga nije dostavio potrošaèima prethodnu obavijest, ugovorene odredbe i uvjete u pisanom obliku ili drugom, potrošaèu dostupnom, trajnom mediju ili prethodna obavijest ne sadrži sve podatke koji su predviðeni èlancima 88. do 92. ovoga Zakona
+10. pri oglašavanju postupa suprotno odredbama èlanka 105. ovoga Zakona
+11. potrošaèu nije predao obavijest sukladno èlanku 106. ovoga Zakona
+12. nije obavijestio potrošaèa sukladno odredbi èlanka 106. stavaka 1. i 3. te èlanka 107. stavaka 2. i 4. ovoga Zakona
+13. ugovor ne sadrži podatke sukladno èlanku 107. ovoga Zakona.
+(4) Nadležni inspektor rješenjem æe narediti pružatelju internetskog tržišta otklanjanje utvrðene nepravilnosti, odreðujuæi rok u kojem se ta nepravilnost mora ukloniti, ako tijekom inspekcijskog nadzora utvrdi da, prije nego što potrošaè sklopi ugovor na internetskom tržištu ili bude obvezan odgovarajuæom ponudom, nije obavijestio potrošaèa o podacima iz èlanka 61. ovoga Zakona.
+(5) Nadležni inspektor rješenjem æe narediti trgovcu:
+1. vraæanje više naplaæenog iznosa ošteæenom potrošaèu ako utvrdi da se nije pridržavao istaknute maloprodajne cijene (èlanak 7. stavak 7. ovoga Zakona)
+2. vraæanje više naplaæenog iznosa ošteæenom potrošaèu ako utvrdi da se ne pridržava uvjeta prodaje (èlanak 8. stavak 2. ovoga Zakona)
+3. vraæanje uplaæenog predujma uveæanog za zakonske zatezne kamate, raèunajuæi od dana primitka predujma do dana isplate, što je moguæe prije, a najkasnije u roku od sedam dana od dana raskida ugovora (èlanak 14. stavak 2. ovoga Zakona)
+4. vraæanje novèanog iznosa ošteæenom potrošaèu ako utvrdi da je naplatio izdavanje opomene (èlanak 16. stavak 1. ovoga Zakona)
+5. vraæanje više naplaæenog iznosa ošteæenom potrošaèu ako utvrdi da nije primijenio obraèun i cijenu ureðenu posebnim propisom (èlanak 25. stavak 2. ovoga Zakona)
+6. vraæanje dodatno naplaæenog novèanog iznosa ošteæenom potrošaèu bez njegova izrièitog pristanka vezano uz dodatna plaæanja (èlanak 51. ovoga Zakona)
+7. vraæanje potrošaèu uplaæenog iznosa na temelju ugovora, a ako je potrebno, i plaæene troškove dostave, ako utvrdi da je potrošaè jednostrano raskinuo ugovor sklopljen izvan poslovnih prostorija ili na daljinu, a trgovac mu nije vratio plaæeni iznos (èlanak 83. stavci 1. i 3. ovoga Zakona).
+(6) Žalba izjavljena protiv rješenja iz ovoga èlanka ne odgaða izvršenje rješenja, a o njoj odluèuje unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.
+(7) Rješenje iz stavka 1. ovoga èlanka nadležni inspektor neæe donositi ako su utvrðene nepravilnosti otklonjene tijekom inspekcijskog nadzora odnosno do donošenja rješenja, što æe nadležni inspektor utvrditi i navesti u zapisniku o obavljenom inspekcijskom nadzoru.
+Naèelo oportuniteta
+Èlanak 148.
+(1) Nadležni inspektor neæe podnijeti optužni prijedlog odnosno izdati prekršajni nalog ako:
+– nadzirana pravna ili fizièka osoba tijekom inspekcijskog nadzora odnosno do donošenja rješenja otkloni nepravilnosti i nedostatke odnosno posljedice tih nepravilnosti i nedostataka, utvrðenih u inspekcijskom nadzoru, što æe nadležni inspektor utvrditi u zapisniku
+– za utvrðene nepravilnosti doneseno je rješenje i nadzirana osoba postupila je po izvršnom rješenju inspektora ili je postupila po rješenju prije nego što je ono postalo izvršno
+– nadzirana osoba oèitovanjem na zapisnik preuzme obvezu da u odreðenom roku otkloni nepravilnosti i nedostatke utvrðene u inspekcijskom nadzoru za koje nije propisana upravna mjera, a inspektor utvrdi da je poèinjen prekršaj.
+(2) Radi ispunjenja obveze iz stavka 1. podstavka 3. ovoga èlanka nadležni inspektor nadziranoj æe osobi izdati pisanu naredbu u kojoj æe toèno odrediti preuzetu obvezu i rok za izvršenje, ovisno o prirodi preuzete obveze.
+(3) Ako nadzirana osoba ne postupi na naèin opisan u stavku 1. ovoga èlanka odnosno ne ispuni obvezu u odreðenom roku iz naredbe iz stavka 2. ovoga èlanka, nadležni inspektor dužan je bez odgaðanja, a najkasnije u roku od 15 dana od dana završetka nadzora odnosno u roku od 15 dana od isteka roka za ispunjenje obveze iz naredbe, podnijeti optužni prijedlog za pokretanje prekršajnog postupka odnosno izdati prekršajni nalog.
+(4) Iznimno od odredbi ovoga èlanka, nadležni inspektor dužan je bez odgaðanja, a najkasnije u roku od 15 dana od završetka inspekcijskog nadzora, podnijeti optužni prijedlog za pokretanje prekršajnog postupka odnosno izdati prekršajni nalog:
+– u svim sluèajevima kada je propisana mjera zabrane, osim privremene mjere zabrane iz èlanka 145. stavka 1. ovoga Zakona
+– u sluèajevima utvrðenja prekršaja iz èlanka 149. stavka 1. toèke 49. i èlanka 150. ovoga Zakona
+– u svim sluèajevima ponavljanja istog prekršaja u roku od godine dana.
+
+DIO SEDMI   PREKRŠAJNE ODREDBE
+Prekršaji
+Èlanak 149.
+(1) Novèanom kaznom u iznosu od 10.000,00 do 200.000,00 kuna kaznit æe se za prekršaj trgovac – pravna osoba ako:
+1. ne oznaèi proizvode sukladno èlanku 6. stavcima 1., 2. i 3. ovoga Zakona
+2. jasno, vidljivo i èitljivo ne istakne iznos maloprodajne cijene i cijene za jedinicu mjere proizvoda koje pruža (èlanak 7. stavak 1.)
+3. na proizvodu ili prodajnom mjestu, osim cijena iz èlanka 7. stavka 1. ovoga Zakona, istakne druge cijene, osim u sluèajevima iz èlanka 8. stavka 4. i glave II. dijela drugog ovoga Zakona (èlanak 7. stavak 2.)
+4. kod proizvoda u rasutom stanju ne istakne cijenu za jedinicu mjere na prodajnom mjestu proizvoda (èlanak 7. stavak 4.)
+5. se ne pridržava istaknute maloprodajne cijene (èlanak 7. stavak 7.)
+6. pri oglašavanju u kojem se navodi maloprodajna cijena proizvoda ne navede i cijenu za jedinicu mjere (èlanak 7. stavak 8.)
+7. uvjete prodaje ne istakne jasno, vidljivo i èitljivo (èlanak 8. stavak 1.)
+8. se ne pridržava uvjeta prodaje (èlanak 8. stavak 2.)
+9. prilikom odobravanja popusta za pojedine proizvode ili skupine proizvoda nije istaknuo cijenu sukladno èlanku 19. ovoga Zakona (èlanak 8. stavak 4.)
+10. ne omoguæi provjeru ispravnosti zaraèunatog iznosa u odnosu na kupljene proizvode (èlanak 9. stavak 1.)
+11. naplati ispostavljanje raèuna (èlanak 9. stavak 2.)
+12. ne omoguæi podnošenje pisanog prigovora sukladno èlanku 10. stavku 1. ovoga Zakona
+13. vidljivo i èitljivo ne istakne obavijest o naèinu podnošenja pisanog prigovora iz èlanka 10. stavaka 1. i 2. ovoga Zakona u poslovnim prostorijama i na mrežnoj stranici, ako je uspostavljena (èlanak 10. stavak 4.)
+14. na raèunu ispostavljenom za javnu uslugu vidljivo ne istakne obavijest o naèinu podnošenja pisanog prigovora (èlanak 10. stavak 5.)
+15. u pisanom obliku ne odgovori na zaprimljeni pisani prigovor potrošaèa iz èlanka 10. ovoga Zakona najkasnije u roku od 15 dana od dana zaprimljenog prigovora, jasno se izjašnjavajuæi prihvaæa li osnovanost prigovora potrošaèa (èlanak 10. stavak 6.)
+16. ne vodi i ne èuva evidenciju pisanih prigovora potrošaèa iz èlanka 10. stavaka 1. i 2. ovoga Zakona na trajnom mediju godinu dana od dana primitka pisanog prigovora potrošaèa (èlanak 10. stavak 7.)
+17. upuæuje pozive i/ili poruke putem telefona u okviru promidžbe i/ili prodaje potrošaèima koji su se upisali u registar iz èlanka 12. ovoga Zakona
+18. ne ispostavi ponudu na papiru ili drugom trajnom mediju s opisom radova te potrebnog materijala i dijelova za popravak za usluge popravaka i održavanja proizvoda ako je vrijednost usluge veæa od 500,00 kuna (èlanak 13. stavak 1.)
+19. ne postupi sukladno èlanku 51. ovoga Zakona ako se tijekom popravka pojavi potreba za dodatnim radovima i ugradnjom dodatnih dijelova (èlanak 13. stavak 2.)
+20. nije potrošaèu obraèunao ni isplatio kamate sukladno èlanku 14. stavku 1. ovoga Zakona
+21. nije potrošaèu vratio iznos uplaæenog predujma uveæanog za zakonske zatezne kamate, raèunajuæi od dana primitka predujma do dana isplate, što je moguæe prije, a najkasnije u roku od sedam dana od dana raskida ugovora (èlanak 14. stavak 2.)
+22. potrošaèu ne prizna da je raèun plaæen sukladno odredbama èlanka 15. ovoga Zakona
+23. potrošaèu naplati izdavanje opomene radi naplate neplaæenih dospjelih novèanih tražbina (èlanak 16. stavak 1.)
+24. na raèunu za javnu uslugu ne istakne iznos neplaæenih dospjelih novèanih tražbina za prethodna razdoblja (èlanak 16. stavak 2.)
+25. pokrene postupak prisilne naplate prije okonèanja sudskog ili izvansudskog postupka glede osporenih neplaæenih dospjelih novèanih tražbina (èlanak 16. stavak 3.)
+26. ambalaža dovodi potrošaèa u zabludu glede mase i velièine proizvoda te ako nije sukladna posebnim zahtjevima za ambalažu (èlanak 17. stavak 1.)
+27. ne istakne jasno, vidljivo i èitljivo cijenu robe i usluge zamatanja (èlanak 17. stavak 2.)
+28. na zahtjev potrošaèa ne zadrži ambalažu prodanog proizvoda (èlanak 17. stavak 3.)
+29. ostavlja oglasne poruke i materijale u ili na poštanskim sanduèiæima te na ili ispred kuænih vrata potrošaèa ako je takva zabrana na njima jasno napisana (èlanak 18. stavak 1.)
+30. tijekom trajanja posebnog oblika prodaje proizvode prodaje po cijeni koja nije niža od cijene tih proizvoda u redovnoj prodaji (èlanak 19. stavak 1.)
+31. tijekom trajanja posebnog oblika prodaje robe nije istaknuo cijenu sukladno èlanku 19. stavcima 4. i 5. ovoga Zakona tijekom trajanja posebnog oblika prodaje i najnižu cijenu koju je primjenjivao za istu robu u razdoblju od 30 dana prije provoðenja posebnog oblika prodaje
+32. tijekom trajanja posebnog oblika prodaje usluga unutar poslovnih prostorija nije istaknuo cijenu koju primjenjuje tijekom trajanja posebnog oblika prodaje i najnižu cijenu koju je primjenjivao za istu uslugu tijekom razdoblja od 30 dana prije provoðenja posebnog oblika prodaje (èlanak 19. stavak 6.)
+33. u sluèaju prodaje robe po nižoj cijeni oglašavajuæi rasprodaju postupi suprotno odredbama èlanka 21. ovoga Zakona
+34. postupa suprotno odredbama pravilnika iz èlanka 22. stavka 2. ovoga Zakona
+35. nije jasno, vidljivo i èitljivo oznaèio na robi ili na prodajnom mjestu da je rijeè o prodaji robe s greškom niti je upoznao potrošaèa u èemu se sastoji greška na robi (èlanak 23.)
+36. za robu kojoj istjeèe rok uporabe nije dodatno jasno, vidljivo i èitljivo istaknuo krajnji rok uporabe (èlanak 24.)
+37. ne primjenjuje obraèun i cijene ureðene posebnim propisima (èlanak 25. stavak 2.)
+38. naplati uslugu oèitanja mjernih ureðaja, osim u sluèajevima koji su odreðeni posebnim propisom (èlanak 25. stavak 3.)
+39. ne omoguæi potrošaèu upoznavanje unaprijed sa svojim opæim uvjetima poslovanja te uvjetima korištenja javnih usluga i javno ih ne objavi na svojim mrežnim stanicama (èlanak 25. stavak 4.)
+40. pisanim putem ne obavijesti potrošaèa o svakoj promjeni svojih opæih uvjeta poslovanja i uvjeta korištenja javnih usluga (èlanak 25. stavak 5.)
+41. ne osnuje povjerenstvo za reklamacije potrošaèa ili u sastavu povjerenstva nema predstavnika udruga za zaštitu potrošaèa (èlanak 26. stavak 5.)
+42. ne omoguæi podnošenje reklamacije iz èlanka 27. stavka 1. ovoga Zakona na naèin ureðen u èlanku 27. stavku 2. ovoga Zakona
+43. jasno, vidljivo i èitljivo ne istakne obavijest o naèinu podnošenja reklamacije iz èlanka 27. stavka 1. ovoga Zakona u svojim poslovnim prostorijama i na mrežnoj stranici, ako je uspostavljena (èlanak 27. stavak 4.)
+44. povjerenstvo za reklamacije potrošaèa ne odgovori pisanim putem na zaprimljenu reklamaciju u roku od 30 dana od dana zaprimanja reklamacije (èlanak 27. stavak 5.)
+45. ne omoguæi prikljuèak na distribucijsku mrežu i uporabu prikljuèka i mreže te pružanje usluga pod nediskriminirajuæim, unaprijed poznatim i ugovorenim uvjetima (èlanak 28.)
+46. obustavi pružanje javne usluge prije okonèanja navedenoga sudskog ili izvansudskog postupka, ako se raèun trgovca osporava u sudskom ili izvansudskom postupku, a potrošaè uredno podmiruje sve sljedeæe nesporne raèune (èlanak 29. stavak 1.)
+47. ponovno, bez naknade, ne zapoène i ne nastavi pružati uslugu potrošaèu do okonèanja sudskog ili izvansudskog postupka ako je obustavio pružanje usluge prije nego što je od nadležnog tijela ili osobe obaviješten o pokrenutom sudskom ili izvansudskom postupku, osim ako je potrošaè raskinuo ugovor s trgovcem koji pruža javnu uslugu (èlanak 29. stavak 2.)
+48. obustavi pružanje javne usluge radi pokretanja postupka prisilne naplate (èlanak 29. stavak 3.)
+49. se koristi praksom koja je nepoštena u smislu èlanaka 34. do 40. ovoga Zakona
+50. potrošaèu nije na jasan i razumljiv naèin pružio informacije iz èlanka 46. stavka 1. ovoga Zakona
+51. potrošaèu nije ispunio ugovor u skladu s odredbama ugovora, ovoga Zakona i propisa kojim se ureðuju obveznopravni odnosi (èlanak 47. stavak 1.)
+52. u sluèaju robe s materijalnim nedostatkom, nije ispunio obvezu sukladno odredbama propisa kojim se ureðuju obveznopravni odnosi o odgovornosti za materijalne nedostatke stvari (èlanak 47. stavak 2.)
+53. u sluèaju robe za koju je dano jamstvo, nije ispunio obvezu sukladno odredbama propisa kojim se ureðuju obveznopravni odnosi o komercijalnom jamstvu (èlanak 47. stavak 3.)
+54. nije ispunio ugovor sukladno èlanku 48. stavku 1. ovoga Zakona
+55. pisanim putem ne obavijesti potrošaèa da nije ispunio ugovor (èlanak 48. stavak 2.)
+56. ne zatraži izrièit pristanak potrošaèa za bilo koje dodatno plaæanje koje bi potrošaè bio dužan izvršiti osim iznosa koji je ugovoren kao protuèinidba za glavnu èinidbu trgovca prije nego što potrošaè sklopi ugovor ili bude obvezan odgovarajuæom ponudom (èlanak 51. stavak 1.)
+57. je uspostavio telefonsku liniju kako bi ga potrošaèi mogli telefonski kontaktirati u vezi sa sklopljenim ugovorom, a pozivi se naplaæuju po tarifi koja je viša od one za komunikaciju uobièajenom fiksnom geografskom linijom ili mobilnom linijom (èlanak 52.)
+58. je s potrošaèem sklopio ugovor èije odredbe sadrže nepoštenu ugovornu odredbu ili više njih iz èlanka 53. stavka 1. ovoga Zakona, što je utvrðeno pravomoænom sudskom presudom (èlanak 55. stavak 1.)
+59. nije na jasan i razumljiv naèin obavijestio potrošaèa o podacima iz èlanka 60. stavka 1. ovoga Zakona prije nego što potrošaè sklopi ugovor izvan poslovnih prostorija ili ugovor na daljinu ili bude obvezan odgovarajuæom ponudom
+60. nije na jasan i razumljiv naèin koji je primjeren sredstvima komunikacije na daljinu obavijestio potrošaèa o podacima iz èlanka 61. ovoga Zakona prije nego što potrošaè sklopi ugovor na internetskom tržištu ili bude obvezan odgovarajuæom ponudom
+61. ne preda potrošaèu obavijest iz èlanka 60. ovoga Zakona na papiru ili, uz suglasnost potrošaèa, na drugom trajnom mediju te ako obavijest nije èitljiva i napisana jednostavnim i razumljivim jezikom (èlanak 66.)
+62. ne dostavi potrošaèu primjerak ugovora ili pisanu potvrdu usmeno sklopljenog ugovora na papiru ili, uz suglasnost potrošaèa, na drugom trajnom mediju (èlanak 67. stavak 1.)
+63. nije dao potrošaèu obavijesti sukladno èlanku 69. stavku 1. ovoga Zakona
+64. nije potrošaèu dostavio poziv iz èlanka 70. stavka 1. ovoga Zakona na papiru ili, uz suglasnost potrošaèa, na drugom trajnom mediju (èlanak 70. stavak 2.)
+65. provodi nezatražene posjete potrošaèevu domu suprotno èlanku 71. stavcima 1. do 5. ovoga Zakona
+66. u sluèaju sklapanja ugovora na daljinu obavijest iz èlanka 60. stavka 1. ovoga Zakona nije prilagoðena sredstvu daljinske komunikacije koje se koristi te nije priopæena jednostavnim i razumljivim jezikom i nije èitljiva ako se daje na trajnom mediju (èlanak 72. stavak 1.)
+67. ne dostavi potrošaèu ponudu na trajnom mediju na naèin kojim æe nedvojbeno biti moguæe utvrditi trenutak zaprimanja ponude (èlanak 73. stavak 1.)
+68. nije jasno i vidljivo istaknuo podatke iz èlanka 60. stavka 1. toèaka 1., 5., 17. i 18. i stavaka 3. do 5. ovoga Zakona prije nego što potrošaè izvrši narudžbu elektronièkim putem (èlanak 74. stavak 1.)
+69. nije omoguæio potrošaèu da u trenutku izvršenja narudžbe jasno izjavi da je upoznat s tim da narudžba ukljuèuje obvezu plaæanja odnosno nije omoguæio potrošaèu aktivno polje na ekranu ili sliènu funkciju koja ga upozorava da je to narudžba s obvezom plaæanja (èlanak 74. stavci 2. i 3.)
+70. nije na mrežnim stranicama naznaèio postoje li ogranièenja u dostavi te koja su sredstva plaæanja prihvaæena (èlanak 75.)
+71. u razumnom roku nakon sklapanja ugovora na daljinu, a najkasnije u trenutku isporuke robe ili poèetka izvršavanja usluge nije dostavio potrošaèu potvrdu o sklopljenom ugovoru na trajnom mediju (èlanak 76. stavak 1.)
+72. nije, bez odgaðanja, u sluèaju iz èlanka 81. stavka 2. ovoga Zakona, dostavio potrošaèu potvrdu o primitku izjave o raskidu na trajnom mediju (èlanak 81. stavak 3.)
+73. nije izvršio potrošaèu povrat plaæenog iznosa sukladno èlanku 83. stavku 1. ovoga Zakona
+74. nije izvršio potrošaèu povrat plaæenog iznosa sukladno èlanku 83. stavku 3. ovoga Zakona
+75. ne raskine bilo koji povezani ugovor u sluèaju raskida ugovora sklopljenog izvan poslovnih prostorija ili ugovora sklopljenog na daljinu (èlanak 85.)
+76. potrošaèu ne uputi prethodnu obavijest ili ako je prethodna obavijest upuæena nepravodobno (èlanak 88. stavak 1.)
+77. prethodna obavijest ne sadržava podatke propisane èlancima 89. do 92. ovoga Zakona (èlanak 88. stavak 2.)
+78. ne vrati potrošaèu sve što je na temelju ugovora od njega primio, umanjeno za iznos koji je ovlašten naplatiti od potrošaèa, najkasnije u roku od 30 dana od dana zaprimanja obavijesti o raskidu ugovora (èlanak 98. stavak 7.)
+79. ugovor o pravu na vremenski ogranièenu uporabu (timeshare), ugovor o dugotrajnom turistièkom proizvodu, ugovor o ponovnoj prodaji i ugovor o zamjeni nije sklopljen u pisanom obliku, na papiru ili drugom trajnom mediju (èlanak 104. stavak 1.)
+80. ugovor o pravu na vremenski ogranièenu uporabu (timeshare), ugovor o dugotrajnom turistièkom proizvodu, ugovor o ponovnoj prodaji i ugovor o zamjeni nije sastavljen na službenom jeziku ili jednom od službenih jezika države u kojoj potrošaè boravi ili èiji je državljanin, po njegovu izboru, s tim da ako potrošaè boravi u nekoj državi èlanici Europske unije ili je državljanin neke države èlanice Europske unije, može izabrati službeni jezik te države jedino ako je to ujedno službeni jezik Europske unije (èlanak 104. stavak 2.)
+81. potrošaè boravi u Republici Hrvatskoj ili ako trgovac obavlja svoju prodajnu djelatnost na podruèju Republike Hrvatske, a ugovor o pravu na vremenski ogranièenu uporabu (timeshare), ugovor o dugotrajnom turistièkom proizvodu, ugovor o ponovnoj prodaji i ugovor o zamjeni nije sastavljen na hrvatskom jeziku (èlanak 104. stavak 3.)
+82. se ugovor o pravu na vremenski ogranièenu uporabu (timeshare) odnosi na odreðenu nekretninu, ne dostavi potrošaèu ovjereni prijevod ugovora na službeni jezik ili jedan od službenih jezika države u kojoj se nekretnina nalazi, s tim da ako se nekretnina nalazi u nekoj državi èlanici Europske unije, ugovor mora biti preveden na službeni jezik ili jedan od službenih jezika te države koji je ujedno i službeni jezik Europske unije (èlanak 104. stavak 4.)
+83. potrošaèu ne uruèi najmanje dva primjerka ugovora o pravu na vremenski ogranièenu uporabu (timeshare), ugovora o dugotrajnom turistièkom proizvodu, ugovora o ponovnoj prodaji i ugovora o zamjeni (èlanak 104. stavak 6.)
+84. u svakom oglasu koji se odnosi na ugovor o pravu na vremenski ogranièenu uporabu (timeshare), ugovor o dugotrajnom turistièkom proizvodu, ugovor o ponovnoj prodaji i ugovor o zamjeni nije jasno naznaèeno pravo dobivanja prethodne obavijesti iz èlanka 106. ovoga Zakona, kao i mjesto na kojem se ta obavijest može dobiti (èlanak 105. stavak 1.)
+85. se sklapanje ugovora o pravu na vremenski ogranièenu uporabu (timeshare), ugovora o dugotrajnom turistièkom proizvodu, ugovora o ponovnoj prodaji i ugovora o zamjeni potrošaèu nudi osobno, na promotivnom ili prodajnom dogaðanju, a trgovac u pozivu jasno ne navede komercijalnu svrhu i prirodu dogaðanja (èlanak 105. stavak 2.)
+86. obavijest iz èlanka 105. stavka 1. ovoga Zakona nije dostupna tijekom èitavog trajanja dogaðanja iz èlanka 105. stavka 2. ovoga Zakona (èlanak 105. stavak 3.)
+87. vremenski ogranièenu uporabu (timeshare) i dugotrajni turistièki proizvod oglašava i/ili nudi na tržištu kao ulaganje (èlanak 105. stavak 4.)
+88. potrošaèu na jasan i razumljiv naèin ne pruži toènu i potpunu obavijest o ugovoru o pravu na vremenski ogranièenu uporabu (timeshare), ugovoru o dugotrajnom turistièkom proizvodu, ugovoru o ponovnoj prodaji i ugovoru o zamjeni, putem standardnog informacijskog obrasca u razumnom roku prije prihvaæanja ponude ili sklapanja ugovora (èlanak 106. stavak 1.)
+89. obavijest iz èlanka 106. stavka 1. ovoga Zakona nije potrošaèu besplatno stavljena na raspolaganje (èlanak 106. stavak 2.)
+90. obavijest iz èlanka 106. stavka 1. ovoga Zakona nije sastavljena sukladno èlanku 106. stavku 3. ovoga Zakona
+91. ne obavijesti potrošaèa pisanim putem, na papiru ili drugom trajnom mediju, prije sklapanja ugovora, o izmjenama svakog podatka navedenog u prethodnoj obavijesti ili u ugovoru te izmjene nije izrièito naveo (èlanak 107. stavak 2.)
+92. potrošaè prije sklapanja ugovora nije izrièito upozoren na postojanje prava na jednostrani raskid ugovora iz èlanka 108. ovoga Zakona, dužinu roka za taj raskid, kao i na zabranu plaæanja unaprijed za vrijeme trajanja tog roka za raskid (èlanak 107. stavak 4.)
+93. potrošaèu dostavi ugovor koji ne sadrži zaseban obrazac za jednostrani raskid ugovora iz èlanka 108. ovoga Zakona (èlanak 107. stavak 5.)
+94. zahtijeva od potrošaèa naknadu troškova i/ili plaæanje vrijednosti usluge koja mu je na temelju ugovora bila ispunjena prije nego što je iskoristio svoje pravo na jednostrani raskid ugovora iz èlanka 108. ovoga Zakona (èlanak 109. stavak 1.)
+95. tereti potrošaèa za štetu koja nastane zbog toga što je potrošaè iskoristio svoje pravo na jednostrani raskid ugovora iz èlanka 108. ovoga Zakona (èlanak 109. stavak 2.)
+96. prije isteka roka za jednostrani raskid ugovora iz èlanka 108. ovoga Zakona od potrošaèa zahtijeva bilo kakvo plaæanje unaprijed, davanje jamstava, rezervaciju novca na raèunu, izrièito priznanje duga ili izvršenje bilo koje druge financijske transakcije u vezi s ugovorom o pravu na vremenski ogranièenu uporabu (timeshare), ugovorom o dugotrajnom turistièkom proizvodu te ugovorom o zamjeni (èlanak 110. stavak 1.)
+97. zahtijeva od potrošaèa bilo kakvo plaæanje unaprijed, davanje jamstava, rezervaciju novca na raèunu, izrièito priznanje duga ili izvršenje bilo koje druge financijske transakcije prije nego što ponovna prodaja prava bude izvršena odnosno ugovor o ponovnoj prodaji prestane na neki drugi naèin (èlanak 110. stavak 2.)
+98. zahtijeva bilo kakvo plaæanje na temelju ugovora o dugotrajnom turistièkom proizvodu koje nije utemeljeno na planu obroène otplate (èlanak 111. stavak 2.)
+99. ne uputi potrošaèu pisani zahtjev za plaæanje, na papiru ili drugom trajnom mediju, najkasnije 14 dana prije datuma dospijeæa pojedinog obroka za svako plaæanje na temelju ugovora o dugotrajnom turistièkom proizvodu (èlanak 111. stavak 4.)
+100. zahtijeva od potrošaèa, od drugog obroka nadalje, plaæanje bilo kakve naknade ili kazne ako potrošaè raskine ugovor o dugotrajnom turistièkom proizvodu (èlanak 111. stavak 5.)
+101. u sluèaju jednostranog raskida ugovora o vremenski ogranièenoj uporabi (timeshare) i ugovora o dugotrajnom turistièkom proizvodu zahtijeva od potrošaèa bilo kakvu naknadu kod raskida povezanog ugovora o zamjeni ili bilo kojeg drugog povezanog ugovora ili ugovora o kreditu (èlanak 112. stavci 1. i 3.)
+102. potrošaèu ne vrati sve što je na temelju povezanog ugovora primio od njega, on ili treæa osoba s kojom je potrošaè sklopio povezani ugovor, i to u roku od 30 dana od dana kada je trgovac primio obavijest iz èlanka 108. ovoga Zakona (èlanak 112. stavak 6.)
+103. nije postupio sukladno obvezi iz èlanka 143. stavka 2. ovoga Zakona.
+(2) Za prekršaje iz stavka 1. ovoga èlanka kaznit æe se i odgovorna osoba u pravnoj osobi novèanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna.
+(3) Za prekršaje iz stavka 1. ovoga èlanka kaznit æe se trgovac – fizièka osoba novèanom kaznom u iznosu od 5000,00 do 15.000,00 kuna.
+Prekršaji kojima je nanesena šteta kolektivnim interesima i pravima potrošaèa
+Èlanak 150.
+(1) Za prekršaj iz èlanka 149. stavka 1. toèaka 49. i 50., 54. do 63. i 65. do 75.
+(2) ovoga Zakona, a:
+1. kojim je nanesena, kojim se nanosi ili æe vjerojatno biti nanesena šteta
+2. kolektivnim interesima i pravima potrošaèa koji borave u najmanje dvjema državama èlanicama Unije koje nisu država èlanica u kojoj:
+(a) je èinjenje ili propuštanje nastalo ili se dogodilo
+(b) trgovac odgovoran za èinjenje ili propuštanje ima sjedište ili
+(c) se nalaze dokazi ili imovina trgovca koji su povezani s èinjenjem ili propuštanjem
+2. kojima je nanesena, kojima se nanosi ili æe vjerojatno biti nanesena šteta kolektivnim interesima i pravima potrošaèa i koja imaju zajednièke znaèajke, ukljuèujuæi istu nezakonitu praksu, povredu istog interesa i do kojih dolazi istodobno, a poèinio ih je isti trgovac u najmanje trima državama èlanicama kaznit æe se trgovac – pravna osoba novèanom kaznom u iznosu od 0,5 do 4 % ukupnog prometa poèinitelja prekršaja ostvarenog u godini poèinjenja prekršaja, a koji je utvrðen službenim financijskim izvješæima za tu godinu izraðenim sukladno propisima kojima se ureðuje raèunovodstvo, a ako izvješæa za tu godinu nema, uzet æe se posljednje dostupno službeno godišnje financijsko izvješæe izraðeno sukladno propisima kojima se ureðuje raèunovodstvo. Ako podaci o financijskim izvješæima nisu dostupni, poèinitelj može biti kažnjen novèanom kaznom u iznosu od 1.000.000,00 do 15.000.000,00 kuna.
+(2) Za prekršaj iz èlanka 149. stavka 1. toèaka 49. i 50., 54. do 63. i 65. do 75. ovoga Zakona, a kojim je nanesena, kojim se nanosi ili æe vjerojatno biti nanesena šteta kolektivnim interesima i pravima potrošaèa u najmanje dvjema treæinama država èlanica koje zajedno èine najmanje dvije treæine stanovništva Unije kaznit æe se trgovac – pravna osoba novèanom kaznom u iznosu od 2 do 5 % ukupnog prometa poèinitelja prekršaja ostvarenog u godini poèinjenja prekršaja, a koji je utvrðen službenim financijskim izvješæima za tu godinu izraðenim sukladno propisima kojima se ureðuje raèunovodstvo, a ako izvješæa za tu godinu nema, uzet æe se posljednje dostupno službeno godišnje financijsko izvješæe izraðeno sukladno propisima kojima se ureðuje raèunovodstvo. Ako podaci o financijskim izvješæima nisu dostupni, poèinitelj može biti kažnjen novèanom kaznom u iznosu od 5.000.000,00 do 15.000.000,00 kuna.
+(3) Odgovorna osoba u pravnoj osobi kaznit æe se za prekršaje iz èlanka 149. stavka 1. toèaka 49. i 50., 54. do 63. i 65. do 75. ovoga Zakona:
+1. koji su poèinjeni na naèin opisan u stavku 1. ovoga èlanka novèanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna
+2. koji su poèinjeni na naèin opisan u stavku 2. ovoga èlanka novèanom kaznom u iznosu od 50.000,00 do 150.000,00 kuna.
+(4) Trgovac – fizièka osoba kaznit æe se za prekršaje iz èlanka 149. stavka 1. toèaka 49. i 50., 54. do 63. i 65. do 75. ovoga Zakona:
+1. koji su poèinjeni na naèin opisan u stavku 1. ovoga èlanka novèanom kaznom u iznosu od 0,1 do 4 % ukupnog prometa poèinitelja prekršaja ostvarenog u godini poèinjenja prekršaja, a koji je utvrðen službenim financijskim izvješæima za tu godinu izraðenim sukladno propisima kojima se ureðuje raèunovodstvo, a ako izvješæa za tu godinu nema, uzet æe se posljednje dostupno službeno godišnje financijsko izvješæe izraðeno sukladno propisima kojima se ureðuje raèunovodstvo. Ako podaci o financijskim izvješæima nisu dostupni, poèinitelj može biti kažnjen novèanom kaznom u iznosu od 15.000,00 do 15.000.000,00 kuna
+2. koji su poèinjeni na naèin opisan u stavku 2. ovoga èlanka novèanom kaznom u iznosu od 1 do 4 % ukupnog prometa poèinitelja prekršaja ostvarenog u godini poèinjenja prekršaja, a koji je utvrðen službenim financijskim izvješæima za tu godinu izraðenim sukladno propisima kojima se ureðuje raèunovodstvo, a ako izvješæa za tu godinu nema, uzet æe se posljednje dostupno službeno godišnje financijsko izvješæe izraðeno sukladno propisima kojima se ureðuje raèunovodstvo. Ako podaci o financijskim izvješæima nisu dostupni, poèinitelj može biti kažnjen novèanom kaznom u iznosu od 50.000,00 do 15.000.000,00 kuna.
+Prekršaj odgovorne osobe u pravnoj osobi s javnim ovlastima ili jedinici lokalne samouprave
+Èlanak 151.
+Novèanom kaznom u iznosu od 10.000,00 do 15.000,00 kuna kaznit æe se za prekršaj odgovorna osoba u javnopravnom tijelu ili jedinici lokalne samouprave ako:
+1. javnopravno tijelo koje obavlja regulatorne poslove u pogledu javnih usluga iz èlanka 25. stavka 1. ovoga Zakona ne osnuje savjetodavno tijelo u èijem sastavu mora biti i predstavnik udruge za zaštitu potrošaèa i ako donosi odluke bez mišljenja savjetodavnog tijela ili ih donosi na netransparentan, neobjektivan i diskriminirajuæi naèin (èlanak 26. stavak 1.)
+2. jedinica lokalne samouprave koja odluèuje o pravima i obvezama potrošaèa – korisnika javnih usluga iz èlanka 25. stavka 1. ovoga Zakona ne osnuje savjetodavno tijelo u èijem sastavu mora biti i predstavnik udruge za zaštitu potrošaèa, ako djeluje i ima sjedište na podruèju jedinice podruène (regionalne) samouprave na èijem se podruèju nalazi jedinica lokalne samouprave iz èlanka 26. stavka 2. ovoga Zakona i ako donosi odluke bez mišljenja savjetodavnog tijela ili ih donosi na netransparentan, neobjektivan i diskriminirajuæi naèin (èlanak 26. stavci 2. i 3.)
+3. jedinica lokalne samouprave ne osigura prostor za obavljanje poslova savjetovanja potrošaèa iz Nacionalnog programa zaštite potrošaèa udrugama ili drugim fizièkim ili pravnim osobama za zaštitu potrošaèa koji su odabrani temeljem javnog natjeèaja iz èlanka 139. stavka 2. ovoga Zakona tijekom provedbe istog (èlanak 139. stavak 4.).
+Prekršaj trgovca – operatora elektronièkih komunikacija
+Èlanak 152.
+Novèanom kaznom u iznosu od 10.000,00 do 100.000,00 kuna kaznit æe se za prekršaj trgovac – operator elektronièkih komunikacija ako obavlja upis i/ili ispis iz registra suprotno odredbama pravilnika iz èlanka 12. ovoga Zakona.
+Pravilo o izboru vrste i mjere kazne
+Èlanak 153.
+Odreðujuæi vrstu i mjeru kazne koju æe primijeniti, sud æe uzeti u obzir sve okolnosti koje utjeèu da kazna po vrsti i mjeri bude lakša ili teža (olakotne i otegotne okolnosti) kao što su:
+– narav povrede
+– težina povrede
+– opseg i trajanje povrede
+– svaka radnja koju je trgovac poduzeo kako bi ublažio ili popravio štetu koju su potrošaèi pretrpjeli
+– ranije utvrðene povrede trgovca
+– financijska dobit koju je ostvario ili gubici koje je izbjegao zbog povrede prava potrošaèa, ako su ti podaci dostupni i
+– sankcije izreèene za istu povredu u drugim državama èlanicama u prekograniènim sluèajevima ako su informacije o takvim sankcijama dostupne putem mehanizma uzajamne pomoæi uspostavljenog Uredbom (EU) 2017/2394 Europskog parlamenta i Vijeæa od 12. prosinca 2017. o suradnji izmeðu nacionalnih tijela odgovornih za izvršavanje propisâ o zaštiti potrošaèa i o stavljanju izvan snage Uredbe (EZ) br. 2006/2004 (Tekst znaèajan za EGP) (SL L 345, 27. 12. 2017.).
+
+
+
+
+DIO OSMI   PRIJELAZNE I ZAVRŠNE ODREDBE
+Èlanak 154.
+(1) Vlada Republike Hrvatske donijet æe odluku iz èlanka 115. stavka 5. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(2) Vlada Republike Hrvatske donijet æe odluku o osnivanju Nacionalnog vijeæa za zaštitu potrošaèa iz èlanka 132. stavka 1. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(3) Vlada Republike Hrvatske donijet æe odluku iz èlanka 137. stavka 2. ovoga Zakona do 31. prosinca 2024.
+Èlanak 155.
+Ministar nadležan za podruèje zaštite potrošaèa donijet æe pravilnike iz èlanka 7. stavka 9., èlanka 12. stavka 4., èlanka 22. stavka 2., èlanka 81. stavka 6., èlanka 106. stavka 4. i èlanka 107. stavka 7. ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+Èlanak 156.
+(1) Hrvatska gospodarska komora dužna je u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti s odredbama ovoga Zakona Pravilnik o Sudu èasti pri Hrvatskoj gospodarskoj komori (»Narodne novine«, br. 67/20.).
+(2) Hrvatska obrtnièka komora dužna je u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti s odredbama ovoga Zakona Pravilnik Suda èasti Hrvatske obrtnièke komore (»Narodne novine«, br. 22/17.).
+Èlanak 157.
+Postupci pokrenuti do dana stupanja na snagu ovoga Zakona dovršit æe se prema odredbama Zakona o zaštiti potrošaèa (»Narodne novine«, br. 41/14., 110/15. i 14/19.) ili ovoga Zakona, ovisno o tome koji je blaži za poèinitelja.
+Èlanak 158.
+Do dana stupanja na snagu propisa i drugih akata iz èlanaka 154. i 155. ovoga Zakona ostaju na snazi podzakonski propisi i drugi akti doneseni na temelju Zakona o zaštiti potrošaèa (»Narodne novine«, br. 41/14., 110/15. i 14/19.):
+1. Odluka o odreðivanju tijela i osoba ovlaštenih za pokretanje postupka za zaštitu kolektivnih interesa potrošaèa (»Narodne novine«, br. 105/14.)
+2. Odluka o osnivanju Nacionalnog vijeæa za zaštitu potrošaèa (»Narodne novine«, br. 57/19.)
+3. Pravilnik o naèinu isticanja maloprodajne cijene i cijene za jedinicu mjere proizvoda i usluga (»Narodne novine«, br. 66/14. i 16/15.)
+4. Pravilnik o sadržaju i obliku obavijesti o pravu potrošaèa na jednostrani raskid ugovora o vremenski ogranièenoj uporabi (timeshare), dugotrajnom turistièkom proizvodu, ponovnoj prodaji i zamjeni (»Narodne novine«, br. 66/14.)
+5. Pravilnik o sadržaju i obliku obavijesti o ugovoru o vremenski ogranièenoj uporabi (timeshare), dugotrajnom turistièkom proizvodu, ponovnoj prodaji i zamjeni (»Narodne novine«, br. 66/14.)
+6. Pravilnik o sadržaju i obliku obavijesti o pravu potrošaèa na jednostrani raskid ugovora sklopljenih na daljinu i ugovora sklopljenih izvan poslovnih prostorija (»Narodne novine«, br. 72/14.)
+7. Pravilnik o uvjetima i naèinu provoðenja sezonskog sniženja (»Narodne novine«, br. 135/15.)
+8. Pravilnik o Registru »Ne zovi« (»Narodne novine«, br. 47/16.)
+9. Nacionalni program zaštite potrošaèa za razdoblje od 2021. do 2024. godine (»Narodne novine«, br. 29/21.).
+Èlanak 159.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Zakon o zaštiti potrošaèa (»Narodne novine«, br. 41/14., 110/15. i 14/19.).
+Èlanak 160.
+Ovaj Zakon objavit æe se u »Narodnim novinama«, a stupa na snagu 28. svibnja 2022.
+Prijelazne i završne odredbe iz Zakona o predstavnièkim tužbama za zaštitu kolektivnih interesa i prava potrošaèa NN 59/23
+Èlanak 37.
+Danom stupanja na snagu ovoga Zakona prestaju važiti èlanci 114. do 130. Zakona o zaštiti potrošaèa (»Narodne novine«, br. 19/22.).
+Èlanak 38.
+Ovaj Zakon objavit æe se u »Narodnim novinama«, a stupa na snagu 25. lipnja 2023.
+
+
+	              	          Ispisano: 0. XXX 0000.
+
+
+
+1
+Zakon o zaštiti potrošaèa
+NN 19/22, 59/23 - na snazi od 25.06.2023.
+
+
+
+
+

@@ -1,0 +1,359 @@
+id	kategorija	pitanje	dohvaceni_ids	dohvaceni_ids	dohvaceni_ids	dohvaceni_ids	dohvaceni_ids	dohvaceni_ids	dohvaceni_ids	dohvaceni_ids	dohvaceni_ids	odgovor	t_dohvat	t_generiranje
+T01	izravni	Koliko sati tjedno iznosi puno radno vrijeme?	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_61	Zakon_o_radu_clanak_18_dio_2	Zakon_o_radu_clanak_62	Zakon_o_radu_clanak_67	Zakon_o_radu_clanak_122	Zakon_o_radu_clanak_75	Prema ?lanku 61. Zakona, puno radno vrijeme radnika ne može biti duže od ?etrdeset sati tjedno. Ako zakonom, kolektivnim ugovorom, sporazumom sklopljenim izme?u radni?kog vije?a i poslodavca ili ugovorom o radu nije odre?eno radno vrijeme, smatra se da je puno radno vrijeme ?etrdeset sati tjedno.	0.1327231	0.8460418
+T02	izravni	Koliko maksimalno radnih sati smije imati radnik u jednom tjednu?	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_62	Zakon_o_radu_clanak_18_dio_2	Zakon_o_radu_clanak_61	Zakon_o_radu_clanak_65	Zakon_o_radu_clanak_122	Zakon_o_radu_clanak_67	Na temelju prona?enih ?lanaka zakona, radnik koji radi u nejednako raspore?enom radnom vremenu može imati maksimalno 60 sati radnih sati u jednom tjednu, uklju?uju?i prekovremeni rad, ako je tako ugovoreno kolektivnim ugovorom (?lanak 66. stavak 3.). Me?utim, ako nije ugovoreno kolektivnim ugovorom, radnik može imati maksimalno 50 sati radnih sati u jednom tjednu, uklju?uju?i prekovremeni rad (?lanak 66. stavak 2.).	0.073143	36.9649851
+T03	izravni	Što je nepuno radno vrijeme?	Zakon_o_radu_clanak_62	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_18_dio_2	Zakon_o_radu_clanak_61	Zakon_o_radu_clanak_67	Zakon_o_radu_clanak_65	Zakon_o_radu_clanak_60	Zakon_o_radu_clanak_71	Zakon_o_radu_clanak_18_dio_4	Nepuno radno vrijeme radnika je svako radno vrijeme kra?e od punog radnog vremena. Prema ?lanku 62. Zakona o radu, radnik ne može kod više poslodavaca raditi s ukupnim radnim vremenom dužim od 40 sati tjedno, osim u slu?aju iz ?lanka 18.a ovoga Zakona. Tako?er, radnik je dužan obavijestiti poslodavca o sklopljenim ugovorima o radu za nepuno radno vrijeme s drugim poslodavcem, odnosno drugim poslodavcima.	0.0637569	27.1970333
+T04	izravni	Koliko najduže smije trajati prekovremeni rad?	Zakon_o_radu_clanak_67	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_122	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_12	Zakon_o_radu_clanak_128	Prema ?lanku 67. Zakona o radu, prekovremeni rad može trajati najviše ?etrdeset osam sati tjedno. Me?utim, u iznimnim slu?ajevima, kolektivnim ugovorom se može odrediti da prekovremeni rad može trajati duže od ?etrdeset osam sati tjedno, ali ne duže od pedeset šest sati tjedno, odnosno šezdeset sati tjedno ako poslodavac posluje sezonski.	0.0727358	47.8729645
+T05	izravni	Ima li radnik pravo na stanku tijekom radnog dana?	Zakon_o_radu_clanak_18_dio_2	Zakon_o_radu_clanak_62	Zakon_o_radu_clanak_18_dio_4	Zakon_o_radu_clanak_94	Zakon_o_radu_clanak_71	Zakon_o_radu_clanak_86	Zakon_o_radu_clanak_89	Zakon_o_radu_clanak_7	Zakon_o_radu_clanak_87	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje.	0.0615138	47.6803598
+T06	izravni	Koliko traje dnevni odmor radnika?	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_75	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_77	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_82	Prema ?lanku 74. Zakona, radnik ima pravo na dnevni odmor od najmanje dvanaest sati neprekidno tijekom svakog vremenskog razdoblja od dvadeset ?etiri sata. Iznimno, poslodavac je dužan punoljetnom radniku koji radi na sezonskim poslovima, a koji se obavljaju u dva navrata tijekom radnog dana, osigurati pravo na dnevni odmor u trajanju od najmanje osam sati neprekidno.	0.0543111	8.7719551
+T07	izravni	Koliko traje tjedni odmor?	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_75	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_84	Zakon_o_radu_clanak_77	Zakon_o_radu_clanak_78	Zakon_o_radu_clanak_93	"Prema ?lanku 75. Zakona o radu, radnik ima pravo na tjedni odmor u neprekidnom trajanju od najmanje dvadeset ?etiri sata, kojem se pribraja dnevni odmor iz ?lanka 74. ovoga Zakona. Maloljetnik ima pravo na tjedni odmor u neprekidnom trajanju od najmanje ?etrdeset osam sati.
+
+U slu?aju da radnik ne može koristiti odmor u trajanju iz stavaka 1. i 2. ovoga ?lanka, mora mu se za svaki radni tjedan omogu?iti korištenje zamjenskog tjednog odmora odmah po okon?anju razdoblja koje je proveo na radu, zbog kojeg tjedni odmor nije koristio ili ga je koristio u kra?em trajanju.
+
+Iznimno, radnicima koji zbog obavljanja posla u razli?itim smjenama ili objektivno nužnih tehni?kih razloga ili zbog organizacije rada ne mogu iskoristiti odmor u trajanju iz stavka 1. ovoga ?lanka, pravo na tjedni odmor može biti odre?eno u neprekidnom trajanju od najmanje dvadeset ?etiri sata, kojem se ne pribraja dnevni odmor iz ?lanka 74. ovoga Zakona."	0.0433418	28.3111276
+T08	izravni	Koliko najmanje traje godišnji odmor?	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_75	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_84	Zakon_o_radu_clanak_76	Zakon_o_radu_clanak_77	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_78	Na temelju prona?enih ?lanaka zakona, radnik ima pravo na godišnji odmor od najmanje ?etiri tjedna, a maloljetnik i radnik koji radi na poslovima na kojima nije mogu?e zaštititi radnika od štetnih utjecaja u trajanju od najmanje pet tjedana.	0.0714799	29.6367438
+T09	izravni	Ima li radnik pravo na naknadu za neiskorišteni godišnji odmor?	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_82	Zakon_o_radu_clanak_76	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_77	Zakon_o_radu_clanak_78	"Da, radnik ima pravo na naknadu za neiskorišteni godišnji odmor. Prema ?lanku 82. Zakona o radu, u slu?aju prestanka ugovora o radu poslodavac je dužan radniku koji nije iskoristio godišnji odmor isplatiti naknadu umjesto korištenja godišnjeg odmora. Naknada se odre?uje razmjerno broju dana neiskorištenoga godišnjeg odmora.
+
+Prema ?lanku 93. Zakona o radu, poslodavac je dužan radniku dostaviti obra?un iz kojeg je vidljivo kako su iznosi utvr?eni za naknadu za neiskorišteni godišnji odmor. Obra?un mora sadržavati ukupan iznos pla?e, naknade pla?e, otpremnine ili naknade za neiskorišteni godišnji odmor u propisanom sadržaju.
+
+Stoga, ako radnik nije iskoristio godišnji odmor ili je prestao radni odnos, ima pravo na naknadu za neiskorišteni godišnji odmor, koja ?e mu biti ispla?ena od strane poslodavca."	0.0544293	28.1508323
+T10	izravni	Koliko dana pla?enog dopusta pripada radniku?	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_18	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_77	"Na temelju prona?enih ?lanaka zakona, radnik ima pravo na nepla?eni dopust u ukupnom trajanju od pet radnih dana godišnje za pružanje osobne skrbi. Ovo pravo se odnosi na skrb koju radnik pruža ?lanu uže obitelji ili osobi koja živi u istom ku?anstvu i koja joj je potrebna zbog ozbiljnog zdravstvenog razloga. 
+
+Zbog toga, radnik ima pravo na pla?eni dopust u trajanju od pet radnih dana, koji se odnosi na njegovu pla?u za taj period. Pla?e za taj period radnik ne?e primati, ali ?e biti pla?en naknadno nakon što prethodno odobri dopust."	0.062957	32.0322287
+T11	izravni	Koliko najdulje može trajati probni rad?	Zakon_o_radu_clanak_57	Zakon_o_radu_clanak_53	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_139	Zakon_o_radu_clanak_67	Zakon_o_radu_clanak_122	Zakon_o_radu_clanak_133	Zakon_o_radu_clanak_12	Zakon_o_radu_clanak_68_dio_2	Na temelju prona?enih ?lanaka zakona, probni rad može trajati najduže šest mjeseci. Me?utim, ako je radnik bio privremeno odsutan, osobito zbog privremene nesposobnosti za rad, korištenja rodiljnih i roditeljskih prava prema posebnom propisu i korištenja prava na pla?eni dopust iz ?lanka 86. ovoga Zakona, trajanje probnog rada može se produžiti razmjerno dužini trajanja nenazo?nosti na probnom radu tako da ukupno trajanje probnog rada prije i nakon njegova prekida ne može biti duže od šest mjeseci.	0.0482807	28.1357578
+T12	izravni	Koliko najdulje može trajati ugovor o radu na odre?eno vrijeme?	Zakon_o_radu_clanak_12	Zakon_o_radu_clanak_18_dio_3	Zakon_o_radu_clanak_53	Zakon_o_radu_clanak_67	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_48	Zakon_o_radu_clanak_128	Zakon_o_radu_clanak_18	"Na temelju ?lanka 12. Zakona, ugovor o radu na odre?eno vrijeme može trajati najdulje tri godine. Me?utim, postoje iznimke koje dopuštaju trajanje ugovora duže od tri godine. Prema ?lanku 12. stavku 7., ugovor o radu na odre?eno vrijeme može trajati neprekinuto duže od tri godine u sljede?im slu?ajevima:
+
+1. Ako je to potrebno zbog zamjene privremeno nenazo?nog radnika.
+2. Ako je to potrebno zbog dovršetka rada na projektu koji uklju?uje financiranje iz fondova Europske unije.
+3. Ako je to zbog nekih drugih objektivnih razloga dopušteno posebnim zakonom ili kolektivnim ugovorom.
+
+U tim slu?ajevima, ugovor o radu na odre?eno vrijeme može trajati neprekinuto duže od tri godine, ali ne duže od tri godine bez prekida."	0.1242561	28.9742069
+T13	izravni	Što mora sadržavati ugovor o radu?	Zakon_o_radu_clanak_10	Zakon_o_radu_clanak_17_dio_2	Zakon_o_radu_clanak_90_dio_2	Zakon_o_radu_clanak_110	Zakon_o_radu_clanak_18_dio_4	Zakon_o_radu_clanak_15	Zakon_o_radu_clanak_221_dio_13	Zakon_o_radu_clanak_23	Zakon_o_radu_clanak_136	"Ugovor o radu mora sadržavati sljede?e podatke:
+
+- Podatke o strankama i njihovu osobnom identifikacijskom broju te prebivalištu, odnosno sjedištu (?lanak 15. stavak 1.),
+- Mjesto rada, a ako zbog prirode posla ne postoji stalno ili glavno mjesto rada ili je ono promjenjivo, podatak o razli?itim mjestima na kojima se rad obavlja ili bi se mogao obavljati (?lanak 15. stavak 1.),
+- Naziv radnog mjesta, odnosno naravi ili vrsti rada na koje se radnik zapošljava ili kratak popis ili opis poslova (?lanak 15. stavak 1.),
+- Datum sklapanja ugovora o radu i datum po?etka rada (?lanak 15. stavak 1.),
+- To?no li se ugovor sklapan na neodre?eno ili na odre?eno vrijeme te o datumu prestanka ili o?ekivanom trajanju ugovora u slu?aju ugovora o radu na odre?eno vrijeme (?lanak 15. stavak 1.),
+- Trajanje pla?enoga godišnjeg odmora na koji radnik ima pravo, a ako se radi o radniku koji je zapošljen na izdvojenom mjestu rada ili na daljinu, podatak o organizaciji rada koja omogu?ava dostupnost radnika i njegov neometani pristup poslovnom prostoru te informacijama i profesionalnoj komunikaciji s ostalim radnicima i poslodavcem (?lanak 17. stavak 1.),
+- Na?in evidentiranja radnog vremena (?lanak 17. stavak 1.),
+- Sredstva rada za obavljanje poslova koje je poslodavac dužan nabaviti, instalirati i održavati odnosno uporabi vlastitih sredstava rada radnika, ako ih koristi, te naknadi troškova u vezi s tim (?lanak 17. stavak 1.),
+- Naknadi troškova nastalih zbog obavljanja posla, koje je poslodavac dužan naknaditi radniku ako je rad ugovoren kao stalan ili kada razdoblje rada tijekom jednog kalendarskog mjeseca traje duže od sedam radnih dana, osim ako kolektivnim ugovorom ili ugovorom o radu nije ugovoreno povoljnije (?lanak 17. stavak 1.),
+- Na?inu ostvarivanja prava na sudjelovanje radnika u odlu?ivanju, jednako kao i za ostale zaposlene kod toga poslodavca (?lanak 17. stavak 1.),
+- Trajanju rada odnosno o na?inu utvr?ivanja trajanja takvog rada (?lanak 17. stavak 1.),
+- Podatku o pravu radnika da slobodno odre?uje gdje ?e obavljati rad (?lanak 17. stavak 2.),
+- Podacima iz ?lanka 15. stavka 1. ovoga Zakona (?lanak 17. stavak 2.),
+- Podacima iz stavka 1. ovoga ?lanka, osim to?aka 3. i 4. ?iju primjenu radnik i poslodavac mogu ugovoriti (?lanak 17. stavak 2.)."	0.0619584	30.1748768
+T14	izravni	Koji je otkazni rok pri redovitom otkazu?	Zakon_o_radu_clanak_122	Zakon_o_radu_clanak_121	Zakon_o_radu_clanak_128	Zakon_o_radu_clanak_104	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_47	Zakon_o_radu_clanak_125	Zakon_o_radu_clanak_116	Zakon_o_radu_clanak_213	"Prema ?lanku 122. Zakona, otkazni rok pri redovitom otkazu ovisi o trajanju radnog odnosa. Prema toj odredbi, otkazni rok je najmanje:
+
+- dva tjedna, ako je radnik u radnom odnosu kod istog poslodavca proveo neprekidno manje od jedne godine
+- mjesec dana, ako je radnik u radnom odnosu kod istog poslodavca proveo neprekidno jednu godinu
+- mjesec dana i dva tjedna, ako je radnik u radnom odnosu kod istog poslodavca proveo neprekidno dvije godine
+- dva mjeseca, ako je radnik u radnom odnosu kod istog poslodavca proveo neprekidno pet godina
+- dva mjeseca i dva tjedna, ako je radnik u radnom odnosu kod istog poslodavca proveo neprekidno deset godina
+- tri mjeseca, ako je radnik u radnom odnosu kod istog poslodavca proveo neprekidno dvadeset godina.
+
+Osim toga, ako radnik u trenutku otkazivanja ugovora o radu ima navršenih 65 godina života i 15 godina mirovinskog staža, ne ostvaruje pravo na otkazni rok."	0.0481051	31.1012194
+T15	izravni	Kada radnik ima pravo na otpremninu?	Zakon_o_radu_clanak_138	Zakon_o_radu_clanak_221_dio_10	Zakon_o_radu_clanak_86	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_37	Zakon_o_radu_clanak_133	Zakon_o_radu_clanak_27	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_7	"Na temelju prona?enih ?lanaka zakona, radnik ima pravo na otpremninu (pla?eni dopust) u slu?ajevima koji su navedeni u ?lanku 86. Zakona o radu. Prema ?lanku 86. stavak 1., radnik ima pravo na oslobo?enje od obveze rada uz naknadu pla?e (pla?eni dopust) za važne osobne potrebe, kao što su:
+
+- sklapanje braka
+- ro?enje djeteta
+- teža bolest ili smrt ?lana uže obitelji
+
+Prema ?lanku 86. stavak 2., radnik ima pravo na dopust iz stavka 1. ovoga ?lanka u ukupnom trajanju od sedam radnih dana godišnje, ako to nije druk?ije ure?eno kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+
+Prema ?lanku 86. stavak 5., radnik po osnovi svakog darivanja krvi ostvaruje pravo na jedan pla?eni slobodan dan koji koristi na dan darivanja krvi ili prvi idu?i radni dan, osim ako se s poslodavcem ne dogovori druk?ije ili je kolektivnim ugovorom, sporazumom sklopljenim izme?u radni?kog vije?a i poslodavca, pravilnikom o radu ili ugovorom o radu druk?ije ure?eno.
+
+Prema ?lanku 86. stavak 10., pla?eni dopust iz stavka 1. ovoga ?lanka radnik koristi u vrijeme ili neposredno nakon nastanka doga?aja zbog kojeg ostvaruje pravo na njegovo korištenje.
+
+Prema ?lanku 87. stavak 3., radnik ima pravo na nepla?eni dopust u ukupnom trajanju od pet radnih dana godišnje za pružanje osobne skrbi.
+
+Prema ?lanku 87. stavak 4., pod pružanjem osobne skrbi, u smislu ovoga Zakona, smatra se skrb koju radnik pruža ?lanu uže obitelji ili osobi koja živi u istom ku?anstvu i koja joj je potrebna zbog ozbiljnog zdravstvenog razloga.
+
+Prema ?lanku 87. stavak 6., poslodavac može, u svrhu odobravanja prava na dopust za pružanje osobne skrbi, zatražiti od radnika dokaz o postojanju ozbiljnog zdravstvenog razloga osobe iz stavka 4. ovoga ?lanka.
+
+Prema ?lanku 87. stavak 7., tijekom razdoblja korištenja prava na pružanje osobne skrbi poslodavac ne smije radnika koji se koristi tim pravom odjaviti iz obveznih osiguranja prema propisima o obveznim osiguranjima.
+
+Prema ?lanku 133. stavak 1., radnik koji smatra da mu je poslodavac povrijedio neko pravo iz radnog odnosa može u roku od petnaest dana od dostave odluke kojom je povrije?eno njegovo pravo, odnosno od saznanja za povredu prava, zahtijevati od poslodavca ostvarenje toga prava.
+
+Prema ?lanku 133. stavak 2., ako poslodavac u roku od petnaest dana od dostave zahtjeva radnika iz stavka 1. ovoga ?lanka ne udovolji tom zahtjevu, radnik može u daljnjem roku od petnaest dana zahtijevati zaštitu povrije?enog prava pred nadležni sud.
+
+Prema ?lanku 221. stavak 1., radnik koji smatra da mu je odlukom donesenom u automatiziranom sustavu upravljanja, a osobito odlukom vezanom za pristup radnim zadacima, o radnom vremenu, o mogu?nosti napredovanja i osposobljavanja te odlukom vezanom za obra?un i isplatu pla?e te naknada povrije?eno pravo iz radnog odnosa ima pravo u rokovima propisanima ?lankom 133. ovoga Zakona zatražiti od poslodavca zaštitu svojih prava te zatražiti pisano obrazloženje, kao i preispitivanje pojedine odluke.
+
+Prema ?lanku 221. stavak 2., ovlaštenje za stru?no obrazloženje odluke te odlu?ivanje nakon preispitivanja odluke ima osoba iz ?lanka 221.g stavka 1. to?ke 4. ovoga Zakona.
+
+Prema ?lanku 221. stavak 1., radnik koji smatra da mu je odlukom donesenom u automatiziranom sustavu upravljanja, a osobito odlukom vezanom za pristup radnim zadacima, o radnom vremenu, o mogu?nosti napredovanja i osposobljavanja te odlukom vezanom za obra?un i isplatu pla?e te naknada povrije?eno pravo iz radnog odnosa ima pravo u rokovima propisanima ?lankom 133. ovoga Zakona zatražiti od poslodavca zaštitu svojih prava te zatražiti pisano obrazloženje, kao i preispitivanje pojedine odluke.
+
+Prema ?lanku 221. stavak 2., ovlaštenje za stru?no obrazloženje odluke te odlu?ivanje nakon preispitivanja odluke ima osoba iz ?lanka 221.g stavka 1. to?ke 4. ovoga Zakona.
+
+Prema ?lanku 221. stavak 1., radnik koji smatra da mu je odlukom donesenom u automatiziranom sustavu upravljanja, a osobito odlukom vezanom za pristup radnim zadacima, o radnom vremenu, o mogu?nosti napredovanja i osposobljavanja te odlukom vezanom za obra?un i isplatu pla?e te naknada povrije?eno pravo iz radnog odnosa ima pravo u rokovima propisanima ?lankom 133. ovoga Zakona zatražiti od poslodavca zaštitu svojih prava te zatražiti pisano obrazloženje, kao i preispitivanje pojedine odluke.
+
+Prema ?lanku 221. stavak 2., ovlaštenje za stru?no obrazloženje odluke te odlu?ivanje nakon preispitivanja odluke ima osoba iz ?lanka 221.g stavka 1. to?ke 4. ovoga Zakona.
+
+Prema ?lanku 221. stavak 1., radnik koji smatra da mu je odlukom donesenom u automatiziranom sustavu upravljanja, a osobito odlukom vezanom za pristup radnim zadacima, o radnom vremenu, o mogu?nosti napredovanja i osposobljavanja te odlukom vezanom za obra?un i isplatu pla?e te naknada povrije?eno pravo iz radnog odnosa ima pravo u rokovima propisanima ?lankom 133. ovoga Zakona zatražiti od poslodavca zaštitu svojih prava te zatražiti pisano obrazloženje, kao i preispitivanje pojedine odluke.
+
+Prema ?lanku 221. stavak 2., ovlaštenje za stru?no obrazloženje odluke te odlu?ivanje nakon preispitivanja odluke ima osoba iz ?lanka 221.g stavka 1. to?ke 4. ovoga Zakona.
+
+Pre"	0.084232	37.2111697
+T16	izravni	Što je izvanredni otkaz ugovora o radu?	Zakon_o_radu_clanak_114	Zakon_o_radu_clanak_47	Zakon_o_radu_clanak_104	Zakon_o_radu_clanak_126	Zakon_o_radu_clanak_116	Zakon_o_radu_clanak_123	Zakon_o_radu_clanak_115	Zakon_o_radu_clanak_117	Zakon_o_radu_clanak_188	"Izvanredni otkaz ugovora o radu je pravo poslodavca ili radnika da otkaze ugovor o radu bez obveze poštivanja propisanog ili ugovorenog otkaznog roka, ukoliko postoje osobito teške razlozi koji ?ine nastavak radnog odnosa nemogu?im. Izvanredni otkaz se može temeljiti na osobito teškoj povredi obveze iz radnog odnosa ili nekoj drugoj osobito važnoj ?injenici.
+
+Prema ?lanku 116. Zakona, izvanredni otkaz se može temeljiti na sljede?im razlozima:
+
+- osobito teška povreda obveze iz radnog odnosa
+- neka druga osobito važna ?injenica
+
+Izvanredni otkaz mora biti izražen u roku od petnaest dana od dana saznanja za ?injenicu na kojoj se izvanredni otkaz temelji. Stranka ugovora o radu koja izvanredno otkaže ugovor o radu ima pravo od stranke koja je kriva za otkaz tražiti naknadu štete zbog neizvršenja ugovorom o radu preuzetih obveza."	0.0572186	31.9172678
+T17	izravni	Do kada poslodavac mora isplatiti pla?u?	Zakon_o_radu_clanak_90	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_103	Zakon_o_radu_clanak_97	Zakon_o_radu_clanak_126	Zakon_o_radu_clanak_228	Zakon_o_radu_clanak_102	Zakon_o_radu_clanak_95	Zakon_o_radu_clanak_92	Na temelju prona?enih ?lanaka zakona, pla?a mora biti ispla?ena radniku u roku od 15 dana od kraja mjeseca u kojem je radnik radio. Ovo je propisano u ?lanku 90. stavku 2. Zakona o radu, koji kaže da poslodavac mora obra?unati i isplatiti pla?u radniku u roku od 15 dana od kraja mjeseca u kojem je radnik radio.	0.0547471	34.8844738
+T18	izravni	Postoje li posebna pravila za no?ni rad?	Zakon_o_radu_clanak_70	Zakon_o_radu_clanak_72	Zakon_o_radu_clanak_69	Zakon_o_radu_clanak_89	Zakon_o_radu_clanak_94	Zakon_o_radu_clanak_19_dio_3	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_28	Zakon_o_radu_clanak_86	"Da, postoje posebna pravila za no?ni rad. Prema ?lanku 70. Zakona o radu, zabranjen je no?ni rad maloljetnika, osim ako je takav rad privremeno prijeko potreban u djelatnostima koje su ure?ene posebnim propisima, a ne mogu ga obaviti punoljetni radnici.
+
+U slu?aju no?nog rada, poslodavac je dužan osigurati da se takav rad obavlja pod nadzorom punoljetne osobe (?lanak 70. stavak 2.).
+
+Prema ?lanku 72. Zakona o radu, poslodavac je pri organizaciji no?nog rada ili rada u smjeni dužan voditi osobitu brigu o organizaciji rada prilago?enoj radniku te o sigurnosnim i zdravstvenim uvjetima u skladu s naravi posla koji se obavlja no?u ili u smjeni.
+
+Tako?er, ?lanak 72. Zakona o radu propisuje da poslodavac mora osigurati sigurnost i zdravstvenu zaštitu no?nim i smjenskim radnicima u skladu s naravi posla koji se obavlja, kao i sredstva zaštite i prevencije koja odgovaraju i primjenjuju se na sve ostale radnike i dostupna su u svako doba.
+
+Kao i to da poslodavac mora omogu?iti zdravstvene preglede no?nim radnicima prije po?etka toga rada, kao i redovito tijekom trajanja rada no?nog radnika, u skladu s propisom iz stavka 8. ovoga ?lanka.
+
+U slu?aju da se zdravstvenim pregledom utvrdi da no?ni radnik zbog no?nog rada ima zdravstvenih problema, poslodavac mu je dužan rasporedom radnog vremena osigurati obavljanje istih poslova izvan no?nog rada (?lanak 72. stavak 6.).
+
+Zakon tako?er propisuje da no?ni radnik ne smije tijekom razdoblja od ?etiri mjeseca u no?nom radu raditi duže od prosje?nih osam sati tijekom svakih dvadeset ?etiri sata (?lanak 69. stavak 6.).
+
+Kona?no, ?lanak 89. Zakona o radu propisuje da poslodavac može za punoljetne radnike urediti iznimke od primjene odredbi o trajanju rada no?nog radnika, dnevnom i tjednom odmoru, pod uvjetom da je radniku osiguran zamjenski odmor u skladu sa stavcima 2. i 3. ovoga ?lanka."	0.0501884	23.9354199
+T19	izravni	U kojem roku potroša? može jednostrano raskinuti ugovor sklopljen na daljinu?	Zakon_o_zastiti_potrosaca_clanak_81	Zakon_o_zastiti_potrosaca_clanak_85	Zakon_o_zastiti_potrosaca_clanak_73	Zakon_o_zastiti_potrosaca_clanak_112	Zakon_o_zastiti_potrosaca_clanak_86	Zakon_o_zastiti_potrosaca_clanak_98	Zakon_o_zastiti_potrosaca_clanak_79	Zakon_o_zastiti_potrosaca_clanak_69	Zakon_o_zastiti_potrosaca_clanak_60	Na temelju prona?enih ?lanaka zakona, potroša? može jednostrano raskinuti ugovor sklopljen na daljinu u roku od 14 dana od dana kada je primio ponudu trgovca, a potom potvrdio svoju suglasnost o sklapanju ugovora. To je propisano u ?lanku 73. Zakona, koji govori da ugovor iz stavka 1. ovoga ?lanka smatra se sklopljenim kad potroša?, nakon primitka ponude, dostavi trgovcu potvrdu svoje suglasnosti o sklapanju ugovora.	0.0957038	34.8478119
+T20	izravni	Tko snosi troškove povrata robe pri jednostranom raskidu?	Zakon_o_radu_clanak_93	Zakon_o_zastiti_potrosaca_clanak_16	Zakon_o_radu_clanak_81	Zakon_o_zastiti_potrosaca_clanak_69	Zakon_o_radu_clanak_108	Zakon_o_radu_clanak_92	Zakon_o_zastiti_potrosaca_clanak_98	Zakon_o_radu_clanak_126	Zakon_o_zastiti_potrosaca_clanak_15	Na temelju ?lanka 98. Zakona, u slu?aju jednostranog raskida ugovora iz ?lanka 95. Zakona, potroša? ne odgovara za štetu koju je trgovac zbog toga pretrpio te nije dužan platiti nikakvu kaznu ili naknadu za raskid ugovora. Zbog toga, troškove povrata robe pri jednostranom raskidu snosi trgovac.	0.0678958	41.8343711
+T21	izravni	Mora li trgovac istaknuti cijenu proizvoda?	Zakon_o_zastiti_potrosaca_clanak_46	Zakon_o_zastiti_potrosaca_clanak_7	Zakon_o_zastiti_potrosaca_clanak_51	Zakon_o_zastiti_potrosaca_clanak_13	Zakon_o_zastiti_potrosaca_clanak_21	Zakon_o_zastiti_potrosaca_clanak_8	Zakon_o_zastiti_potrosaca_clanak_29	Zakon_o_zastiti_potrosaca_clanak_69	Zakon_o_zastiti_potrosaca_clanak_9	"Da, trgovac mora istaknuti cijenu proizvoda. Prema ?lanku 7. Zakona o zaštiti potroša?a, trgovac mora jasno, vidljivo i ?itljivo istaknuti iznos maloprodajne cijene i cijene za jedinicu mjere proizvoda koju pruža. Ovo se odnosi na sve proizvode koji se prodaju u trgovini, osim u slu?ajevima iz ?lanka 8. stavka 4. i glave II. ovoga dijela Zakona.
+
+Prema ?lanku 7. stavku 1., trgovac mora istaknuti cijenu proizvoda na proizvodu ili na prodajnom mjestu. Cijena za jedinicu mjere nije potrebno istaknuti ako je istovjetna s maloprodajnom cijenom proizvoda. Kod proizvoda u rasutom stanju isti?e se samo cijena za jedinicu mjere na prodajnome mjestu proizvoda.
+
+Trgovac mora cijenu istaknuti tako da ne ošte?uje proizvod. Odredbe ovoga ?lanka ne primjenjuju se na javnu dražbu i prodaju umjetni?kih djela i antikviteta te na cijene usluga ure?ene posebnim propisima.
+
+U slu?aju da trgovac ne ispuni ovu odredbu, on ?e biti odgovoran za nepravilan rad."	0.054734	28.2302659
+T22	izravni	Ima li potroša? pravo na pisani prigovor?	Zakon_o_zastiti_potrosaca_clanak_51	Zakon_o_zastiti_potrosaca_clanak_9	Zakon_o_zastiti_potrosaca_clanak_101	Zakon_o_zastiti_potrosaca_clanak_10	Zakon_o_zastiti_potrosaca_clanak_27	Zakon_o_zastiti_potrosaca_clanak_86	Zakon_o_zastiti_potrosaca_clanak_142	Zakon_o_zastiti_potrosaca_clanak_113	Zakon_o_zastiti_potrosaca_clanak_29	"Da, potroša? ima pravo na pisani prigovor. Prema ?lanku 10. Zakona, trgovac je dužan omogu?iti potroša?u podnošenje pisanog prigovora u svojim poslovnim prostorijama, putem pošte i elektroni?ke pošte. Trgovac mora jasno, vidljivo i ?itljivo istaknuti obavijest o na?inu podnošenja pisanog prigovora u svojim poslovnim prostorijama i na mrežnoj stranici ako je uspostavljena.
+
+Potroša? može podnijeti pisani prigovor osobno u poslovnim prostorijama, putem pošte ili elektroni?ke pošte. Trgovac je dužan bez odga?anja u pisanom obliku putem pošte, elektroni?ke pošte ili na na?in odre?en stavkom 2. ovoga ?lanka ako je trgovac iskoristio mogu?nost podnošenja pisanog prigovora i putem drugih sredstava mrežne komunikacije, potvrditi primitak prigovora.
+
+Trgovac je dužan odgovoriti na prigovore u roku od 15 dana od dana zaprimanja prigovora sukladno obavijesti trgovca o na?inu podnošenja pisanog prigovora."	0.0672846	20.0380996
+T23	izravni	Koji su državni blagdani u Republici Hrvatskoj?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_7	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_4	Zakon_o_radu_clanak_174	Zakon_o_zastiti_potrosaca_clanak_156	Zakon_o_radu_clanak_221	Zakon_o_zastiti_potrosaca_clanak_137	Zakon_o_radu_clanak_225	"Državni blagdani u Republici Hrvatskoj su:
+
+- Nova godina (1. sije?nja)
+- Bogojavljenje ili Sveta tri kralja (6. sije?nja)
+- Uskrs i Uskrsni ponedjeljak
+- Praznik rada (1. svibnja)
+- Dan državnosti (30. svibnja)
+- Tijelovo (promjenjiv datum)
+- Dan antifašisti?ke borbe (22. lipnja)
+- Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja (5. kolovoza)
+- Velika Gospa (15. kolovoza)
+- Svi sveti (1. studenoga)
+- Dan sje?anja na žrtve Domovinskog rata i Dan sje?anja na žrtvu Vukovara i Škabrnje (18. studenoga)
+- Boži? (25. prosinca)
+- Sveti Stjepan (26. prosinca)"	0.107729	30.1638743
+T24	izravni	Je li 1. svibnja neradni dan?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	Zakon_o_radu_clanak_84	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_6	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_3	Zakon_o_radu_clanak_121	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_4	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_87_dio_2	"Prema ?lanku 2. Zakona, blagdani u Republici Hrvatskoj su:
+1. sije?nja – Nova godina
+6. sije?nja – Bogojavljenje ili Sveta tri kralja
+Uskrs i Uskrsni ponedjeljak
+1. svibnja – Praznik rada
+30. svibnja – Dan državnosti
+Tijelovo (promjenjiv datum)
+22. lipnja – Dan antifašisti?ke borbe  
+5. kolovoza – Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja  
+15. kolovoza – Velika Gospa  
+1. studenoga – Svi sveti  
+18. studenoga – Dan sje?anja na žrtve Domovinskog rata i Dan sje?anja na žrtvu Vukovara i Škabrnje  
+25. prosinca – Boži?  
+26. prosinca – Sveti Stjepan.
+
+Prema ?lanku 3. Zakona, blagdani iz ?lanka 2. Zakona su neradni dani.
+
+Zbog toga, 1. svibnja, koji je blagdan, nije samo neradni dan, ve? i neradni dan pošto je uvršten u popis blagdana iz ?lanka 2. Zakona."	0.0433941	30.3183034
+T25	izravni	Je li Uskrs državni blagdan?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_7	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_6	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_80	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	Zakon_o_radu_clanak_76	Zakon_o_radu_clanak_84	Zakon_o_radu_clanak_86	Zakon_o_radu_clanak_79	Na temelju ?lanka 2. Zakona, Uskrs je spomenut kao blagdan u Republici Hrvatskoj, ali nije naveden kao državni blagdan. Me?utim, u ?lanku 7. Zakona, Uskrs je naveden kao neradni dan koji se odnosi na krš?ane koji slave Uskrs prema julijanskom kalendaru. Zbog toga, Uskrs nije samo spomenut kao blagdan, ve? i kao neradni dan koji se odnosi na odre?enu skupinu gra?ana.	0.0568409	40.6677757
+T26	sinteza	Može li poslodavac dati otkaz trudnici?	Zakon_o_radu_clanak_30	Zakon_o_radu_clanak_114	Zakon_o_radu_clanak_38	Zakon_o_radu_clanak_121	Zakon_o_radu_clanak_115	Zakon_o_radu_clanak_124	Zakon_o_radu_clanak_125	Zakon_o_radu_clanak_104	Zakon_o_radu_clanak_116	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje.	0.1243339	27.4378469
+T27	sinteza	Koja su moja prava vezana uz godišnji odmor?	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_76	Zakon_o_radu_clanak_82	Zakon_o_radu_clanak_80	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_84	"Na temelju prona?enih ?lanaka zakona, radnik ima sljede?a prava vezana uz godišnji odmor:
+
+- Pravo na pla?eni godišnji odmor za svaku kalendarsku godinu (?lanak 76).
+- Pravo na korištenje godišnjeg odmora u dijelovima, uz uvjet da se tijekom kalendarske godine iskoristi najmanje dva tjedna u neprekidnom trajanju (?lanak 83).
+- Pravo na naknadu pla?e u visini odre?enoj kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu, a najmanje u visini njegove prosje?ne mjese?ne pla?e u prethodna tri mjeseca (?lanak 81).
+- Pravo na naknadu za neiskorišteni godišnji odmor, koja se odre?uje razmjerno broju dana neiskorištenoga godišnjeg odmora (?lanak 82).
+- Pravo na korištenje godišnjeg odmora u cijelosti ili dijelovima u sljede?oj kalendarskoj godini, uz odre?ene uvjete (?lanak 84).
+- Pravo na dnevni odmor od najmanje dvanaest sati neprekidno tijekom svakog vremenskog razdoblja od dvadeset ?etiri sata (?lanak 74).
+- Pravo na zamjenski dnevni odmor odmah po okon?anju razdoblja koje je proveo na radu zbog kojeg dnevni odmor nije koristio (?lanak 74).
+- Pravo na pove?anu pla?u za vrijeme godišnjeg odmora, koja se odre?uje kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu (?lanak 93)."	0.1295532	28.3933757
+T28	sinteza	Koliko smijem raditi tjedno uklju?uju?i prekovremeni rad?	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_62	Zakon_o_radu_clanak_18_dio_2	Zakon_o_radu_clanak_67	Zakon_o_radu_clanak_122	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_83	Na temelju prona?enih ?lanaka zakona, radnik koji radi nejednako raspore?eno radno vrijeme može raditi najviše do 60 sati tjedno, uklju?uju?i prekovremeni rad, ako je tako ugovoreno kolektivnim ugovorom. Ako nije ugovoreno kolektivnim ugovorom, radnik može raditi najviše do 50 sati tjedno, uklju?uju?i prekovremeni rad. Tako?er, ukupan fond radnih sati u razdoblju trajanja nejednakog rasporeda radnog vremena ne može biti ve?i od prosje?nih 45 sati tjedno u razdoblju od ?etiri mjeseca.	0.0567556	47.9391076
+T29	sinteza	Koja prava imam pri redovitom otkazu ugovora o radu?	Zakon_o_radu_clanak_114	Zakon_o_radu_clanak_123	Zakon_o_radu_clanak_126	Zakon_o_radu_clanak_116	Zakon_o_radu_clanak_115	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_38	Zakon_o_radu_clanak_47	Zakon_o_radu_clanak_104	"Na temelju prona?enih ?lanaka zakona, radnik ima sljede?a prava pri redovitom otkazu ugovora o radu:
+
+- Pravo na otpremninu, koja se pla?a kao sredstvo osiguravanja prihoda i ublažavanja štetnih posljedica otkaza ugovora o radu. Otpremnina se pla?a radniku koji je ugovor o radu otkazao nakon dvije godine neprekidnoga rada.
+- Pravo na otpremninu nije odre?eno ako radnik krši obveze iz radnog odnosa ili ako radnik nije zadovoljio na probnom radu.
+- Pravo na otpremninu nije odre?eno ako radniku se ugovor o radu otkazuje zbog razloga uvjetovanih ponašanjem ili ako radnik ima najmanje navršenih 65 godina života i 15 godina mirovinskog staža.
+- Pravo na otpremninu se odre?uje s obzirom na dužinu prethodnog neprekidnog trajanja radnog odnosa s tim poslodavcem, a ne smije se ugovoriti, odnosno odrediti u iznosu manjem od jedne tre?ine prosje?ne mjese?ne pla?e koju je radnik ostvario u tri mjeseca prije prestanka ugovora o radu, za svaku navršenu godinu rada kod toga poslodavca.
+- Pravo na otpremninu ne može biti ve?i od šest prosje?nih mjese?nih pla?a koje je radnik ostvario u tri mjeseca prije prestanka ugovora o radu.
+- Pravo na otpremninu se pla?a u iznosu koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a u roku koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a radniku koji je ugovor o radu otkazao nakon dvije godine neprekidnoga rada.
+- Pravo na otpremninu nije odre?eno ako radnik krši obveze iz radnog odnosa ili ako radnik nije zadovoljio na probnom radu.
+- Pravo na otpremninu nije odre?eno ako radniku se ugovor o radu otkazuje zbog razloga uvjetovanih ponašanjem ili ako radnik ima najmanje navršenih 65 godina života i 15 godina mirovinskog staža.
+- Pravo na otpremninu se odre?uje s obzirom na dužinu prethodnog neprekidnog trajanja radnog odnosa s tim poslodavcem, a ne smije se ugovoriti, odnosno odrediti u iznosu manjem od jedne tre?ine prosje?ne mjese?ne pla?e koju je radnik ostvario u tri mjeseca prije prestanka ugovora o radu, za svaku navršenu godinu rada kod toga poslodavca.
+- Pravo na otpremninu ne može biti ve?i od šest prosje?nih mjese?nih pla?a koje je radnik ostvario u tri mjeseca prije prestanka ugovora o radu.
+- Pravo na otpremninu se pla?a u iznosu koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a u roku koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a radniku koji je ugovor o radu otkazao nakon dvije godine neprekidnoga rada.
+- Pravo na otpremninu nije odre?eno ako radnik krši obveze iz radnog odnosa ili ako radnik nije zadovoljio na probnom radu.
+- Pravo na otpremninu nije odre?eno ako radniku se ugovor o radu otkazuje zbog razloga uvjetovanih ponašanjem ili ako radnik ima najmanje navršenih 65 godina života i 15 godina mirovinskog staža.
+- Pravo na otpremninu se odre?uje s obzirom na dužinu prethodnog neprekidnog trajanja radnog odnosa s tim poslodavcem, a ne smije se ugovoriti, odnosno odrediti u iznosu manjem od jedne tre?ine prosje?ne mjese?ne pla?e koju je radnik ostvario u tri mjeseca prije prestanka ugovora o radu, za svaku navršenu godinu rada kod toga poslodavca.
+- Pravo na otpremninu ne može biti ve?i od šest prosje?nih mjese?nih pla?a koje je radnik ostvario u tri mjeseca prije prestanka ugovora o radu.
+- Pravo na otpremninu se pla?a u iznosu koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a u roku koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a radniku koji je ugovor o radu otkazao nakon dvije godine neprekidnoga rada.
+- Pravo na otpremninu nije odre?eno ako radnik krši obveze iz radnog odnosa ili ako radnik nije zadovoljio na probnom radu.
+- Pravo na otpremninu nije odre?eno ako radniku se ugovor o radu otkazuje zbog razloga uvjetovanih ponašanjem ili ako radnik ima najmanje navršenih 65 godina života i 15 godina mirovinskog staža.
+- Pravo na otpremninu se odre?uje s obzirom na dužinu prethodnog neprekidnog trajanja radnog odnosa s tim poslodavcem, a ne smije se ugovoriti, odnosno odrediti u iznosu manjem od jedne tre?ine prosje?ne mjese?ne pla?e koju je radnik ostvario u tri mjeseca prije prestanka ugovora o radu, za svaku navršenu godinu rada kod toga poslodavca.
+- Pravo na otpremninu ne može biti ve?i od šest prosje?nih mjese?nih pla?a koje je radnik ostvario u tri mjeseca prije prestanka ugovora o radu.
+- Pravo na otpremninu se pla?a u iznosu koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a u roku koji odre?uje zakonom, kolektivnim ugovorom, pravilnikom o radu ili ugovorom o radu.
+- Pravo na otpremninu se pla?a radniku koji je ugovor o radu otkazao nakon dvije godine neprekidnoga rada.
+- Pravo na otpremninu nije odre?eno ako radnik krši obveze iz radnog odnosa ili ako radnik nije zadovoljio na probnom radu.
+- Pravo na otpremninu nije odre?eno ako radniku se ugovor o radu otkazuje zbog razloga uvjetovanih ponašanjem ili ako radnik ima najmanje navršenih 65 godina života i 15 godina mirovinskog staža.
+- Pravo na otpremninu se odre?uje s obzirom na dužinu prethodnog neprekidnog trajanja radnog odn"	0.0864985	18.2640956
+T30	sinteza	Koje su razlike izme?u dnevnog i tjednog odmora?	Zakon_o_radu_clanak_83	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_74	Zakon_o_radu_clanak_75	Zakon_o_radu_clanak_79	Zakon_o_radu_clanak_82	Zakon_o_radu_clanak_77	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_93	"Prema prona?enim ?lanovima zakona, razlike izme?u dnevnog i tjednog odmora su sljede?e:
+
+- Dnevni odmor (?lanak 74.) je odmor koji radnik ima pravo koristiti tijekom svakog vremenskog razdoblja od 24 sata, a trajanje odmora je najmanje 12 sati neprekidno. Iznimno, za radnike koji rade na sezonskim poslovima, dnevni odmor može biti od najmanje 8 sati neprekidno.
+
+- Tjedni odmor (?lanak 75.) je odmor koji radnik ima pravo koristiti u neprekidnom trajanju od najmanje 24 sata, a taj odmor se pribraja dnevnom odmoru iz ?lanka 74. Maloljetnici imaju pravo na tjedni odmor u trajanju od najmanje 48 sati. Ako radnik ne može koristiti odmor u trajanju iz ?lanka 75., mora mu se omogu?iti korištenje zamjenskog tjednog odmora odmah po okon?anju razdoblja koje je proveo na radu.
+
+U završnici, vrijedno je napomenuti da je dnevni odmor vezan uz pojedina?ni radni dan, dok je tjedni odmor vezan uz radni tjedan."	0.0716766	48.1823388
+T31	sinteza	Što vrijedi za probni rad i otkaz tijekom probnog rada?	Zakon_o_radu_clanak_124	Zakon_o_radu_clanak_117	Zakon_o_radu_clanak_116	Zakon_o_radu_clanak_125	Zakon_o_radu_clanak_126	Zakon_o_radu_clanak_104	Zakon_o_radu_clanak_58	Zakon_o_radu_clanak_115	Zakon_o_radu_clanak_41	"Prema ?lanku 115. Zakona o radu, poslodavac može otkazati ugovor o radu uz propisani ili ugovoreni otkazni rok (redoviti otkaz) ako radnik nije zadovoljio na probnom radu (otkaz zbog nezadovoljavanja na probnom radu). 
+
+U ovom slu?aju, otkaz je dopušten samo ako je radnik nije uspio ispuniti zahtjeve poslodavca tijekom probnog rada. Poslodavac mora voditi ra?una o tome da je radnik imao dovoljno vremena i priliku da ispunjava zahtjeve, te da nije bilo nikakvih okolnosti koje bi utjecale na njegovu sposobnost za rad.
+
+U slu?aju da poslodavac otkaze radnika zbog nezadovoljavanja na probnom radu, radnik ima pravo na odre?ene zaštite, kao što je pravo na naknadu štete ili na pomo? pri traganju za novim poslom."	0.074784	30.1038714
+T32	sinteza	Koliko dugo mogu raditi na odre?eno i koja prava pritom imam?	Zakon_o_radu_clanak_67	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_66	Zakon_o_radu_clanak_57	Zakon_o_radu_clanak_18_dio_2	Zakon_o_radu_clanak_73	Zakon_o_radu_clanak_65	Zakon_o_radu_clanak_62	Zakon_o_radu_clanak_139	"Na temelju prona?enih ?lanaka zakona, mogu?e je odgovoriti na vaša pitanja temeljem ?lanka 18.a.
+
+Prema ?lanku 18.a, radnik koji je zaposlen i radi u punom radnom vremenu kod jednog poslodavca (mati?ni poslodavac), odnosno radi u nepunom radnom vremenu kod više mati?nih poslodavaca, tako da je njegovo ukupno radno vrijeme 40 sati tjedno, može dodatno raditi na temelju ugovora o dodatnom radu za drugog poslodavca.
+
+Ugovor o dodatnom radu može se sklopiti za odre?eno vrijeme, koje nije ograni?eno zakonom. Me?utim, važno je napomenuti da radnik koji radi na poslovima s posebnim uvjetima rada u skladu s propisima o zaštiti na radu, radnik koji radi u skra?enom radnom vremenu iz ?lanka 64. ovoga Zakona te radnik kojem se prema propisu o mirovinskom osiguranju staž osiguranja ra?una s pove?anim trajanjem ne može se sklopiti ugovor o dodatnom radu za obavljanje takvih poslova.
+
+U slu?aju da ste zainteresirani za sklapanje ugovora o dodatnom radu, preporu?ujem da se obratite vašem poslodavcu ili radni?kom vije?u kako bi se dogovorili uvjeti i detalje ugovora."	0.0520045	29.0525033
+T33	sinteza	Koja su moja temeljna prava kao radnika?	Zakon_o_radu_clanak_140	Zakon_o_radu_clanak_141	Zakon_o_radu_clanak_224	Zakon_o_radu_clanak_7	Zakon_o_radu_clanak_90_dio_2	Zakon_o_radu_clanak_134	Zakon_o_radu_clanak_17_dio_3	Zakon_o_radu_clanak_86	Zakon_o_radu_clanak_165	"Kao radnik, temeljna prava koja ti pripadaju su:
+
+- Pravo na rad, tj. da se poslodavac obvezuje dati ti posao i pla?ati ti pla?u za obavljeni rad (?lanak 7. Zakona o radu).
+- Pravo na sigurne uvjete rada, tj. da se poslodavac obvezuje osigurati radniku uvjete za rad na siguran na?in i na na?in koji ne ugrožava zdravlje radnika (?lanak 7. Zakona o radu).
+- Pravo na zaštitu dostojanstva, tj. da se poslodavac obvezuje zaštititi dostojanstvo radnika za vrijeme obavljanja posla od postupanja nadre?enih, suradnika i osoba s kojima radnik redovito dolazi u doticaj u obavljanju svojih poslova (?lanak 7. Zakona o radu).
+- Pravo na zaštitu od uznemiravanja i spolnog uznemiravanja, tj. da se poslodavac obvezuje ure?ivati postupak i mjere zaštite dostojanstva radnika od uznemiravanja i spolnog uznemiravanja posebnim zakonom, kolektivnim ugovorom, sporazumom ili pravilnikom o radu (?lanak 134. Zakona o radu).
+- Pravo na izbor radni?kog vije?a, tj. da radnici imaju pravo na slobodnim i neposrednim izborima, tajnim glasovanjem, izabrati jednog ili više svojih predstavnika koji ?e ih zastupati kod poslodavca u zaštiti i promicanju njihovih prava i interesa (?lanak 141. Zakona o radu).
+- Pravo na zaštitu gospodarskih i socijalnih prava i interesa, tj. da radnici imaju pravo sudjelovati u odlu?ivanju o pitanjima u vezi s njihovim gospodarskim i socijalnim pravima i interesima na na?in i pod uvjetima propisanim Zakonom o radu (?lanak 140. Zakona o radu).
+
+Ovi su temeljna prava koja ti pripadaju kao radnik, ali treba imati u vidu da postoje i druga prava i obveze koje su propisane Zakonom o radu."	0.0839918	15.6008324
+T34	sinteza	Koja zaštita pripada radnici zbog trudno?e i roditeljstva?	Zakon_o_radu_clanak_33	Zakon_o_radu_clanak_30	Zakon_o_radu_clanak_34	Zakon_o_radu_clanak_31	Zakon_o_radu_clanak_17_dio_4	Zakon_o_radu_clanak_36	Zakon_o_radu_clanak_35	Zakon_o_radu_clanak_28	Zakon_o_radu_clanak_32	"Na temelju prona?enih ?lanaka zakona, radnici koji koriste rodiljna i roditeljska prava imaju zašti?ena prava tijekom radnog odnosa. 
+
+Prema ?lanku 30. zakona, poslodavac ne smije odbiti zaposliti ženu zbog njezine trudno?e, niti joj zbog trudno?e, ro?enja ili dojenja djeteta u smislu posebnog propisa smije ponuditi sklapanje izmijenjenog ugovora o radu pod nepovoljnijim uvjetima. 
+
+Prema ?lanku 34. zakona, za vrijeme trudno?e, korištenja rodiljnog, roditeljskog, posvojiteljskog, o?inskog dopusta ili dopusta koji je po sadržaju i na?inu korištenja istovjetan pravu na o?inski dopust, rada s polovicom punog radnog vremena, rada s polovicom punog radnog vremena radi poja?ane njege djeteta, dopusta trudne radnice, dopusta radnice koja je rodila ili radnice koja doji dijete te dopusta ili rada s polovicom punog radnog vremena radi skrbi i njege djeteta s težim smetnjama u razvoju, odnosno u roku od 15 dana od prestanka trudno?e ili prestanka korištenja tih prava u skladu s propisom o rodiljnim i roditeljskim potporama, poslodavac ne smije otkazati ugovor o radu trudnici i osobi koja se koristi nekim od tih prava.
+
+Prema ?lanku 31. zakona, trudnoj radnici, radnici koja je rodila ili radnici koja doji dijete u smislu posebnog propisa, a koja radi na poslovima koji ugrožavaju njezin život ili zdravlje, odnosno djetetov život ili zdravlje, poslodavac je dužan za vrijeme korištenja prava u skladu s posebnim propisom, ponuditi dodatak ugovora o radu kojim ?e se na odre?eno vrijeme ugovoriti obavljanje drugih odgovaraju?ih poslova.
+
+Prema ?lanku 36. zakona, nakon isteka rodiljnog, roditeljskog, posvojiteljskog i o?inskog dopusta ili dopusta koji je po sadržaju i na?inu korištenja istovjetan pravu na o?inski dopust, dopusta trudne radnice, dopusta radnice koja je rodila ili radnice koja doji dijete, dopusta radi skrbi i njege djeteta s težim smetnjama u razvoju te mirovanja radnog odnosa do tre?e godine života djeteta u skladu s propisom o rodiljnim i roditeljskim potporama, radnik koji je koristio neko od tih prava ima pravo povratka na poslove na kojima je radio prije korištenja toga prava.
+
+Zaklju?no, radnici koji koriste rodiljna i roditeljska prava imaju zašti?ena prava tijekom radnog odnosa, uklju?uju?i zaštitu od otkaza, pravo na dodatke ugovora o radu, pravo na povratak na poslove prije korištenja tih prava i pravo na ponudu sklapanja ugovora o radu za obavljanje drugih odgovaraju?ih poslova."	0.0707669	36.9602909
+T35	sinteza	Koja je razlika izme?u pla?enog i nepla?enog dopusta?	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_126	Zakon_o_radu_clanak_92	Zakon_o_radu_clanak_82	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_17_dio_3	Zakon_o_radu_clanak_90	"Prema ?lanku 87. Zakona o radu, pla?eni dopust i nepla?eni dopust su dva razli?ita koncepta.
+
+Pla?eni dopust je dopust koji se pla?a radniku za vrijeme njegove odsutnosti s posla, a koji se obi?no pla?a u obliku naknade pla?e ili otpremnine. Prema ?lanku 81. Zakona o radu, radnik ima pravo na naknadu pla?e za vrijeme korištenja godišnjeg odmora, a najmanje u visini njegove prosje?ne mjese?ne pla?e u prethodna tri mjeseca.
+
+Na drugoj strani, nepla?eni dopust je dopust koji se ne pla?a radniku za vrijeme njegove odsutnosti s posla. Prema ?lanku 87. Zakona o radu, radnik ima pravo na nepla?eni dopust u ukupnom trajanju od pet radnih dana godišnje za pružanje osobne skrbi. Za vrijeme nepla?enoga dopusta, prava i obveze iz radnog odnosa ili u vezi s radnim odnosom miruju, osim ako zakonom nije druk?ije odre?eno.
+
+U završnici, pla?eni dopust se pla?a radniku kao naknada za vrijeme njegove odsutnosti s posla, dok nepla?eni dopust nije pla?en, ali radniku se pruža za vrijeme njegove odsutnosti s posla zbog osobne skrbi."	0.116419	46.527793
+T36	sinteza	Koja je razlika izme?u redovitog i izvanrednog otkaza?	Zakon_o_radu_clanak_122	Zakon_o_radu_clanak_116	Zakon_o_radu_clanak_121	Zakon_o_radu_clanak_115	Zakon_o_radu_clanak_47	Zakon_o_radu_clanak_104	Zakon_o_radu_clanak_119	Zakon_o_radu_clanak_124	Zakon_o_radu_clanak_126	"Razlika izme?u redovitog i izvanrednog otkaza je u tome kako se otkaz izražava i koji su uvjeti za njegov izražavanje.
+
+Redoviti otkaz je onaj koji se izražava prema propisanom ili ugovorenom otkaznom roku, koji se nalazi u ?lanku 122. Zakona o radu. Redoviti otkaz se može izražavati u slu?ajevima kao što su prestanak potrebe za obavljanjem odre?enog posla, radnikova nesposobnost za uredno izvršavanje svojih obveza iz radnog odnosa, kršenje obveza iz radnog odnosa ili nezadovoljavanje na probnom radu.
+
+Izvanredni otkaz, pak, je onaj koji se izražava bez obveze poštivanja propisanog ili ugovorenog otkaznog roka, kao što je navedeno u ?lanku 116. Zakona o radu. Izvanredni otkaz se može izražavati u slu?ajevima kao što su osobito teška povreda obveze iz radnog odnosa ili neka druga osobito važna ?injenica koja uz uvažavanje svih okolnosti i interesa obiju ugovornih stranaka ?ini nastavak radnog odnosa nemogu?im.
+
+Uz to, izvanredni otkaz se mora izražavati u roku od petnaest dana od dana saznanja za ?injenicu na kojoj se izvanredni otkaz temelji, kao što je navedeno u ?lanku 116. Zakona o radu."	0.0341148	31.3083722
+T37	sinteza	Kako mogu raskinuti kupnju na internetu i tko pla?a povrat?	Zakon_o_zastiti_potrosaca_clanak_16	Zakon_o_zastiti_potrosaca_clanak_75	Zakon_o_zastiti_potrosaca_clanak_98	Zakon_o_zastiti_potrosaca_clanak_21	Zakon_o_zastiti_potrosaca_clanak_69	Zakon_o_zastiti_potrosaca_clanak_29	Zakon_o_zastiti_potrosaca_clanak_110	Zakon_o_zastiti_potrosaca_clanak_81	Zakon_o_zastiti_potrosaca_clanak_86	"Na temelju prona?enih ?lanaka zakona, mogu?e je raskinuti kupnju na internetu na temelju ?lanka 98. Zakona o zaštiti potroša?a. Prema ovom ?lanku, potroša? ima pravo raskinuti ugovor bez ikakvih posljedica ako se trgovac nije držao odredbi zakona ili ako je usluga pružena suprotno odredbi zakona.
+
+Ako potroša? raskine ugovor, trgovac je dužan vratiti potroša?u sve što je primio na temelju tog ugovora, umanjeno za iznos koji je trgovac ovlašten naplatiti od potroša?a. Iznos koji trgovac može naplatiti od potroša?a mora biti proporcionalan pruženoj usluzi i ne smije biti takav da ga se može ocijeniti kao kaznu ili naknadu za raskid ugovora.
+
+U slu?aju da je potroša? raskinuo ugovor, on je dužan vratiti trgovcu ono što je primio na temelju tog ugovora. Trgovac mora vratiti potroša?u sve što je primio, umanjeno za iznos koji je trgovac ovlašten naplatiti od potroša?a, bez odga?anja i najkasnije u roku od 30 dana od dana kad je trgovac ili od njega odre?ena osoba obaviještena o raskidu ugovora.
+
+Zakon ne navodi da bi potroša? morao platiti bilo kakav iznos trgovcu u slu?aju raskida ugovora, osim ako nije u stanju dokazati da je o mogu?nosti toga pla?anja potroša? bio obaviješten u prethodnoj obavijesti."	0.0614933	17.4184234
+T38	sinteza	Koja prava imam ako sam kupio neispravan proizvod?	Zakon_o_zastiti_potrosaca_clanak_23	Zakon_o_zastiti_potrosaca_clanak_46	Zakon_o_zastiti_potrosaca_clanak_9	Zakon_o_zastiti_potrosaca_clanak_49	Zakon_o_zastiti_potrosaca_clanak_51	Zakon_o_zastiti_potrosaca_clanak_17	Zakon_o_zastiti_potrosaca_clanak_13	Zakon_o_zastiti_potrosaca_clanak_8	Zakon_o_zastiti_potrosaca_clanak_21	Greška.	0.0580534	0
+T39	sinteza	Koji su blagdani i jesu li to neradni dani?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_7	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_79	Zakon_o_radu_clanak_16	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_6	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	Zakon_o_radu_clanak_60_dio_2	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_3	Zakon_o_radu_clanak_76	"Blagdani u Republici Hrvatskoj su:
+
+1. sije?nja – Nova godina
+2. 6. sije?nja – Bogojavljenje ili Sveta tri kralja
+3. Uskrs i Uskrsni ponedjeljak
+4. 1. svibnja – Praznik rada
+5. 30. svibnja – Dan državnosti
+6. Tijelovo (promjenjiv datum)
+7. 22. lipnja – Dan antifašisti?ke borbe
+8. 5. kolovoza – Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja
+9. 15. kolovoza – Velika Gospa
+10. 1. studenoga – Svi sveti
+11. 18. studenoga – Dan sje?anja na žrtve Domovinskog rata i Dan sje?anja na žrtvu Vukovara i Škabrnje
+12. 25. prosinca – Boži?
+13. 26. prosinca – Sveti Stjepan
+
+Prema ?lanku 7. Zakona, gra?ani Republike Hrvatske koji slave razli?ite vjerske blagdane imaju pravo na neradni dan. To zna?i da su svi blagdani iznad spomenutih ujedno i neradni dani."	0.0777021	10.9381946
+T40	sinteza	Koja je razlika izme?u državnog blagdana i spomendana?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_7	Zakon_o_radu_clanak_16	Zakon_o_zastiti_potrosaca_clanak_22	Zakon_o_radu_clanak_80	Zakon_o_radu_clanak_79	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_6	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_76	"Prema ?lanku 1. Zakona, blagdani su dani koji se odre?uju zakonom, dok su spomendani dani koji se odre?uju zakonom kao spomenici neke važne ili zna?ajne doga?aje ili osobe.
+
+U hrvatskom zakonskom sustavu, državni blagdani su dani koji se odre?uju zakonom kao važni nacionalni blagdani, kao što su Dan državnosti, Dan antifašisti?ke borbe za oslobo?enje i Dan neovisnosti. Ovi blagdani su obvezni za sve gra?ane Republike Hrvatske.
+
+Spomendani, s druge strane, su dani koji se odre?uju zakonom kao spomenici neke važne ili zna?ajne doga?aje ili osobe. Primjeri spomendanih dana u Hrvatskoj su Dan hrvatskih branitelja, Dan hrvatske vojske i Dan hrvatske policije.
+
+U završnici, razlika izme?u državnog blagdana i spomendana leži u tome što državni blagdani su obvezni za sve gra?ane, dok su spomendani dani više lokalnog ili regionalnog zna?aja."	0.0638506	20.2462385
+T41	prividno	Kolika je stopa PDV-a u Hrvatskoj?	Zakon_o_zastiti_potrosaca_clanak_4	Zakon_o_zastiti_potrosaca_clanak_156	Zakon_o_radu_clanak_231	Zakon_o_zastiti_potrosaca_clanak_137	Zakon_o_radu_clanak_230	Zakon_o_radu_clanak_225	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_zastiti_potrosaca_clanak_154	Zakon_o_zastiti_potrosaca_clanak_131	Na temelju ustupljenog teksta zakona, ne mogu odgovoriti na ovo pitanje. Stoga, moram pretpostaviti da tekst zakona nije uklju?ivao informaciju o stopi PDV-a u Hrvatskoj. Ako želite, mogu vam dati informaciju o stopi PDV-a u Hrvatskoj na temelju drugih izvora.	0.1072616	39.9823481
+T42	prividno	Koliko iznosi najniža mirovina?	Zakon_o_radu_clanak_93	Zakon_o_zastiti_potrosaca_clanak_95	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_221_dio_15	Zakon_o_radu_clanak_6	Zakon_o_radu_clanak_48	Zakon_o_radu_clanak_130	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_122	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje jer tekst zakona koji ste mi ustupili ne sadrži informaciju o najnižoj mirovini.	0.0533943	26.5979767
+T43	prividno	Kako se registrira obrt?	Zakon_o_radu_clanak_175	Zakon_o_radu_clanak_49	Zakon_o_zastiti_potrosaca_clanak_89	Zakon_o_radu_clanak_180	Zakon_o_radu_clanak_176	Zakon_o_radu_clanak_52	Zakon_o_radu_clanak_15	Zakon_o_zastiti_potrosaca_clanak_60	Zakon_o_radu_clanak_221_dio_12	"Na temelju prona?enih ?lanaka zakona, registracija obrta nije direktno spomenuta u datim tekstovima zakona. Me?utim, zakon o registraciji udruga sadrži odredbe o registraciji trgovaca, koji su vrsta obrta.
+
+Prema ?lanku 89. Zakona o registraciji udruga, obavijest o trgovcu mora sadržavati sljede?e podatke:
+
+* ime, naziv ili tvrtku
+* djelatnost
+* puna adresa prebivališta ili sjedište
+* bilo koja druga adresa koja utje?e na odnos s potroša?em
+* mati?ni broj i registar u kojem je upisan
+
+Ako je djelatnost trgovca podložna izdavanju odre?ene dozvole ili dopuštenja od strane javnopravnog tijela, obavijest o trgovcu mora sadržavati i navo?enje pojedinosti te dozvole ili dopuštenja.
+
+Prema ovim odredbama, registracija obrta se vjerojatno odnosi na registraciju trgovca, koji mora dostaviti obavijest o trgovcu u registar udruga. Me?utim, za to?nu informaciju potrebno bi bilo pogledati posebne propise o registraciji obrta."	0.0810004	17.1608284
+T44	prividno	Kolika je kazna za prebrzu vožnju?	Zakon_o_zastiti_potrosaca_clanak_152	Zakon_o_radu_clanak_229	Zakon_o_zastiti_potrosaca_clanak_151	Zakon_o_radu_clanak_227	Zakon_o_radu_clanak_228	Zakon_o_radu_clanak_231	Zakon_o_radu_clanak_221_dio_16	Zakon_o_radu_clanak_106	Zakon_o_zastiti_potrosaca_clanak_149	Na temelju prona?enog ?lanka zakona, ne mogu odgovoriti na ovo pitanje jer nema spomenute kazne za prebrzu vožnju u navedenom tekstu zakona.	0.113574	39.6311367
+T45	prividno	Koliki je porez na dohodak?	Zakon_o_radu_clanak_92	Zakon_o_radu_clanak_90	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_229	Zakon_o_zastiti_potrosaca_clanak_151	Zakon_o_radu_clanak_228	Zakon_o_radu_clanak_97	Zakon_o_radu_clanak_95	Zakon_o_radu_clanak_81	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na pitanje o porezu na dohodak, jer u datim ?lanovima zakona nema spomenute informacije o porezu na dohodak.	0.0688344	27.7203268
+T46	prividno	Koji su uvjeti za razvod braka?	Zakon_o_radu_clanak_36	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_34	Zakon_o_radu_clanak_139	Zakon_o_radu_clanak_125	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_124	Zakon_o_radu_clanak_35	Zakon_o_radu_clanak_135	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. Ustupljeni tekst zakona ne sadrži informacije o uvjetima za razvod braka.	0.0673099	27.5693609
+T47	prividno	Kako se naslje?uje imovina ako nema oporuke?	Zakon_o_zastiti_potrosaca_clanak_59	Zakon_o_zastiti_potrosaca_clanak_16	Zakon_o_zastiti_potrosaca_clanak_49	Zakon_o_radu_clanak_181	Zakon_o_radu_clanak_36	Zakon_o_radu_clanak_28	Zakon_o_zastiti_potrosaca_clanak_21	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_7	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. U ustupljenom tekstu nema informacija o naslje?ivanju imovine u slu?aju što nije navedeno u oporuci.	0.0190417	26.6564234
+T48	prividno	Koja prava ima najmoprimac stana?	Zakon_o_radu_clanak_28	Zakon_o_radu_clanak_35	Zakon_o_radu_clanak_87	Zakon_o_zastiti_potrosaca_clanak_133	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_7	Zakon_o_radu_clanak_72	Zakon_o_radu_clanak_36	Zakon_o_radu_clanak_168	"Na temelju prona?enih ?lanaka zakona, najmoprimac stana ima pravo na zaštitu privatnosti, kao i na zaštitu života, zdravlja i ?udore?a te vjeroispovijesti. Prema ?lanku 28. zakona, poslodavac koji je preuzeo obvezu smještaja i prehrane radnika je dužan voditi ra?una o zaštiti života, zdravlja i ?udore?a te vjeroispovijesti radnika.
+
+Osim toga, najmoprimac stana ima pravo na zaštitu od diskriminacije, kao što je navedeno u ?lanku 7. zakona, koji zabranjuje izravnu ili neizravnu diskriminaciju na podru?ju rada i uvjeta rada.
+
+Tako?er, najmoprimac stana ima pravo na zaštitu od odsutnosti s posla, kao što je navedeno u ?lanku 87. zakona, koji omogu?ava radniku da koristi nepla?eni dopust u slu?aju osobne skrbi.
+
+U slu?aju da najmoprimac stana nije zadovoljan svojim pravima ili uvjetima rada, on ima pravo na obranu i zaštitu od postupanja nadre?enih, suradnika i osoba s kojima dolazi u doticaj u obavljanju svojih poslova."	0.0557077	28.2299129
+T49	prividno	Koje dozvole su potrebne za gradnju ku?e?	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_28	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_175	Zakon_o_radu_clanak_7	Zakon_o_radu_clanak_54	Zakon_o_radu_clanak_15	Zakon_o_radu_clanak_95	Zakon_o_radu_clanak_35	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. Tekst zakona koji ste mi ustupili sadrži odredbe o radnom odnosu, zaštiti radnika, školovanju i obrazovanju radnika, kao i drugim pitanjima vezanim uz radni odnos. Me?utim, nema nikakvih odredbi o dozvolama potrebnim za gradnju ku?e. Ako ste tražili informacije o gradnji ku?e, preporu?ujem vam da se obratite ustanovi ili službi koja se bavi izdanjem gradilišta ili drugim pitanjima vezanim uz gradnju.	0.0603161	29.8131701
+T50	prividno	Kolika je naknada za bolovanje?	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_81	Zakon_o_radu_clanak_231	Zakon_o_radu_clanak_108	Zakon_o_radu_clanak_87	Zakon_o_radu_clanak_90	Zakon_o_zastiti_potrosaca_clanak_14	Zakon_o_radu_clanak_228	Zakon_o_zastiti_potrosaca_clanak_69	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje jer u datom tekstu zakona nije spomenuta naknada za bolovanje.	0.0410067	28.5688871
+T51	izvan	Daj mi recept za pala?inke.	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_118	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	Zakon_o_zastiti_potrosaca_clanak_42	Zakon_o_zastiti_potrosaca_clanak_5	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_35	Zakon_o_radu_clanak_55	Zakon_o_zastiti_potrosaca_clanak_17	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. Recept za pala?inke nije povezan s tekstom zakona koji ste mi ustupili.	0.0672787	7.6542916
+T52	izvan	Kolika je udaljenost Zemlje od Sunca?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_93	Zakon_o_zastiti_potrosaca_clanak_72	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_34	Zakon_o_radu_clanak_86	Zakon_o_radu_clanak_35	Zakon_o_radu_clanak_36	Zakon_o_radu_clanak_65	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. Pitanje se odnosi na astronomiju i fiziku, a ne na pravne ili radne odnose. Ako ste tražili informaciju o udaljenosti Zemlje od Sunca, mogu vam re?i da je ona oko 149,6 milijuna kilometara. Me?utim, ovo nije pitanje vezano za zakon, pa ne mogu odgovoriti na temelju prona?enih ?lanaka zakona.	0.0613524	27.8289931
+T53	izvan	Preporu?i mi dobar film za vikend.	Zakon_o_radu_clanak_93	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_81	Zakon_o_zastiti_potrosaca_clanak_24	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_80	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	Zakon_o_radu_clanak_75	Zakon_o_radu_clanak_72	Ne mogu odgovoriti na vaše pitanje jer tekst zakona koji ste mi dostavili ne sadrži informacije o filmovima ili preporukama za vikend. Tekst sadrži informacije o radnom zakonu, pla?i, odmoru i zdravstvenoj zaštiti radnika. Ako ste zainteresirani za preporuke za film, mogu vam preporu?iti da pogledate internetske stranice kao što su IMDb ili Rotten Tomatoes, koji sadrže pregled i preporuke za razli?ite filmove.	0.0325596	28.9112237
+T54	izvan	Kako se kuha rižoto?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_zastiti_potrosaca_clanak_140	Zakon_o_radu_clanak_17	Zakon_o_radu_clanak_207	Zakon_o_radu_clanak_71	Zakon_o_radu_clanak_28	Zakon_o_zastiti_potrosaca_clanak_5	Zakon_o_radu_clanak_35	Zakon_o_radu_clanak_60_dio_2	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. Pitanje se odnosi na kuhinjsku pripremu rižota, a ne na pravne ili radne odnose. Ako ste zainteresirani za informacije o pravima radnika ili zakonskim odredbama, bi?u sre?an da vam pomognem.	0.0934581	27.7859227
+T55	izvan	Koja je najviša planina na svijetu?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_174	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	Zakon_o_radu_clanak_207	Zakon_o_radu_clanak_49	Zakon_o_radu_clanak_28	Zakon_o_radu_clanak_17	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_168	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. Zakon koji ste mi dostavili nije vezan za geografiju, planine ili svjetske rekorder, ve? se uglavnom bavi pravima i obvezama u radno-pravnom odnosu, zaštitom radnika, registrom udruga i drugim temama vezanim za radno-pravo i upravno pravo.	0.0453039	27.6535321
+T56	izvan	Napiši kratku pjesmu o moru.	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	Zakon_o_zastiti_potrosaca_clanak_72	Zakon_o_radu_clanak_118	Zakon_o_zastiti_potrosaca_clanak_59	Zakon_o_radu_clanak_14	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_11_dio_2	Zakon_o_radu_clanak_35	"Kao napredni pravni asistent, moram napomenuti da tekst zakona koji ste mi dostavili ne sadrži nikakve informacije o moru ili pjesmi. Zakon se bavi pravima radnika, ugovorima o radu, pla?ama i drugim radnim odnosima.
+
+Me?utim, ako želite, mogu vam napisati kratku pjesmu o moru, ali to ne?e biti u skladu s vašim zahtjevom da odgovorim na pitanje temeljem ustupljenog teksta zakona.
+
+Ako želite, mogu vam napisati kratku pjesmu o moru:
+
+""Mora je velik, mora je širok,
+Mora je plitak, mora je dubok.
+Mora je hladan, mora je vru?,
+Mora je lijep, mora je divan.
+
+Mora je dom brojnih životinja,
+Mora je dom brojnih riba.
+Mora je dom brojnih brodova,
+Mora je dom brojnih ljudi.
+
+Mora je tajanstven, mora je divan,
+Mora je lijep, mora je širok.
+Mora je naš dom, mora je naša ljubav,
+Mora je naša ?ast, mora je naša ?ast.""
+
+Ali, kao što sam rekao, ova pjesma nije u skladu s vašim zahtjevom da odgovorim na pitanje temeljem ustupljenog teksta zakona."	0.1057925	29.0031961
+T57	izvan	Koliko je 25 puta 17?	Zakon_o_radu_clanak_19	Zakon_o_radu_clanak_19_dio_2	Zakon_o_zastiti_potrosaca_clanak_24	Zakon_o_radu_clanak_19_dio_3	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_20	Zakon_o_zastiti_potrosaca_clanak_38_dio_2	Zakon_o_radu_clanak_221_dio_15	Zakon_o_radu_clanak_21	Korisnikovo pitanje nije vezano za tekst zakona, pa ne mogu odgovoriti na temelju prona?enih ?lanaka zakona.	0.0753905	38.6728164
+T58	izvan	Kakvo ?e vrijeme biti sutra u Splitu?	Zakon_o_radu_clanak_60_dio_2	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_121	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_4	Zakon_o_radu_clanak_85	Zakon_o_radu_clanak_84	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_7	Zakon_o_radu_clanak_60	S obzirom na to da tekst zakona ne sadrži informacije o vremenu u Splitu, ne mogu odgovoriti na to pitanje. Me?utim, mogu vam preporu?iti da pogledate vremensku prognozu za Split ili da se obratite meteorološkom službi za to?nije informacije.	0.058232	27.7123759
+T59	izvan	Tko je osvojio Svjetsko nogometno prvenstvo 2018.?	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_2	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_4	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_zastiti_potrosaca_clanak_5	Zakon_o_radu_clanak_174	Zakon_o_radu_clanak_129	Zakon_o_radu_clanak_207	Zakon_o_radu_clanak_147	Zakon_o_radu_clanak_201	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje. Zakon koji ste mi dostavili nije vezan za nogomet ili nogometna prvenstva, ve? se bavi pravilima za trgovce s potroša?ima, registrom udruga, kolektivnim ugovorima i drugim pravilima vezanim za rad i poslovanje.	0.0597457	17.7796431
+T60	izvan	Objasni kako radi fotosinteza.	Zakon_o_radu_clanak_28	ZAKON_O_DRŽAVNIM_BLAGDANIMA_SPOMENDANIMA_I_NERADNIM DANIMA_clanak_1	Zakon_o_radu_clanak_7	Zakon_o_radu_clanak_72	Zakon_o_radu_clanak_17	Zakon_o_radu_clanak_93	Zakon_o_radu_clanak_32	Zakon_o_radu_clanak_35	Zakon_o_radu_clanak_54	Na temelju prona?enih ?lanaka zakona, ne mogu odgovoriti na ovo pitanje.	0.0607657	26.6882747

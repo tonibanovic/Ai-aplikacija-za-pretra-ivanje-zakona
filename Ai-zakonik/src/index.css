@@ -1,0 +1,364 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    height: 100vh; /* Promijenjeno s min-height na fiksno height da se aplikacija zaključa na ekranu */
+    display: flex;
+    flex-direction: column;
+}
+
+.Header-div {
+    height: 59px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #1B4079;
+}
+
+#menu {
+    height: 35px;
+    width: 35px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    background-color: white;
+    border: none; 
+    border-radius: 25%; 
+    overflow: hidden; 
+    padding: 5px;
+    margin-left: 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+
+#menu:hover {
+    transform: scale(1.1);
+}
+
+#profile {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    border-color: white;
+    border-style: solid;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 0px;
+    transition: 0.2s ease;
+    background-color: white;
+}
+
+#profile:hover {
+    transform: scale(1.1);
+}
+
+.profile {
+    height: 40px;
+    width: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+#Ai-zakonik {
+    margin-top: 10px;
+    color: white;
+}
+
+#Povijest{
+    color:white;
+}
+
+/*flex: 1 tjera ovaj dio da pojede sav prostor između headera i footera i ukloni bijelu crtu */
+.body-container {
+  display: flex;
+  width: 100%;
+  flex: 1; 
+  background-color: #4D7C8A; 
+  overflow: hidden; /* Sprječava da se cijeli ekran skrola, skrolat će se samo chat */
+}
+
+.sidebar-menu {
+  width: 0px;
+  overflow: hidden;
+  transition: width 0.3s ease;
+  flex-shrink: 0; 
+  background-color: #3b5f6a;
+ 
+}
+
+/* Kada se na kontejneru pojavi klasa iz Reacta, raširi meni */
+.body-container.menu-otvoren .sidebar-menu {
+  width: 250px; 
+}
+
+.povijest-lista {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.povijest-stavka {
+    padding: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    margin: 4px 0;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    color: #ffffff; 
+    font-size: 0.9rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.povijest-stavka:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+
+
+.body {
+  flex: 1; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+  justify-content: space-between;
+}
+
+
+.chat-space {
+    width: 100%;
+    max-width: 900px; 
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    overflow-y: auto; 
+    box-sizing: border-box;
+}
+
+.chat-space::-webkit-scrollbar {
+    display: none;
+}
+
+
+.chat-space {
+    -ms-overflow-style: none;  /* IE i stari Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+
+.message-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* Korisnik ide desno */
+.message-container.user {
+    align-items: flex-end;
+}
+
+/* AI ide lijevo */
+.message-container.ai {
+    align-items: flex-start;
+}
+
+/* --- BALONČIĆI ZA CHAT --- */
+
+.chat-bubble {
+    padding: 12px 18px;
+    border-radius: 18px;
+    max-width: 75%;
+    font-size: 16.5px;
+    line-height: 1.5;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Stil za poruku */
+.chat-bubble.user {
+    background-color: #1B4079;
+    color: white;
+    border-bottom-right-radius: 4px; 
+}
+
+/* Stil za AI odgovor */
+.chat-bubble.ai {
+    background-color: #ffffff;
+    color: #333333;
+    border-bottom-left-radius: 4px;
+}
+
+
+
+.izvori-kontejner {
+    width: 100%;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+.izvori-naslov {
+    font-size: 13px;
+    color: #f0f0f0;
+    font-weight: bold;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+
+.kartice-mreza {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 12px;
+    width: 100%;
+    align-items: start; 
+    box-sizing: border-box;
+}
+
+
+.izvor-kartica {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-left: 5px solid #1B4079; 
+    border-radius: 8px;
+    padding: 14px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease; 
+    display: flex;
+    flex-direction: column; 
+    cursor: pointer;
+    min-height: 120px; 
+    height: auto;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.izvor-kartica:hover {
+    transform: translateY(-2px); 
+    box-shadow: 0 6px 12px rgba(0,0,0,0.12);
+}
+
+
+.izvor-zaglavlje {
+    height: 75px; 
+    overflow: hidden; 
+    display: flex;
+    flex-direction: column;
+}
+
+.izvor-kartica.otvorena .izvor-zaglavlje {
+    height: auto;
+    overflow: visible;
+    margin-bottom: 4px;
+}
+
+.izvor-kartica h4 {
+    margin: 0 0 4px 0;
+    font-size: 13px;
+    color: #1B4079;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.izvor-kartica h5.izvor-clanak-broj {
+    margin: 0 0 8px 0;
+    font-size: 15px;
+    color: #666666;
+    font-weight: 600;
+}
+
+.izvor-tekst-otvoren {
+    margin: 12px 0 16px 0;
+    font-size: 16px;
+    color: #444444;
+    line-height: 1.5;
+    text-align: left;
+    border-top: 1px solid #e0e0e0; 
+    padding-top: 8px;
+}
+
+
+.prikazi-vise-kontejner {
+    display: flex;
+    justify-content: flex-end; 
+    margin-top: auto; 
+    padding-top: 10px;
+}
+
+.gumb-tekst {
+    font-size: 13px;
+    font-weight: 700; 
+    color: #1B4079;
+    text-transform: uppercase; 
+    letter-spacing: 0.5px;
+    user-select: none; 
+}
+
+
+
+
+.loading-tekst {
+    color: #f0f0f0;
+    font-style: italic;
+    font-size: 14px;
+    align-self: flex-start;
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% { opacity: 0.6; }
+    50% { opacity: 1; }
+    100% { opacity: 0.6; }
+}
+
+
+.placeholder {
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 24px; 
+    padding: 6px 16px;
+    background-color: white;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    width: 100%;
+    max-width: 700px;
+    box-sizing: border-box;
+    margin-top: 5px;
+}
+
+input {
+    flex: 1;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+#send_button {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+#send_button:hover {
+    transform: scale(1.1);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1B4079; 
+    color: white;
+    
+}
