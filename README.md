@@ -23,11 +23,13 @@ Na 3. liniji koda pronađite varijablu za ključ i unutar navodnika zalijepite s
 4. Ručno pokretanje (ako ne koristite Docker):
     Backend:
 	cd Program
-        pip install -r requirements.txt
-        python main.py
+       	py -m pip install -r requirements.txt
+   		py -m chroma_db.py
+        py main.py
     Frontend:
 	New Terminal
         cd Ai-zakonik
+   		Prekopirati naredbu: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
         npm install
         npm run dev
 
